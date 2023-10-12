@@ -1,327 +1,328 @@
-﻿# TODO: Translation updated at 2023-05-08 19:41
+# TODO: Translation updated at 2023-05-08 19:41
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:62
-translate english destitute1_scene1_6_91493f45:
+translate spanish destitute1_scene1_6_91493f45:
 
     # "Аккуратно протиснувшись между ветками, она услышала чей-то разговор. Говорили двое, с явной одышкой, как после длительной пробежки. Судя по высоким и писклявым голосам, это были какие-то маленькие девочки."
-    "Squeezing carefully between the branches, she heard someone talking. They were the voices of two people, clearly out of breath, like after having a long run. Judging by their high, squeaky voices, they seemed to be little girls."
+    "Apretujándose con cuidado entre las ramas, escuchó a alguien hablar. Eran las voces de dos personas, claramente sin aliento, como después de una larga carrera. A juzgar por sus voces agudas y chirriantes, parecían ser niñas pequeñas."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:66
-translate english destitute1_scene1_6_fbfbff0b:
+translate spanish destitute1_scene1_6_fbfbff0b:
 
     # _("Девочка 1") "Ха-а… Ху-ух…{w} Что ты натворила?!"
-    _("Girl 1") "Ahh... Uhh...{w} What have you done?!"
+    _("Niña 1") "¡Ahh... Uhh...{w} ¡¿Qué has hecho?!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:68
-translate english destitute1_scene1_6_c0d41685:
+translate spanish destitute1_scene1_6_c0d41685:
 
     # _("Девочка 2") "Ха-а…{w} Я?! Да ты сама направила свет не туда!"
-    _("Girl 2") "Huh...{w} Me?! It’s you who sent the light the wrong way!"
+    _("Niña 2") "Huh...{w} ¡¿Yo?! ¡Eres tú quien dirigió la luz en la dirección equivocada!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:70
-translate english destitute1_scene1_6_5d94543f:
+translate spanish destitute1_scene1_6_5d94543f:
 
     # _("Девочка 1") "Я всё сделала правильно!.. Она же не бежит за нами?"
-    _("Girl 1") "I did NOT!.. She’s not chasing us, is she?"
+    _("Niña 1") "¡Yo NO hice eso!.. ¿Ella no nos está persiguiendo, verdad?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:72
-translate english destitute1_scene1_6_8d4cdf73:
+translate spanish destitute1_scene1_6_8d4cdf73:
 
     # _("Девочка 2") "Вроде бы нет…"
-    _("Girl 2") "I don't think so…"
+    _("Niña 2") "No creo que lo esté..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:76
-translate english destitute1_scene1_6_37fe11ce:
+translate spanish destitute1_scene1_6_37fe11ce:
 
     # "Рейму с недовольным видом раздвинула растительность прямо над их головами."
-    "Reimu pushed apart the branches just above their heads with a discontented look on her face."
+    "Reimu separó las ramas justo encima de sus cabezas con una expresión de descontento en su rostro."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:85
-translate english destitute1_scene1_6_6ac22273:
+translate spanish destitute1_scene1_6_6ac22273:
 
     # rei "Эй! Что это вы там делаете?!"
-    rei "Hey! What are you doing here?!"
+    rei "¡Oye! ¿Qué están haciendo aquí?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:87
-translate english destitute1_scene1_6_237a2246:
+translate spanish destitute1_scene1_6_237a2246:
 
     # _("Девочка 1") "Й-и-и!" (multiple=2)
-    _("Girl 1") "Eeeek!" (multiple=2)
+    _("Niña 1") "¡Aaaah!" (multiple=2)
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:89
-translate english destitute1_scene1_6_88baf1d2:
+translate spanish destitute1_scene1_6_88baf1d2:
 
     # _("Девочка 2") "Й-и-и!" (multiple=2)
-    _("Girl 2") "Eeeek!" (multiple=2)
+    _("Niña 2") "¡Aaaah!" (multiple=2)
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:91
-translate english destitute1_scene1_6_6fe2b98e:
+translate spanish destitute1_scene1_6_6fe2b98e:
 
     # "Они завизжали и бросились от неё сквозь кусты. Рейму кинулась вдогонку."
-    "They both screamed and bolted in opposite directions. Reimu immediately chased after them."
+    "Ambas gritaron y corrieron en direcciones opuestas. Reimu las persiguió de inmediato."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:93
-translate english destitute1_scene1_6_504874b8:
+translate spanish destitute1_scene1_6_504874b8:
 
     # "В темноте было практически невозможно разобрать дорогу, но благо что одна из девочек держала в руке какой-то светильник, выдававший её местоположение."
-    "It was almost impossible to make out the road in the dark, but fortunately, one of the girls had some kind of lantern in her hand, exposing her location."
+    "Era casi imposible distinguir el camino en la oscuridad, pero afortunadamente, una de las niñas tenía algún tipo de linterna en la mano, lo que revelaba su ubicación."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:95
-translate english destitute1_scene1_6_ac5d0d42:
+translate spanish destitute1_scene1_6_ac5d0d42:
 
     # "Жрице не составило труда в несколько скачков нагнать и схватить её."
-    "The shrine maiden had no trouble catching up and grabbing her in a few leaps."
+    "A la sacerdotisa del santuario no le costó trabajo alcanzarlas y agarrar a una de ellas en unos pocos saltos."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:97
-translate english destitute1_scene1_6_a6347925:
+translate spanish destitute1_scene1_6_a6347925:
 
     # _("Девочка") "А-а! Стой!"
-    _("Girl") "Ah! Wait!"
+    _("Niña") "¡Ah! ¡Espera!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:101
-translate english destitute1_scene1_6_c72b5c20:
+translate spanish destitute1_scene1_6_c72b5c20:
 
     # "Наконец рассмотрев её, Рейму обнаружила, что держит знакомую фею по имени Клаунпис."
-    "After finally getting a good look at her, Reimu realized who she was holding now in her hands - Clownpiece, a fairy she knew."
+    "Finalmente, al mirarla detenidamente, Reimu se dio cuenta de quién tenía ahora en sus manos: Clownpiece, una hada que conocía."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:103
-translate english destitute1_scene1_6_89576f57:
+translate spanish destitute1_scene1_6_89576f57:
 
     # "Не так давно она сильно помогла жрице, победив Сокрытую богиню, Окину Матару, и разрешив таким образом назревающий инцидент."
-    "Not long ago, she helped the shrine maiden greatly by defeating the Secret God, Okina Matara, and thus, resolving a pending Incident."
+    "Hace poco tiempo, ayudó mucho a la doncella del santuario al derrotar a la Diosa Oculta, Okina Matara, y de esta manera, resolver un Incidente pendiente."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:105
-translate english destitute1_scene1_6_33802b3e:
+translate spanish destitute1_scene1_6_33802b3e:
 
     # clown "Не-е-ет! Не ешь меня-я-я!"
-    clown "No, please! Don't eat me-e!"
+    clown "No, ¡por favor! ¡No me comas!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:114
-translate english destitute1_scene1_6_41503eca:
+translate spanish destitute1_scene1_6_41503eca:
 
     # rei "Успокойся, это я."
-    rei "Calm down; it's me."
+    rei "Cálmate, soy yo."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:116
-translate english destitute1_scene1_6_5ab6003b:
+translate spanish destitute1_scene1_6_5ab6003b:
 
     # clown "Р-Рейму?.."
-    clown "R-Reimu?.."
+    clown "¿R-Reimu?.."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:125
-translate english destitute1_scene1_6_99b68dbc:
+translate spanish destitute1_scene1_6_99b68dbc:
 
     # rei "Кто ж ещё. Ты не видела, кто тут выл?"
-    rei "Who else? Didn't you see who was howling?"
+    rei "¿Quién más? ¿No viste quién estaba aullando?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:127
-translate english destitute1_scene1_6_3edcc194:
+translate spanish destitute1_scene1_6_3edcc194:
 
     # clown "А-а... Это всё та баке-дануки! Она напугала нас!"
-    clown "Ahh... It's that bake-danuki! She scared us!"
+    clown "Ahh... ¡Es esa bake-danuki! ¡Nos asustó!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:136
-translate english destitute1_scene1_6_f38e2f5d:
+translate spanish destitute1_scene1_6_f38e2f5d:
 
     # rei "Баке-дануки?"
-    rei "Bake-danuki?"
+    rei "¿Bake-danuki?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:138
-translate english destitute1_scene1_6_b824fa00:
+translate spanish destitute1_scene1_6_b824fa00:
 
     # clown "Да-да! Она шла по лесу с какой-то девочкой, а потом как заорала и набросилась на неё! Мы так перепугались, что убежали!"
-    clown "Yes! She was walking through the woods with some girl, but then she suddenly screamed and attacked her! We were so scared that we ran away!"
+    clown "¡Sí! ¡Ella estaba caminando por el bosque con una chica, pero luego de repente gritó y la atacó! ¡Nos asustamos tanto que salimos corriendo!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:147
-translate english destitute1_scene1_6_8655e818:
+translate spanish destitute1_scene1_6_8655e818:
 
     # rei "А-а, вот оно что..."
-    rei "A-ah, that's what it was..."
+    rei "Ah, eso es lo que fue..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:156
-translate english destitute1_scene1_6_e5b25887:
+translate spanish destitute1_scene1_6_e5b25887:
 
     # rei "У той баке-дануки был большой хвост?"
-    rei "Did that bake-danuki have a big tail?"
+    rei "¿Esa bake-danuki tenía una cola grande?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:158
-translate english destitute1_scene1_6_babf823b:
+translate spanish destitute1_scene1_6_babf823b:
 
     # clown "Очень большой! Почти что больше её самой!"
-    clown "It was very big! Almost bigger than she was!"
+    clown "¡Era muy grande! ¡Casi más grande que ella!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:167
-translate english destitute1_scene1_6_7f286c96:
+translate spanish destitute1_scene1_6_7f286c96:
 
     # rei "Ну тогда это точно Мамидзо."
-    rei "Well then, there’s no doubt. That was definitely Mamizou."
+    rei "Bueno, entonces no hay duda. Eso definitivamente fue Mamizou."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:176
-translate english destitute1_scene1_6_8e637bc1:
+translate spanish destitute1_scene1_6_8e637bc1:
 
     # rei "Ну тогда это точно Мамидзо.{fast} Она была очень страшной?"
-    rei "Well then, there’s no doubt. That was definitely Mamizou.{fast} Did she look very scary?"
+    rei "Bueno, entonces no hay duda. Eso definitivamente fue Mamizou.{fast} ¿Parecía muy aterradora?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:178
-translate english destitute1_scene1_6_1541355b:
+translate spanish destitute1_scene1_6_1541355b:
 
     # clown "Д-да… У меня до сих пор мурашки по коже!"
-    clown "Y-yes... I still have goosebumps!"
+    clown "S-sí... ¡Todavía tengo escalofríos!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:187
-translate english destitute1_scene1_6_b520fb66:
+translate spanish destitute1_scene1_6_b520fb66:
 
     # rei "А говорила, что надо с ней полегче…"
-    rei "And she said we should go easy on her…"
+    rei "Y ella dijo que deberíamos ser amables con ella..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:189
-translate english destitute1_scene1_6_dbea289a:
+translate spanish destitute1_scene1_6_dbea289a:
 
     # "Фея озадаченно уставилась на Рейму."
-    "The fairy stared at Reimu, puzzled."
+    "El hada miró fijamente a Reimu, desconcertada."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:191
-translate english destitute1_scene1_6_b64c032d:
+translate spanish destitute1_scene1_6_b64c032d:
 
     # clown "Э-э?"
-    clown "Huh?"
+    clown "¿E-eh?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:200
-translate english destitute1_scene1_6_0d29a41e:
+translate spanish destitute1_scene1_6_0d29a41e:
 
     # rei "Да не обращай внимания — это наш с ней маленький план."
-    rei "Don't mind me - it's our little plan."
+    rei "No me hagas caso, es nuestro pequeño plan."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:202
-translate english destitute1_scene1_6_7b82c412:
+translate spanish destitute1_scene1_6_7b82c412:
 
     # clown "А ты..."
-    clown "So you..."
+    clown "Así que tú..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:211
-translate english destitute1_scene1_6_02bcb6d0:
+translate spanish destitute1_scene1_6_02bcb6d0:
 
     # rei "Я обо всём в курсе, да. Всё это спланировано."
-    rei "I'm aware of everything, yes. It's all planned."
+    rei "Soy consciente de todo, sí. Todo está planeado."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:213
-translate english destitute1_scene1_6_3602529b:
+translate spanish destitute1_scene1_6_3602529b:
 
     # rei "Ту девочку, с которой эта баке-дануки шла, надо немного проучить ради её же блага."
-    rei "That girl this bake-danuki was walking with needs to be taught a little lesson for her own good."
+    rei "Esa chica con la que estaba esta bake-danuki necesita que le den una pequeña lección por su propio bien."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:215
-translate english destitute1_scene1_6_a3c2132d:
+translate spanish destitute1_scene1_6_a3c2132d:
 
     # clown "..."
     clown "..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:224
-translate english destitute1_scene1_6_27abf67c:
+translate spanish destitute1_scene1_6_27abf67c:
 
     # rei "Да не бойся, чего ты? Мамидзо же не на тебя набросилась."
-    rei "Don't be afraid. It's not like Mamizou attacked you."
+    rei "No tengas miedo. No es como si Mamizou te hubiera atacado."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:226
-translate english destitute1_scene1_6_1d4b15fd:
+translate spanish destitute1_scene1_6_1d4b15fd:
 
     # clown "Х-хорошо..."
-    clown "O-okay..."
+    clown "V-vale..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:235
-translate english destitute1_scene1_6_47504cdf:
+translate spanish destitute1_scene1_6_47504cdf:
 
     # rei "Только не мешайте им, это очень важно, хорошо?"
-    rei "Just don't get in their way; it's very important, okay?"
+    rei "Simplemente no te interpongas en su camino; es muy importante, ¿vale?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:237
-translate english destitute1_scene1_6_83f9b484:
+translate spanish destitute1_scene1_6_83f9b484:
 
     # clown "Угу..."
-    clown "Uh-huh..."
+    clown "S-sí..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:239
-translate english destitute1_scene1_6_7fc478d0:
+translate spanish destitute1_scene1_6_7fc478d0:
 
     # rei "Ну и славно. Бывай!"
-    rei "All right, then. So long!"
+    rei "Muy bien, entonces. ¡Hasta luego!"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:243
-translate english destitute1_scene1_6_29d8c813:
+translate spanish destitute1_scene1_6_29d8c813:
 
     # "Она взлетела и направилась назад к ожидающей её толпе деревенских жителей."
-    "She took off and headed back towards the waiting crowd of villagers."
+    "Se elevó y se dirigió de regreso hacia la multitud de aldeanos esperándola."
+    
 # TODO: Translation updated at 2023-06-21 15:58
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:63
-translate english destitute1_scene1_6_a1b5c46a:
+translate spanish destitute1_scene1_6_a1b5c46a:
 
     # "Аккуратно протиснувшись между ветками, она услышала чей-то разговор."
-    "Squeezing carefully between the branches, she heard someone talking."
+    "Apresurándose con cuidado entre las ramas, escuchó a alguien hablar."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:65
-translate english destitute1_scene1_6_06d8ec83:
+translate spanish destitute1_scene1_6_06d8ec83:
 
     # "Говорили двое, с явной одышкой, как после длительной пробежки. Судя по высоким и писклявым голосам, это были какие-то маленькие девочки."
-    "They were two voices, clearly out of breath, like after having a long run. Judging by their high, squeaky sounds, they seemed to be little girls."
+    "Eran dos voces, claramente sin aliento, como después de correr mucho. A juzgar por sus voces agudas y chillonas, parecían ser niñas pequeñas."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:71
-translate english destitute1_scene1_6_c653be3c:
+translate spanish destitute1_scene1_6_c653be3c:
 
     # _("Девочка 1") "Я всё сделала правильно!..{w} Она же не бежит за нами?"
-    _("Girl 1") "I did NOT!..{w} She’s not chasing us, is she?"
+    _("Niña 1") "¡Yo NO hice eso!.. ¿Ella no nos está persiguiendo, verdad?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:161
-translate english destitute1_scene1_6_eb640e22:
+translate spanish destitute1_scene1_6_eb640e22:
 
     # clown "А-а..."
-    clown "Ahh..."
+    clown "A-ah..."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:168
-translate english destitute1_scene1_6_cf3b31f6:
+translate spanish destitute1_scene1_6_cf3b31f6:
 
     # clown "Это всё та баке-дануки! Она напугала нас!"
-    clown "It's that bake-danuki! She scared us!"
+    clown "¡Es esa bake-danuki! ¡Nos asustó!"
 
-translate english strings:
+translate spanish strings:
 
     # game/script/destitute_chapter/day1/scene1_6.rpy:54
     old "Лес около храма Хакурей"
-    new "Forest near Hakurei Shrine"
+    new "Bosque cerca del Santuario Hakurei"
 
     # game/script/destitute_chapter/day1/scene1_6.rpy:56
     old "Вечер"
-    new "Evening"
+    new "Atardecer"
 
 # TODO: Translation updated at 2023-07-05 04:57
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:130
-translate english destitute1_scene1_6_470dfbe1:
+translate spanish destitute1_scene1_6_470dfbe1:
 
     # "Наконец рассмотрев её, Рейму обнаружила, что держит знакомую {a=showmenu:dictionary}{color=#df1818}фею{/color}{/a} по имени Клаунпис."
-    "After finally getting a good look at her, Reimu realized who she was holding now in her hands - Clownpiece, a {a=showmenu:dictionary}{color=#df1818}fairy{/color}{/a} she knew."
+    "Finalmente, al observarla detenidamente, Reimu se dio cuenta de quién tenía ahora en sus manos: Clownpiece, una {a=showmenu:dictionary}{color=#df1818}hada{/color}{/a} que conocía."
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:139
-translate english destitute1_scene1_6_69f4fa64:
+translate spanish destitute1_scene1_6_69f4fa64:
 
     # "Не так давно {a=showmenu:dictionary}{color=#df1818}она{/color}{/a} сильно помогла жрице, победив Сокрытую богиню, Окину Матару, и {a=show:prompt}{color=#d9f136}разрешив таким образом назревающий инцидент{/color}{/a}."
-    "Not long ago, {a=showmenu:dictionary}{color=#df1818}she{/color}{/a} helped the shrine maiden greatly by defeating the Secret God, Okina Matara, and thus, {a=show:prompt}{color=#d9f136}resolving a pending Incident{/color}{/a}."
+    "Hace poco tiempo, {a=showmenu:dictionary}{color=#df1818}ella{/color}{/a} ayudó enormemente a la doncella del santuario al derrotar a la Diosa Secreta, Okina Matara, y así, {a=show:prompt}{color=#d9f136}resolviendo un Incidente pendiente.{/color}{/a}."
 
-translate english strings:
+translate spanish strings:
 
     # game/script/destitute_chapter/day1/scene1_6.rpy:69
     old "Девочка 1"
-    new "Girl 1"
+    new "Chica 1"
 
     # game/script/destitute_chapter/day1/scene1_6.rpy:71
     old "Девочка 2"
-    new "Girl 2"
+    new "Chica 2"
 
     # game/script/destitute_chapter/day1/scene1_6.rpy:110
     old "Девочка"
-    new "Girl"
+    new "Chica"
 
     # game/script/destitute_chapter/day1/scene1_6.rpy:137
     old "События манги «Visionary Fairies in Shrine»."
-    new "The events of the \"Visionary Fairies in Shrine\" manga."
+    new "Los eventos del manga \"Visionary Fairies in Shrine\"."
 

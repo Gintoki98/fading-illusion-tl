@@ -1,186 +1,186 @@
-﻿# TODO: Translation updated at 2023-05-08 19:41
+# TODO: Translation updated at 2023-05-08 19:41
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:64
-translate english destitute1_scene3_11_1890b40a:
+translate spanish destitute1_scene3_11_1890b40a:
 
     # "Впрочем, по пути домой Рейму почувствовала, что готова вот-вот свалиться от усталости."
-    "On the way home, though, Reimu felt she was about to collapse from fatigue."
+    "Sin embargo, en el camino a casa, Reimu sintió que estaba a punto de colapsar de cansancio."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:66
-translate english destitute1_scene3_11_213250ff:
+translate spanish destitute1_scene3_11_213250ff:
 
     # "Беготня туда-сюда целый день высосала из неё все силы."
-    "Running back and forth all day sucked all the energy out of her."
+    "Correr de un lado a otro todo el día agotó toda su energía."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:74
-translate english destitute1_scene3_11_27696533:
+translate spanish destitute1_scene3_11_27696533:
 
     # mar "Ну и что будем делать? Откуда начнём поиски?"
-    mar "So what do we do? Where do we start our search?"
+    mar "Entonces, ¿qué haremos? ¿Dónde empezamos nuestra búsqueda?"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:76
-translate english destitute1_scene3_11_b7db4239:
+translate spanish destitute1_scene3_11_b7db4239:
 
     # "Мариса же, напротив, прямо-таки лучилась энергией."
-    "Marisa, on the other hand, was just radiating with energy."
+    "Marisa, por otro lado, irradiaba energía por todas partes."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:85
-translate english destitute1_scene3_11_793b10cc:
+translate spanish destitute1_scene3_11_793b10cc:
 
     # rei "А ты хочешь искать Мамидзо сейчас?"
-    rei "Do you want to look for Mamizou now?"
+    rei "¿Quieres buscar a Mamizou ahora?"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:93
-translate english destitute1_scene3_11_98fb172b:
+translate spanish destitute1_scene3_11_98fb172b:
 
     # mar "Ещё как хочу! Надо найти и наказать тех мразей, которые это устроили!"
-    mar "Yes, I do! We have to find and punish the scumbags who did this!"
+    mar "¡Sí, lo quiero! ¡Tenemos que encontrar y castigar a los miserables que hicieron esto!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:101
-translate english destitute1_scene3_11_96d750fe:
+translate spanish destitute1_scene3_11_96d750fe:
 
     # mar "Наконец-то хоть какая-то работа!"
-    mar "Finally some work!"
+    mar "¡Finalmente algo de trabajo!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:110
-translate english destitute1_scene3_11_c4841659:
+translate spanish destitute1_scene3_11_c4841659:
 
     # rei "Ищи её одна! Я уже с ног валюсь!"
-    rei "Look for her by yourself! I'm worn out!"
+    rei "¡Búscala tú misma! ¡Estoy agotada!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:118
-translate english destitute1_scene3_11_c7a0887c:
+translate spanish destitute1_scene3_11_c7a0887c:
 
     # mar "Да ты просто боишься!"
-    mar "You're just scared!"
+    mar "¡Solo tienes miedo!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:127
-translate english destitute1_scene3_11_b9d0cad2:
+translate spanish destitute1_scene3_11_b9d0cad2:
 
     # rei "Было бы чего бояться! Она себе полтела должна была сжечь, когда прорывалась сквозь мой барьер!"
-    rei "There's good reason to be afraid! She must have burned half of her body when she broke through my barrier!"
+    rei "¡Hay buenas razones para tener miedo! Debe haber quemado la mitad de su cuerpo al romper mi barrera."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:135
-translate english destitute1_scene3_11_063e83aa:
+translate spanish destitute1_scene3_11_063e83aa:
 
     # mar "Хе-хе, облегчаешь мне задачу?"
-    mar "Hehe, making it easy for me?"
+    mar "Jeje, ¿me lo estás poniendo fácil?"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:144
-translate english destitute1_scene3_11_f30bd158:
+translate spanish destitute1_scene3_11_f30bd158:
 
     # rei "Лучше ты облегчи задачу мне!"
-    rei "You better make it easy for me!"
+    rei "Más te vale facilitármelo."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:152
-translate english destitute1_scene3_11_eae41fa0:
+translate spanish destitute1_scene3_11_eae41fa0:
 
     # mar "А где нашла их?"
-    mar "Where did you find them?"
+    mar "¿Dónde los encontraste?"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:161
-translate english destitute1_scene3_11_dadf05f7:
+translate spanish destitute1_scene3_11_dadf05f7:
 
     # rei "К северу от моего храма поляна с большим булыжником в центре, на булыжнике вмятина от удара, — начинай поиски оттуда!"
-    rei "North of my shrine is a clearing with a large boulder in the center; the boulder has a dent from the blow — you can start your search from there!"
+    rei "Al norte de mi santuario hay un claro con una gran roca en el centro; la roca tiene una muesca del golpe — puedes comenzar tu búsqueda desde allí."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:169
-translate english destitute1_scene3_11_5229a150:
+translate spanish destitute1_scene3_11_5229a150:
 
     # mar "Тогда встретимся завтра?"
-    mar "Shall we meet tomorrow, then?"
+    mar "¿Entonces nos encontramos mañana, verdad?"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:178
-translate english destitute1_scene3_11_eda5e1ef:
+translate spanish destitute1_scene3_11_eda5e1ef:
 
     # rei "Да, давай утром в храме Мёрена!"
-    rei "Yes, let's meet in the morning at the Myouren Temple!"
+    rei "Sí, nos vemos por la mañana en el Templo Myouren."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:186
-translate english destitute1_scene3_11_6224c5ba:
+translate spanish destitute1_scene3_11_6224c5ba:
 
     # mar "Хорошо! Спокойной ночи!"
-    mar "All right! Good night then!"
+    mar "¡Está bien! ¡Buenas noches!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:188
-translate english destitute1_scene3_11_fd8dd36c:
+translate spanish destitute1_scene3_11_fd8dd36c:
 
     # rei "Спокойной!"
-    rei "See you!"
+    rei "¡Hasta luego!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:190
-translate english destitute1_scene3_11_8170fa7c:
+translate spanish destitute1_scene3_11_8170fa7c:
 
     # "Мариса понеслась вперёд, оставив вяло летящую Рейму позади."
-    "Marisa rushed forward, leaving a tired Reimu floating behind."
+    "Marisa avanzó rápidamente, dejando a una cansada Reimu flotando atrás."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:192
-translate english destitute1_scene3_11_b9d4d442:
+translate spanish destitute1_scene3_11_b9d4d442:
 
     # "Действительно, за сегодня Рейму вымоталась донельзя. А благодаря её же действиям, ей предстоит вымотаться ещё и завтра, если, конечно, не произойдёт чуда и Мариса не найдёт в гигантском лесу полудохлого ёкая."
-    "Indeed, Reimu was exhausted beyond belief today. And thanks to her own actions, she would be exhausted tomorrow, unless, of course, a miracle happened and Marisa found a half-dead youkai in the giant forest."
+    "De hecho, Reimu estaba exhausta más allá de toda creencia hoy. Y gracias a sus propias acciones, estaría exhausta mañana, a menos que, por supuesto, ocurriera un milagro y Marisa encontrara un youkai medio muerto en el bosque gigante."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:194
-translate english destitute1_scene3_11_bd3e18ef:
+translate spanish destitute1_scene3_11_bd3e18ef:
 
     # "Но чудес же не бывает, верно? Даже в Генсокё. Бывает только закон подлости."
-    "But there are no miracles, right? Not even in Gensokyo. There's only the law of meanness."
+    "Pero no hay milagros, ¿verdad? Ni siquiera en Gensokyo. Solo existe la ley de la maldad."
 
-translate english strings:
+translate spanish strings:
 
     # game/script/destitute_chapter/day1/scene3_11.rpy:55
     old "Ночь, через час"
-    new "Night, an hour later"
+    new "Noche, una hora después"
 
 # TODO: Translation updated at 2023-06-21 15:58
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:20
-translate english destitute1_scene3_11_7384e6cb:
+translate spanish destitute1_scene3_11_7384e6cb:
 
     # "Впрочем, по пути домой Рейму почувствовала, что готова вот-вот свалиться от усталости. Беготня туда-сюда целый день высосала из неё все силы."
-    "On the way home, though, Reimu felt she was about to collapse from fatigue. Running back and forth all day sucked all the energy out of her."
+    "Sin embargo, de camino a casa, Reimu sintió que estaba a punto de desmayarse de cansancio. Correr de un lado a otro todo el día le drenó toda la energía."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:40
-translate english destitute1_scene3_11_62d55530:
+translate spanish destitute1_scene3_11_62d55530:
 
     # rei "Да и сомневаюсь я, что дух останется в теле Мамидзо после такого!"
-    rei "I doubt the spirit would even remain in Mamizou’s body after that!"
+    rei "Dudo que el espíritu siquiera permanezca en el cuerpo de Mamizou después de eso!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:44
-translate english destitute1_scene3_11_57065d8e:
+translate spanish destitute1_scene3_11_57065d8e:
 
     # rei "Лучше ты облегчи задачу мне и найди её!"
-    rei "You better make it easy for me! Go find her!"
+    rei "Más te vale facilitármelo. ¡Ve a encontrarla!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:46
-translate english destitute1_scene3_11_95fe48a0:
+translate spanish destitute1_scene3_11_95fe48a0:
 
     # mar "Постараюсь!"
-    mar "I'll try!"
+    mar "¡Voy a intentarlo!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:48
-translate english destitute1_scene3_11_215fd019:
+translate spanish destitute1_scene3_11_215fd019:
 
     # mar "А где ты изначально нашла её и Сумиреко?"
-    mar "Where'd you find them first time?"
+    mar "¿Dónde los encontraste la primera vez?"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:52
-translate english destitute1_scene3_11_bb11d014:
+translate spanish destitute1_scene3_11_bb11d014:
 
     # mar "Ага! Я пошарю по окрестностям!"
-    mar "Yeah! I'm gonna search for them!"
+    mar "¡Sí! Voy a buscarlos por ahí!"
 
 # TODO: Translation updated at 2023-07-05 04:57
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:22
-translate english destitute1_scene3_11_c30d7d99:
+translate spanish destitute1_scene3_11_c30d7d99:
 
     # mar "Ну так что будем делать? Откуда начнём поиски?"
-    mar "So what do we do? Where do we start our search?"
+    mar "Entonces, ¿qué hacemos? ¿Por dónde empezamos nuestra búsqueda?"
 
-translate english strings:
+translate spanish strings:
 
     # game/script/destitute_chapter/day1/scene3_11.rpy:9
     old "Горы Генсокё"
-    new "Gensokyo Mountains"
+    new "Montañas de Gensokyo"
 

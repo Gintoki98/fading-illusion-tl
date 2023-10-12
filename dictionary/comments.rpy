@@ -28,6 +28,7 @@ init -11 python:
                                 "name_None": "Фоны",
                                 "name_english": "Backgrounds",
                                 "name_french": "Arrière-plans",
+                                "name_spanish": "Fondos",
                                 "name_portuguese": "Planos de fundo",
                                 "name_schinese": "背景",
                                 "name_tchinese": "背景"
@@ -37,6 +38,7 @@ init -11 python:
                                 "name_None": "Иллюстрации",
                                 "name_english": "Illustrations",
                                 "name_french": "Illustrations",
+                                "name_spanish": "Ilustraciones",
                                 "name_portuguese": "Ilustrações",
                                 "name_schinese": "插画",
                                 "name_tchinese": "插畫"
@@ -46,6 +48,7 @@ init -11 python:
                                 "name_None": "Музыка",
                                 "name_english": "Music",
                                 "name_french": "Musique",
+                                "name_spanish": "Música",
                                 "name_portuguese": "Música",
                                 "name_schinese": "音乐",
                                 "name_tchinese": "音樂"
@@ -187,6 +190,7 @@ init -11 python:
                                 "value": "1",
                                 "name_None": "Персонажи",
                                 "name_english": "Characters",
+                                "name_spanish": "Personajes",
                                 "name_portuguese": "Personagens",
                                 "name_french": "Personnages",
                                 "name_schinese": "角色",
@@ -197,6 +201,7 @@ init -11 python:
                                 "name_None": "Локации",
                                 "name_english": "Locations",
                                 "name_french": "Lieux",
+                                "name_spanish": "Lugares",
                                 "name_portuguese": "Lugares",
                                 "name_schinese": "地点",
                                 "name_tchinese": "地點"
@@ -206,6 +211,7 @@ init -11 python:
                                 "name_None": "Термины",
                                 "name_english": "Terms",
                                 "name_french": "Termes",
+                                "name_spanish": "Términos"                                
                                 "name_portuguese": "Termos",
                                 "name_schinese": "用语",
                                 "name_tchinese": "用語"
@@ -215,6 +221,7 @@ init -11 python:
                                 "name_None": "Расы",
                                 "name_english": "Races",
                                 "name_french": "Races",
+                                "name_spanish": "Razas",
                                 "name_portuguese": "Raças",
                                 "name_schinese": "种族",
                                 "name_tchinese": "種族"
@@ -235,6 +242,8 @@ init -11 python:
             "name_None": "Рейму Хакурей",
 
             "name_english": "Reimu Hakurei",
+
+            "name_spanish": "Reimu Hakurei",
 
             "name_portuguese": "Reimu Hakurei",
 
@@ -267,6 +276,14 @@ Reimu a vécu seule dans le sanctuaire depuis qu'elle est enfant. Yukari Yakumo 
 Malgré son travail exigeant, Reimu est plutôt négligente en ce qui concerne les incidents mineurs, préférant se diriger vers la solution la plus simple possible. Ce qui est compréhensible — elle n'est jamais payée pour ce genre de chose, et son budget a toujours été serré. Néanmoins, elle est intransigeante dans sa croyance envers le principe de « Gensokyo avant tout », alors elle fera tout ce qui est en son pouvoir lorsque quelque chose mettant en danger l'équilibre existant se produit.
 
 En temps que prêtresse du sanctuaire, Reimu est capable d'invoquer les dieux pour réaliser des miracles et possède de vastes connaissances dans le domaine des barrières et sceaux magiques. Elle utilise également des Orbes Yin-Yang, des trésors du Sanctuaire Hakurei capables d'exterminer les youkai par simple contact.""",
+
+            "text_spanish": """Reimu Hakurei es la actual sacerdotisa del Santuario Hakurei.
+
+Reimu ha vivido sola en el santuario desde que era una niña. Yukari Yakumo, de alguna manera, reemplazó a sus padres, ayudándola con consejos y enseñándole cómo convertirse en una verdadera sacerdotisa. Desde que tiene memoria, Reimu ha estado resolviendo incidentes en Gensokyo, exterminando youkai, vigilando la Gran Barrera Hakurei e intentando atraer adoradores a su santuario. Ha tenido éxito en todo eso, excepto en lo último.
+
+A pesar de su trabajo exigente, Reimu es bastante negligente hacia los incidentes menores, prefiriendo optar por la solución más fácil posible. Es comprensible: ya que nunca le pagan por este tipo de cosas y siempre ha tenido dificultades financieras. No obstante, ella es firme en su creencia de \"Gensokyo por encima de todo\"; por lo tanto, hará todo lo que esté en su poder cuando algo sucede que realmente amenaza el equilibrio existente.
+
+Como sacerdotisa, Reimu puede convocar a los dioses para realizar milagros y tiene un vasto conocimiento sobre barreras y sellos. También utiliza Orbes de Yin-Yang, que son tesoros del Santuario Hakurei y pueden exterminar youkai con solo tocarlos.""",
 
             "text_portuguese": """Reimu Hakurei é a atual sacerdotisa do Santuário Hakurei.
 
@@ -305,6 +322,8 @@ Como sacerdotisa, Reimu é capaz de invocar deuses para realizar milagres e tem 
 
             "name_french": "Marisa Kirisame",
 
+            "name_spanish": "Marisa Kirisame",
+
             "name_portuguese": "Marisa Kirisame",
 
             "name_schinese": "雾雨魔理沙",
@@ -334,6 +353,14 @@ Marisa est née dans une famille de marchands du village humain vers la fin du 2
 Un passé comme celui-ci a rendu Marisa assez directe dans sa façon de parler. Elle peut utiliser un langage cru ou paraître arrogante à première vue, mais il est en réalité très facile de bien s'entendre avec elle. Marisa a aussi une autre particularité : elle est sans cesse tentée de voler ou ramasser des choses, quelques qu'elles soient. Elle "emprunte" souvent des affaires aux personnes autour d'elle, et ne les rend que rarement de son plein gré. À cause de cela, sa maison ressemble à un véritable dépotoir.
 
 Tout comme sa meilleure amie Reimu, Marisa gagne sa vie en résolvant des incidents. Elle ne dispose pas des capacités (sur)naturelles de Reimu, mais compense avec la puissance de feu offerte par sa magie. Même les puissants youkai tels que les tengu craignent sa fameuse attaque dénommée « Master Spark ».""",
+
+            "text_spanish": """Marisa Kirisame es una maga especializada en magia de luz y calor. Es humana por especie y aprendió a usar magia; no es maga por nacimiento.
+
+Marisa nació en una familia de tenderos en la aldea humana a finales del siglo XX. Sus padres creían que su única hija debía casarse y heredar el negocio familiar, pero Marisa tenía un gran interés en la magia. Esto resultó en una pelea con sus padres y Marisa se fue de casa, incluso cuando no tenía ni diez años. A pesar de su corta edad, aprendió a vivir de forma independiente y comenzó su viaje para convertirse en una gran maga. Durante años, trabajó duro, devorando libro tras libro, y eventualmente dominó incluso magias capaces de vaporizar montañas.
+
+Este tipo de pasado ha hecho que Marisa sea bastante franca en su comunicación. Puede usar un lenguaje fuerte o parecer arrogante a primera vista, pero en realidad, es muy fácil llevarse bien con ella. Marisa también tiene una peculiaridad: está constantemente tentada a robar o recoger cosas, sin importar qué sean. A menudo "toma prestadas" cosas de las personas a su alrededor, pero rara vez las devuelve voluntariamente. Esto hace que su casa parezca un basurero.
+
+Al igual que su mejor amiga Reimu, Marisa resuelve incidentes para ganarse la vida. Le faltan las habilidades naturales de Reimu, pero lo compensa con su poder de fuego. Incluso los youkai fuertes, como los tengu, le tienen miedo a su movimiento característico llamado \"Chispa Maestra\".""",
 
             "text_portuguese": """Marisa Kirisame é uma bruxa que se especializou na arte da magia de luz e calor. Embora seja uma humana comum, sem o dom da magia ao nascer, ela se tornou uma maga por mérito próprio.
 
@@ -371,6 +398,8 @@ Assim como sua melhor amiga, Reimu, Marisa soluciona incidentes para colocar com
 
             "name_french": "Byakuren Hijiri",
 
+            "name_spanish": "Byakuren Hijiri",            
+
             "name_portuguese": "Byakuren Hijiri",
 
             "name_schinese": "圣白莲",
@@ -401,6 +430,13 @@ En raison de ses opinions et de sa nature gentille, Byakuren a autant d'amis que
 
 Lorsque l'affrontement devient inévitable, elle recourt à la magie pour augmenter ses caractéristiques physiques et affûter ses cinq senses. Dans cet état, aucun humain ni même la plupart des youkai ne peuvent la vaincre. Mais sans sa magie, elle reste une jeune femme ordinaire, bien qu'en bonne forme physique.""",
 
+            "text_spanish": """Byakuren Hijiri es una monja budista y la sacerdotisa principal en el Templo Myouren. A pesar de su profesión, mantiene su juventud utilizando magia demoníaca derivada de los youkai, lo que la convierte más en una maga que en una monja.
+
+Byakuren dejó de ser humana porque le tenía miedo a la muerte. Hace más de 1,000 años, su hermano menor Myouren murió de vejez, y ella comenzó a ayudar a los youkai con la esperanza de encontrar una forma de prolongar su vida a través de sus poderes. Parece haber alcanzado su objetivo, pero el precio fue alto; fue encarcelada bajo tierra, donde la gente la envió temiendo su conexión con los youkai. No se sabe exactamente cuánto tiempo estuvo Byakuren encerrada allí, pero en la primavera de 2009, los youkai a quienes había mostrado amabilidad se unieron y la rescataron de su cautiverio. Después de ser liberada, fundó el Templo Myouren en Gensokyo y, junto con sus discípulos, comenzó a promover la paz entre humanos y youkai.
+
+Debido a sus puntos de vista y naturaleza gentil, Byakuren tiene muchos amigos y enemigos por igual. Algunos aprecian su manera pacífica y su disposición para ayudar a todos a su alrededor a alcanzar la iluminación, mientras que otros la ven como infantil y débil de voluntad. Trata a todos con el mismo respeto, casi nunca elevando la voz en una conversación. Sin embargo, esto no significa que nunca pierda la paciencia.
+
+Cuando el enfrentamiento es inevitable, recurre a la magia para aumentar sus características físicas y agudizar los cinco sentidos. En este estado, los humanos y la mayoría de los youkai no pueden vencerla. Sin embargo, sin su magia, sigue siendo una joven común, aunque en buena forma física.""",
 
             "text_portuguese": """Byakuren Hijiri é uma monja budista e a sacerdotisa-chefe do Templo Myouren. Apesar de sua profissão, ela mantém a juventude usando magias demoníacas que se originaram de youkai, o que a torna mais uma maga do que uma monja.
 
@@ -411,6 +447,7 @@ O tempo que Byakuren ficou selada é desconhecido, porém, na primavera de 2009,
 Por causa de suas visões e natureza gentil, Byakuren tem muitos amigos e inimigos. Alguns apreciam sua maneira pacífica e sua vontade de ajudar todos ao seu redor a alcançar a iluminação, enquanto outros a veem como infantil e fraca. Ela trata todos com o mesmo respeito, quase nunca levantando a voz em conversa. No entanto, isso não significa que ela não perde a paciência.
 
 Quando o confronto é inevitável, ela recorre à magia para aumentar suas habilidades físicas e aguçar os cinco sentidos. Nesse estado, humanos e a maioria dos youkai não podem derrotá-la. No entanto, sem sua magia, ela não passa de uma jovem comum, embora em boa forma física.""",
+
 
             "text_schinese": """圣白莲是一名佛教徒，也是命莲寺的住持。尽管从事的是宗教活动，她使用妖术魔法取得了返老还童的力量，所以严格来说她更像是一位魔法使。
 
@@ -440,6 +477,8 @@ Quando o confronto é inevitável, ela recorre à magia para aumentar suas habil
 
             "name_french": "Rin Kaenbyou",
 
+            "name_spanish": "Rin Kaenbyou",
+
             "name_portuguese": "Rin Kaenbyou",
 
             "name_schinese": "火焰猫燐",
@@ -464,6 +503,11 @@ Rin sert depuis longtemps la maîtresse du Palais des Esprits de la Terre, Sator
 
 Le passe-temps favori de Rin en tant que youkai est de déterrer des cadavres ou de les voler lors de funérailles. Selon elle, elle ne tue personne pour obtenir un cadavre mais traque les gens étant sur le point de mourir, s'amusant de pouvoir discuter avec les âmes qui ne réalisent pas encore qu'elles sont mortes. Si elle vole le cadavre de quelqu'un, l'âme de cette personne devient un esprit vengeur qui est alors susceptible de tomber sous le contrôle de Rin.""",
 
+            "text_spanish": """Rin Kaenbyou, también conocida como Orin, es una kasha del Antiguo Infierno de las Llamas Ardientes, una de las mascotas de Satori Komeiji. A ella no le gustan los nombres largos, así que prefiere que la llamen Orin.
+
+Rin ha estado sirviendo a la dueña del Palacio de los Espíritus de la Tierra, Satori Komeiji, durante mucho tiempo. Ayuda a cuidar a otras mascotas en el palacio y actúa como una especie de mensajera o chica de los recados, ya que su dueña rara vez abandona su dominio. También ayuda a controlar los espíritus vengativos y se asegura de que no abandonen el Infierno.
+
+El pasatiempo favorito de Rin como youkai es desenterrar cadáveres o robarlos de los funerales. Según ella, no mata a nadie por los cadáveres, simplemente acecha a personas que están a punto de morir porque le divierte hablar con las almas que aún no han comprendido que están muertas. Si roba el cuerpo de alguien, el alma de esa persona se convierte en un espíritu vengativo y probablemente caiga bajo el control de Rin.""",
 
             "text_portuguese": """Rin Kaenbyou é uma kasha do Antigo Inferno das Chamas Ardentes, e um dos animais de estimação de Satori Komeiji. Ela não gosta de nomes longos, então prefere ser chamada pelo seu apelido: Orin.
 
@@ -495,6 +539,8 @@ O passatempo favorito de Rin como youkai é desenterrar cadáveres ou roubá-los
 
             "name_french": "Youmu Konpaku",
 
+            "name_spanish": "Youmu Konpaku",
+
             "name_portuguese": "Youmu Konpaku",
 
             "name_schinese": "魂魄妖梦",
@@ -519,6 +565,11 @@ Youmu est la seconde génération de servante. Elle surveille habituellement le 
 
 En tant que garde du corps, Youmu maîtrise deux lames : la plus longue, appelée Roukanken, peut terrasser dix spectres en une seule fois, et la plus courte, Hakurouken, peut dissiper les doutes et amener les spectres jusqu'à l'illumination. Elle se sert probablement de ces mêmes lames comme outils de jardinage.""",
 
+            "text_spanish": """Youmu Konpaku es mitad humana y mitad fantasma, quien se desempeña como jardinera y guardaespaldas de Yuyuko Saigyoji.
+
+Youmu es una sirvienta de segunda generación. Por lo general, vela por el Inframundo o practica esgrima. Como sirvienta, a Youmu no se le permiten días libres, pero su ama a menudo la lleva en días festivos o la envía a hacer recados. Youmu también ha estado involucrada en resolver varios incidentes importantes.
+
+Como guardaespaldas, Youmu es una maestra de dos espadas: la espada larga llamada Roukanken, que puede matar a diez fantasmas de un solo golpe, y la espada corta Hakurouken, que puede disipar dudas y llevar a los fantasmas hacia la iluminación. Probablemente utiliza las mismas espadas como herramientas de jardinería.""",
 
             "text_portuguese": """Youmu Konpaku é uma meio-humana meio-fantasma que atua como jardineira e guarda-costas de Yuyuko Saigyoji.
 
@@ -550,6 +601,8 @@ Como guarda-costas, Youmu é uma mestra de duas espadas: a espada longa, chamada
 
             "name_french": "Fujiwara no Mokou",
 
+            "name_spanish": "Fujiwara no Mokou",
+
             "name_portuguese": "Fujiwara no Mokou",
 
             "name_schinese": "藤原妹红",
@@ -574,6 +627,11 @@ Mokou est née autour de l'an 700 après J.-C. dans l'une des familles nobles du
 
 Désormais, Mokou aide les villageois à trouver leur chemin au travers de la Forêt de Bambous qu'elle a explorée de long en large depuis plusieurs centaines d'années, et vend aussi occasionnellement du poulet frit. Son mode de vie est extrêmement ascétique, puisque dans tous les cas elle ne peut de toute façon pas complètement mourir. Au point qu'elle est parfois trop fainéante pour démarrer le poêle en hiver et gèle jusqu'à la mort avant de ressusciter quelques temps plus tard. Ce qui est plutôt étrange si l'on considère qu'elle est une experte en magie de feu et peut incendier une forêt entière.""",
 
+            "text_spanish": """Fujiwara no Mokou es una inmortal Hourai, que anteriormente fue humana.
+
+Mokou nació alrededor del año 700 EC en una de las nobles familias de Japón, los Fujiwara. Tiene una larga enemistad con Kaguya Houraisan, otra inmortal Hourai. A una temprana edad, Mokou robó y bebió el Elixir Hourai para vengarse de Kaguya por la vergüenza que infligió al clan Fujiwara. Después de volverse inmortal, Mokou vagó sola por el mundo durante mucho tiempo hasta que entró por error en Gensokyo y se encontró nuevamente con Kaguya. Durante varios cientos de años, se han matado casi a diario en luchas mortales, pero no tanto por la enemistad duradera como por el deseo de dar emoción a sus vidas interminables con al menos una muerte momentánea.
+
+Hoy en día, Mokou ayuda a los aldeanos a abrirse camino a través del Bosque de Bambú, que ha explorado de arriba a abajo durante cientos de años; ocasionalmente también se dedica al comercio de pollo frito. Su estilo de vida es extremadamente ascético, ya que de todos modos no podrá morir por completo. A veces llega al extremo de ser demasiado perezosa para encender la estufa en invierno y se congela hasta morir, solo para resucitar algún tiempo después. Esto es algo extraño, considerando que es una maestra de la magia del fuego y puede quemar todo un bosque con sus habilidades.""",
 
             "text_portuguese": """Fujiwara no Mokou é uma imortal de Hourai que anteriormente era humana.
 
@@ -607,6 +665,8 @@ Hoje em dia, Mokou ajuda os aldeões a atravessar a Floresta de Bambu, que ela c
 
             "name_french": "Sakuya Izayoi",
 
+            "name_spanish": "Sakuya Izayoi",
+
             "name_portuguese": "Sakuya Izayoi",
 
             "name_schinese": "十六夜咲夜",
@@ -631,6 +691,11 @@ Sa routine journalière consiste à faire le ménage, faire la lessive, faire la
 
 Le secret lui permettant d'abattre autant de travail à elle seule réside dans sa capacité à contrôle le temps : lorsqu'elle le souhaite, Sakuya peut stopper, accélérer, ou même réfracter le passage du temps. De part cette même capacité, la rumeur court qu'elle serait bien plus âgée qu'il n'y paraît, et il existe plusieurs théories spéculatives à propos de son passé. Elle-même n'a jamais abordé ces sujets.""",
 
+            "text_spanish": """Sakuya Izayoi es la Jefa de las Criadas en la Mansión del Demonio Carmesí y la mano derecha de Remilia Scarlet. Es la única humana que vive en la Mansión del Demonio Carmesí.
+
+La vida diaria de Sakuya consiste en limpiar, lavar, cocinar y otras tareas que requiere una gran mansión y sus habitantes. A pesar del título de Jefa de las Criadas, Sakuya es más bien la única criada, ya que las demás criadas hadas son más una carga que una ayuda. Sin embargo, nunca se queja, ya que está totalmente dedicada a su ama.
+
+El secreto que le permite hacer tanto trabajo sola es su habilidad para controlar el tiempo: si lo desea, Sakuya puede detener, acelerar o incluso refractar el paso del tiempo. Debido a esta misma habilidad, se rumorea que es mucho más vieja de lo que aparenta, y existen varias teorías especulativas sobre su pasado. Ella misma nunca ha hablado del tema.""",
 
             "text_portuguese": """Sakuya Izayoi é a empregada-chefe na Mansão do Demônio Escarlate e a mão direita de Remilia Scarlet. Ela é a única humana vivendo na Mansão.
 
@@ -663,6 +728,8 @@ O segredo que permite que ela faça tanto trabalho sozinha é sua habilidade de 
 
             "name_french": "Sumireko Usami",
 
+            "name_spanish": "Sumireko Usami",
+
             "name_portuguese": "Sumireko Usami",
 
             "name_schinese": "宇佐见堇子",
@@ -687,6 +754,11 @@ Sumireko est née avec des pouvoirs psychiques et s'est toujours elle-même cons
 
 Malgré qu'elle soit originaire du Monde Extérieur, Sumireko est en bon termes avec nombre de personnes importantes dans Gensokyo. Ses interactions aussi bien avec des humains que des youkai supérieurs l'ont aidé à se faire enfin des amis et ainsi réduire son arrogance. Reimu doit cependant la retenir dans tout ce qu'elle entreprend : n'étant pas soumise aux règles de Gensokyo, n'importe quel youkai peut la tuer et la manger sans conséquence. Sumireko est confiante dans ses capacités à se défendre contre n'importe qui, mais dans les faits ses capacités ne peuvent par elles-même n'infliger aucune blessure tangible aux youkai et sont uniquement bonnes pour des duels de danmaku.""",
 
+            "text_spanish": """Sumireko Usami es una joven humana del Mundo Exterior que puede trasladarse a Gensokyo en sus sueños.
+
+Sumireko nació con poderes psíquicos y desde la infancia se consideró superior a los demás. Buscando a otros como ella, Sumireko escuchó rumores sobre Gensokyo y se propuso llegar allí. Desafortunadamente, no pudo cruzar completamente la Gran Barrera Hakurei y apareció ante los aldeanos de Gensokyo como una sombra ominosa, lo que causó un gran malentendido y una serie de ataques en su contra, durante los cuales Gensokyo estuvo a punto de ser destruido. Afortunadamente, todo terminó bien y después de esos eventos, Sumireko obtuvo la capacidad de aparecer en Gensokyo en su cuerpo astral, pero solo mientras estaba dormida. Las razones de la aparición de esta habilidad aún son desconocidas.
+
+A pesar de sus orígenes en el Mundo Exterior, Sumireko se lleva bien con muchas personas importantes en Gensokyo. Sus interacciones con youkai y humanos superiores la ayudaron a hacer amigos finalmente y a moderar su arrogancia. Sin embargo, Reimu tiene que contenerla en casi todo lo que hace, ya que no está sujeta a las reglas de Gensokyo, lo que significa que cualquier youkai tiene el derecho de matarla y comerla impunemente. Sumireko está segura de que puede defenderse contra cualquiera, pero en realidad, sus habilidades por sí solas no pueden causar ningún daño tangible a los youkai y solo son buenas para duelos de danmaku.""",
 
             "text_portuguese": """Sumireko Usami é uma garota humana do Mundo Exterior que pode transferir-se para Gensokyo em seus sonhos.
 
@@ -722,6 +794,8 @@ Sumireko está confiante de que pode lutar contra qualquer um, mas, na verdade, 
 
             "name_french": "Rinnosuke Morichika",
 
+            "name_spanish": "Rinnosuke Morichika",
+
             "name_portuguese": "Rinnosuke Morichika",
 
             "name_schinese": "森近霖之助",
@@ -752,6 +826,13 @@ Il tient un magasin nommé Kourindou se trouvant quelque part entre le village h
 
 Il préfère le confort d'une vie calme et discrète, confort qui est constamment perturbé par Reimu, Marisa, et plus récemment Sumireko. Contrairement à elles, Rinnosuke n'a jamais été un combattant, préférant résoudre les conflits diplomatiquement, ce qui ne le rend alors pas très compétent aux duels de danmaku. Il compense son manque d'aptitude au combat par ses connaissances en terme d'artéfacts magiques : il est celui ayant fabriqué le gohei de Reimu ainsi que le mini-hakkero de Marisa.""",
 
+            "text_spanish": """Rinnosuke Morichika, o Kourin, como Marisa lo llama, es un ser mitad humano y mitad youkai que colecciona antigüedades del Mundo Exterior.
+
+Dirige la tienda Kourindou, que se encuentra en algún lugar entre la aldea humana y el Bosque de la Magia. Rinnosuke nació en el Mundo Exterior antes del siglo XX, pero no recuerda mucho de su vida en ese entonces. Alrededor del inicio del nuevo milenio, conoció al padre de Marisa Kirisame y comenzó a trabajar para él. Sin embargo, ese tipo de trabajo no le permitía realizar todo su potencial, así que después de un tiempo decidió establecer su propio negocio y abrió Kourindou, donde empezó a vender antigüedades y baratijas del Mundo Exterior.
+
+Al ser mitad youkai, Rinnosuke envejece mucho más lentamente que una persona promedio, es físicamente más fuerte e inmune a casi cualquier enfermedad, además de poder pasar largos períodos sin comer. Sin embargo, Rinnosuke solo utiliza dos cosas de su larga lista de ventajas: no ser un objetivo para los youkai y no necesitar comer humanos. Esto le permite buscar cosas para vender incluso en lugares peligrosos sin miedo a convertirse en la comida de alguien; también puede comerciar con youkai y humanos sin problemas.
+
+Prefiere una vida tranquila y discreta en la comodidad, pero esa comodidad es constantemente perturbada por Reimu, Marisa y, en los últimos años, también por Sumireko. A diferencia de ellos, Rinnosuke nunca ha sido un gran luchador, prefiriendo resolver conflictos diplomáticamente, por lo que no es muy bueno en duelos de danmaku. Compensa su falta de habilidades de lucha con su conocimiento en la creación de artefactos mágicos: él fue quien hizo el gohei de Reimu y el mini-hakkero de Marisa.""",
 
             "text_portuguese": """Rinnosuke Morichika, ou Kourin, como Marisa o chama, é um meio-humano meio-youkai que coleciona antiguidades do Mundo Exterior.
 
@@ -792,6 +873,8 @@ Rinnosuke prefere uma vida tranquila e evita confrontos, mas esse conforto é co
 
             "name_french": "Yukari Yakumo",
 
+            "name_spanish": "Yukari Yakumo",
+
             "name_portuguese": "Yukari Yakumo",
 
             "name_schinese": "八云紫",
@@ -816,6 +899,11 @@ Yukari peut être considérée comme la créature la plus mystérieuse de Gensok
 
 Yukari peut contrôler pratiquement n'importe quoi grâce à sa capacité à manipuler les frontières. Elle peut déplacer la frontière entre le jour et la nuit afin de les intervertir, de même que pour celle entre le vrai et le faux, « ici » et « là », ou être sobre et être ivre. Elle utilise habituellement cette capacité pour ouvrir des « failles » dans l'espace, qui fonctionnent basiquement comme des portails. Ceci étant dit, elle n'est pas omnipotente ni toute-puissante pour autant et il semble que la manipulation de frontières abstraites lui demande beaucoup d'énergie, ce pourquoi elle passe le plus clair de son temps à se reposer. Et c'est pour cette même raison qu'elle préfère déléguer tout son travail à ses servantes, ou à Reimu.""",
 
+            "text_spanish": """Yukari Yakumo es el legendario youkai de las fronteras. Es una de las sabias de Gensokyo que crearon la Gran Barrera Hakurei.
+
+Yukari puede considerarse correctamente la criatura más misteriosa en Gensokyo. Ni sus objetivos, ni sus límites de poder, ni su lugar de residencia son conocidos. Lo único que se puede afirmar con certeza es que está tremendamente bien informada y siempre actúa según los intereses de los yōkai y Gensokyo.
+
+Yukari tiene control sobre casi cualquier cosa gracias a su habilidad para manipular fronteras. Puede mover la frontera y cambiar los lugares del día y la noche, la mentira y la verdad, el \"aquí\" y el \"allá\", o estar sobria y estar ebria. Normalmente usa esta habilidad para abrir los llamados \"vacíos\" en el espacio, que funcionan básicamente como portales. Aun así, no es omnipotente ni todopoderosa, y parece que manipular fronteras abstractas consume mucha de su energía, por eso pasa la mayor parte del tiempo descansando. Por la misma razón, prefiere delegar todo su trabajo a sus sirvientes o a Reimu.""",
 
             "text_portuguese": """Yukari Yakumo é a lendária youkai das fronteiras. Ela é uma das Sábias de Gensokyo que criaram a Grande Barreira de Hakurei.
 
@@ -849,6 +937,8 @@ Mesmo assim, ela não é onipotente ou onipresente. Parece que manipular frontei
 
             "name_french": "Kanako Yasaka",
 
+            "name_spanish": "Kanako Yasaka",
+
             "name_portuguese": "Kanako Yasaka",
 
             "name_schinese": "八坂神奈子",
@@ -873,6 +963,11 @@ Plusieurs centaines d'années auparavant, Kanako avait envahi le royaume de Suwa
 
 À ce nouvel emplacement Kanako s'est rapidement fait une réputation comme étant une déesse atypique de par son attitude à l'égard de ses fidèles — elle préfère s'adresser à eux en se plaçant à leur niveau, ignorant la différence de rang. Cette attitude découle non seulement de son caractère mais également de son ambition à changer l'aspect de sa foi : elle est une déesse du vent et de la pluie, mais souhaite être une déesse du progrès pour moderniser Gensokyo.""",
 
+            "text_spanish": """Kanako Yasaka es una diosa del viento y la lluvia del Santuario Moriya. Ella es responsable de todos los procedimientos administrativos en el santuario y siempre está buscando nuevas formas de reunir fe, mientras que su \"colega\" Suwako Moriya actúa como la deidad principal del santuario.
+
+Hace muchos cientos de años, Kanako invadió el reino de Suwako y lo conquistó durante la Gran Guerra de Suwa. Suwako se rindió con dignidad y continuó con sus deberes como deidad, mientras que Kanako tomó el liderazgo en el departamento de asuntos exteriores. Con el tiempo, sin embargo, la fe humana en los dioses disminuyó y, para 2007, el santuario de Kanako y Suwako estaba en un estado bastante miserable. Por esta razón, decidieron \"moverlo\" a Gensokyo.
+
+En el nuevo lugar, Kanako ha ganado rápidamente reputación como una diosa bastante peculiar debido a su actitud hacia sus adoradores: prefiere hablar con ellos como iguales, ignorando la diferencia de rango. Esta actitud no solo se debe a su carácter, sino también a su ambición de cambiar el aspecto de su fe: ella es una diosa del viento y la lluvia, pero quiere ser una diosa del progreso para modernizar Gensokyo.""",
 
             "text_portuguese": """Kanako Yasaka é uma deusa do vento e da chuva do Santuário Moriya. Ela é responsável por todos os procedimentos administrativos no santuário e está sempre procurando novas maneiras de reunir fé. Enquanto isso, sua \"colega\", Suwako Moriya, atua como a principal divindade do santuário.
 
@@ -904,6 +999,8 @@ No novo local, Kanako rapidamente ganhou reputação como uma deusa bastante pec
 
             "name_french": "Sanae Kochiya",
 
+            "name_spanish": "Sanae Kochiya",
+
             "name_portuguese": "Sanae Kochiya",
 
             "name_schinese": "东风谷早苗",
@@ -928,6 +1025,11 @@ Elle vivait à l'origine dans le Monde Extérieur avec Kanako Yasaka et Suwako M
 
 Son travail est similaire à celui de Reimu : Sanae maintient le sanctuaire, vend des amulettes, et prend même part à la résolution d'incidents. Il lui arrive cependant de parfois trop compter sur les pouvoirs de Kanako et Suwako, n'ayant pas de grands pouvoirs par elle-même. Sanae est une lointaine descendante de Suwako Moriya, et à ce titre a hérité de certaines capacités. Lorsqu'elle dispose de suffisamment de foi et de volonté elle est alors capable de causer des miracles, ce qui lui demande cependant beaucoup de temps et d'énergie.""",
 
+            "text_spanish": """Sanae Kochiya es una sacerdotisa en el Templo Moriya.
+
+Originalmente vivía en el Mundo Exterior junto con Kanako Yasaka y Suwako Moriya, pero ella \"se trasladó\" a Gensokyo cuando lo hicieron. Ella considera todo lo que sucede en Gensokyo como una especie de juego y se adaptó muy rápidamente al nuevo y extraño entorno, lo cual es muy raro para los humanos del Mundo Exterior.
+
+Su trabajo es similar al de Reimu: Sanae cuida el templo, vende amuletos e incluso participa en resolver incidentes. A veces, sin embargo, confía demasiado en los poderes de sus patrones, sin tener poderes considerablemente propios. Sanae es una descendiente lejana de Suwako Moriya, y por lo tanto, tiene algunas habilidades heredadas. Cuando hay suficiente fe y suficiente fuerza de voluntad, puede causar que sucedan milagros; sin embargo, eso requiere mucho tiempo y energía.""",
 
             "text_portuguese": """Sanae Kochiya é a sacerdotisa do Santuário Moriya.
 
@@ -962,6 +1064,8 @@ Sanae é uma descendente distante de Suwako Moriya, e portanto, tem algumas habi
 
             "name_french": "Mamizou Futatsuiwa",
 
+            "name_spanish": "Mamizou Futatsuiwa",
+
             "name_portuguese": "Mamizou Futatsuiwa",
 
             "name_schinese": "二岩猯藏",
@@ -992,6 +1096,13 @@ Mamizou se démarque de par une attitude très amicale envers les humains et se 
 
 La principale capacité de Mamizou est de déguiser les objets. Comme tous les bake-danuki, elle peut changer sa propre apparence ainsi que celle de n'importe quel objet, ce qu'elle réalise avec un talent inégalé. Elle est également l'une des rares personnes capable de traverser librement - et dans les deux sens - la barrière Hakurei.""",
 
+            "text_spanish": """Mamizou Futatsuiwa es una de las líderes de los bake-danuki de Gensokyo.
+
+Originalmente, Mamizou vivía en el Mundo Exterior, en la isla de Sado, pero en la primavera de 2011, cuando los youkai temían un aumento en la influencia taoísta, acudió en su ayuda a petición de su amiga Nue Houjuu. Desde entonces, ha ocupado una posición destacada en la jerarquía de los bake-danuki.
+
+Mamizou se distingue por su actitud muy amigable hacia los humanos e incluso está dispuesta a prestarles dinero, pero como bake-danuki de alto rango, exige el mismo respeto para ella misma.
+
+La habilidad principal de Mamizou es disfrazar objetos. Como todos los bake-danuki, puede cambiar la apariencia de sí misma y de cualquier objeto, pero lo hace a un nivel inigualable. Además, es una de las pocas que puede cruzar libremente la barrera Hakurei en ambas direcciones.""",
 
             "text_portuguese": """Mamizou Futatsuiwa é uma das líderes dos bake-danuki de Gensokyo.
 
@@ -1031,6 +1142,8 @@ A principal habilidade de Mamizou é o disfarce. Como todos os bake-danuki, ela 
 
             "name_french": "Hata no Kokoro",
 
+            "name_spanish": "Hata no Kokoro",
+
             "name_portuguese": "Hata no Kokoro",
 
             "name_schinese": "秦心",
@@ -1055,6 +1168,11 @@ Kokoro ne se souvient plus exactement du moment où elle devint consciente, ni d
 
 Dans sa vie de tous les jours, Kokoro fait de la danse théâtrale et réalise des spectacles qui sont plutôt populaires de par sa capacité à contrôler les émotions. Elle peut faire ressentir une émotion en particulier aux gens autour d'elle, ce qui rend ses dances plus expressives.""",
 
+            "text_spanish": """Hata no Kokoro es un menreiki que nació de las 66 máscaras del teatro Noh creadas por Toyosatomimi no Miko hace mucho tiempo.
+
+Kokoro ya no recuerda exactamente cuándo adquirió conciencia ni cuánto tiempo ha vivido. Llevaba una vida bastante tranquila y discreta hasta 2013, cuando accidentalmente perdió una de sus máscaras, la máscara de la Esperanza, y con ella, perdió su capacidad para experimentar esa emoción. Como consecuencia, perdió el control de sus demás emociones y comenzó a "absorber" la esperanza de las personas a su alrededor para compensar lo que le faltaba. Debido a esto, todo el pueblo cayó rápidamente en la desesperación y se volcó hacia la religión, lo que resultó en guerras religiosas en Gensokyo. Eventualmente, Kokoro fue detenida y desde entonces ha intentado cambiar su naturaleza youkai y dejar de depender de las máscaras.
+
+En su vida cotidiana, Kokoro se dedica a la danza teatral, pero también ofrece actuaciones, que son bastante populares debido a su poder para controlar las emociones. Puede hacer que las personas a su alrededor sientan una cierta emoción, lo que hace que su baile sea más expresivo.""",
 
             "text_portuguese": """Hata no Kokoro é uma menreiki que nasceu das 66 máscaras do teatro Noh criadas por Toyosatomimi no Miko há muito tempo.
 
@@ -1086,6 +1204,8 @@ Em sua vida cotidiana, Kokoro faz danças teatrais e apresentações, que são b
 
             "name_french": "Kasen Ibaraki",
 
+            "name_spanish": "Kasen Ibaraki",
+
             "name_portuguese": "Kasen Ibaraki",
 
             "name_schinese": "茨木华扇",
@@ -1110,6 +1230,11 @@ Elle peut souvent être ennuyeuse et répète constamment des discours moralisat
 
 Kasen a la capacité de contrôler et dresser les animaux (y compris les bêtes mythiques telles que les dragons) et dispose de large connaissances sur la structure de la barrière. Elle est l'une des rares personnes à être capable de créer une ouverture dans la barrière Hakurei afin d'atteindre le Monde Extérieur.""",
 
+            "text_spanish": """Kasen Ibaraki es una ermitaña de la Montaña Youkai y una de las sabias de Gensokyo. Durante mucho tiempo, Kasen llevó una vida solitaria y rara vez abandonaba su dojo en la montaña. Sin embargo, en la primavera de 2010, los rumores sobre una misteriosa \"mano de kappa\" la llevaron al Santuario Hakurei. Desde entonces, a menudo ayuda a Reimu y a otros habitantes de Gensokyo con sus consejos.
+
+A menudo se comporta como una aburrida y continúa dando discursos morales, incluso si nadie se los pide. En una ocasión, incluso llevó a Reimu a su casa para una reeducación forzada en nombre de elevar el nivel de habilidad de la sacerdotisa del santuario de Gensokyo. Aunque Reimu no le importaba ser tratada de esa manera, ya que sus enseñanzas tuvieron un cierto efecto positivo.
+
+Kasen tiene la capacidad de controlar y entrenar bestias (incluso criaturas míticas como dragones) y un amplio conocimiento de la estructura de barrera. Es una de las pocas personas que pueden crear brechas en la barrera Hakurei para llegar al Mundo Exterior.""",
 
             "text_portuguese": """Kasen Ibaraki é uma eremita que vive na Montanha Youkai e uma das Sábias de Gensokyo. Por muito tempo, Kasen levou uma vida reclusa e quase nunca saiu de seu dojo na montanha, mas, na primavera de 2010, rumores sobre um misterioso \"braço de kappa\" a levaram ao Santuário Hakurei, e desde então, ajuda Reimu e outros habitantes de Gensokyo.
 
@@ -1141,6 +1266,8 @@ Kasen possui a habilidade de controlar e treinar bestas (até mesmo as míticas,
 
             "name_french": "Clownpiece",
 
+            "name_spanish": "Clownpiece",
+
             "name_portuguese": "Clownpiece",
 
             "name_schinese": "克劳恩皮丝",
@@ -1165,6 +1292,11 @@ Au cours de l'invasion des Lunariens, elle, ainsi que d'autres fées des enfers,
 
 Tout comme les autres fées, Clownpiece n'est pas particulièrement forte mais elle est l'incarnation du chaos infernal et peut rendre les gens fous avec la lumière émise par sa torche. Elle utilise parfois cette capacité pour jouer des tours aux gens, agaçant les humains et youkai dotés d'un esprit faible.""",
 
+            "text_spanish": """Clownpiece es un hada infernal que vive bajo el Santuario Hakurei. Llegó a Gensokyo después de la invasión de los Lunarianos en 2015 y ha estado aquí desde entonces en nombre de la diosa del infierno, Hecatia Lapislazulli.
+
+Durante la invasión Lunariana, ella, junto con otras hadas del infierno, participó en el plan para tomar la Capital Lunar, y fue entonces cuando se encontró por primera vez con Reimu. Después de que el incidente terminó, la doncella del santuario se sorprendió mucho al encontrar a Clownpiece debajo de su santuario e intentó alejarla, pero eventualmente se rindió. Desde entonces, Clownpiece ha estado viviendo en una madriguera bajo el santuario y calentando el suelo mientras mantiene su temperatura infernal habitual en su morada.
+
+Como otras hadas, Clownpiece no es especialmente fuerte, pero es la encarnación del caos infernal y puede volver locas a las personas con la luz de su antorcha. A veces usa esta habilidad para hacer bromas pesadas, molestando a las personas y youkai con una mente débil.""",
 
             "text_portuguese": """Clownpiece é uma fada do inferno que vive sob o Santuário Hakurei. Ela veio para Gensokyo após a invasão lunar em 2015 e está aqui desde então em nome da deusa do inferno: Hecatia Lapislazulli.
 
@@ -1196,6 +1328,8 @@ Assim como outras fadas, Clownpiece não é particularmente forte, mas ela é a 
 
             "name_french": "Eirin Yagokoro",
 
+            "name_english": "Eirin Yagokoro",
+
             "name_portuguese": "Eirin Yagokoro",
 
             "name_schinese": "八意永琳",
@@ -1220,6 +1354,11 @@ Il y a plusieurs milliers d'années de cela, Eirin était l'une des confidentes 
 
 Eirin dispose d'un esprit particulièrement affuté, même en comparaison avec les Lunariens les plus doués, et il est difficile pour les personnes ordinaires de comprendre ses actions. Elle possède des connaissances extrêmement approfondies en médecine et peut créer un remède pour pratiquement n'importe quoi, mais est également capable de pratiquer différents types de magies.""",
 
+            "text_spanish": """Eirin Yagokoro es una antigua Lunarian que escapó de la Luna a la Tierra. Fue ella quien preparó el elixir Horai que hizo inmortales a Kaguya y Mokou.
+
+Hace muchos miles de años, Eirin era la pariente mayor y confidente de Tsukiyomi, uno de las principales deidades del Sintoísmo. Junto a él y los demás dioses, dejaron la Tierra y fundaron la Capital Lunar porque la Tierra estaba desbordada de impurezas y absorbía la fuerza vital de los seres que vivían en ella. En la Luna, nunca hubo vida, muerte o impurezas, por lo que podían existir allí casi para siempre.
+
+Eirin tiene una mente aguda, incluso entre los Lunarianos altamente capacitados, y es difícil para las personas comunes entender sus acciones. Tiene un conocimiento extremadamente profundo de la medicina y puede crear una cura para casi cualquier cosa, pero también es hábil en diversos tipos de magia.""",
 
             "text_portuguese": """Eirin Yagokoro, uma sábia lunariana que fugiu da Lua e veio para a Terra. Foi ela quem fez o elixir Horai que tornou Kaguya e Mokou imortais.
 
@@ -1251,6 +1390,8 @@ Eirin tem uma mente afiada, mesmo entre os lunarianos altamente capazes, e é di
 
             "name_french": "Reisen Udongein Inaba",
 
+            "name_spanish": "Reisen Udongein Inaba",
+
             "name_portuguese": "Reisen Udongein Inaba",
 
             "name_schinese": "铃仙·优昙华院·因幡",
@@ -1275,6 +1416,11 @@ Après la Nuit Impérissable de 2004, les habitants de Eientei devinrent d'avant
 
 La capacité principale de Reisen est de contrôler les ondes : elle peut contrôler une large gamme de fréquences électromagnétiques et déformer la perception de l'ennemi voir le placer en état d'hypnose.""",
 
+            "text_spanish": """Reisen Udongein Inaba, también conocida como \"Udonge\", es una coneja lunar que escapó a la Tierra después de que los estadounidenses llegaron a la Luna en 1969. En la Tierra, se dirigió a Gensokyo y pidió refugio a Eirin y Kaguya, quienes le permitieron quedarse a cambio de ayuda y protección.
+
+Después de la Noche Imperecedera de 2004, los habitantes de Eientei se han involucrado más en la vida de Gensokyo, y Reisen ha participado en la resolución de varios incidentes importantes. Sin embargo, sus actividades diarias varían desde ayudar a Eirin hasta negociar medicinas en la Aldea Humana.
+
+La habilidad principal de Reisen es el control de ondas: puede controlar una amplia gama de ondas electromagnéticas y distorsionar la percepción del enemigo o incluso inducirlo en un estado de hipnosis.""",
 
             "text_portuguese": """Reisen Udonghein Inaba, também conhecida como \"Udonge\", é uma coelha lunar que escapou para a Terra depois que os americanos pousaram na Lua em 1969. Na Terra, ela foi para Gensokyo e pediu abrigo a Eirin e Kaguya, que permitiram que ela ficasse em troca de ajuda e proteção.
 
@@ -1305,6 +1451,8 @@ A principal habilidade de Reisen é a manipulação de ondas: ela pode controlar
             "name_english": "Nazrin",
 
             "name_french": "Nazrin",
+
+            "name_spanish": "Nazrin",
             
             "name_portuguese": "Nazrin",
 
@@ -1336,6 +1484,13 @@ Aujourd'hui, Nazrin continue de faire toutes sortes de courses pour Shou, qui vi
 
 À première vue Nazrin peut sembler hautaine et agressive, mais elle est en fait plutôt lâche et s'enfuira ou cédera aux demandes qui lui sont faites au moindre danger.""",
 
+            "text_spanish": """Nazrin es la líder de los youkai ratón de Gensokyo y subordinada del dios Bishamonten.
+
+Hace varios cientos de años, fue asignada al avatar de Bishamonten, el youkai tigre Shou Toramaru, como asistente y mentora. Junto con Shou, fue uno de los youkai que rescataron a Byakuren Hijiri de su encarcelamiento en la primavera de 2009.
+
+Hoy en día, Nazrin sigue realizando todo tipo de encargos para Shou, quien vive en el templo Myouren, aunque Nazrin vive por separado. A menudo busca tesoros mediante la radiestesia y se construyó una pequeña cabaña cerca de Muenzuka.
+
+A primera vista, Nazrin puede parecer altiva y agresiva, pero en realidad es bastante cobarde y huirá o cederá a las demandas ante el menor peligro.""",
 
             "text_portuguese": """Nazrin é a líder dos ratos youkai de Gensokyo e subordinada do deus Bishamonten.
 
@@ -1374,6 +1529,8 @@ Hoje, apesar de ser mais independente, continua fazendo todo tipo de tarefas par
 
             "name_french": "Sanctuaire Hakurei",
 
+            "name_spanish": "Hakurei Shrine",
+
             "name_portuguese": "Santuário Hakurei",
 
             "name_schinese": "博丽神社",
@@ -1397,6 +1554,12 @@ Despite its importance, worshippers rarely come here, preferring the Moriya Shri
 Malgré son importance, les fidèles ne s'y rendent que rarement, préférant le""",
 
             "text_bottom_french": "Sanctuaire Moriya ou le Temple Myouren. Cela est probablement due au fait qu'il est bien plus pénible d'atteindre le Sanctuaire Hakurei depuis le village humain qu'il ne l'est de se rendre à cet autre sanctuaire ou au temple.",
+
+            "text_top_spanish": """El Santuario Hakurei es un pequeño santuario sintoísta ubicado en las montañas de Gensokyo. Es uno de los \"pilares fundamentales\" de la Gran Barrera Hakurei, y su existencia es crucial para la continuidad de Gensokyo en sí.
+
+A pesar de su importancia, rara vez vienen aquí los adoradores, prefiriendo el Santuario Moriya o el Templo Myouren.""",
+
+            "text_bottom_spanish": "Probablemente eso sucede porque llegar al Santuario Hakurei desde la aldea humana es más complicado que en el caso de los otros santuarios.",
 
             "text_top_portuguese": """O Santuário Hakurei é um pequeno santuário xintoísta localizado nas montanhas de Gensokyo. É um dos pilares de sustentação da Grande Barreira de Hakurei e sua existência é crucial para a prosperidade de Gensokyo. Apesar de sua importância, os fiéis raramente vêm aqui, preferindo o Santuário Moriya ou o Templo Myouren.""",
 
@@ -1426,6 +1589,8 @@ Malgré son importance, les fidèles ne s'y rendent que rarement, préférant le
 
             "name_french": "Sanctuaire Moriya",
 
+            "name_english": " Santuario Moriya",
+
             "name_portuguese": "Santuário Moriya",
 
             "name_schinese": "守矢神社",
@@ -1447,6 +1612,12 @@ For a long time it existed in the Outside World under the rule of Kanako Yasaka 
 Il a longtemps existé dans le Monde Extérieur sous la direction de Kanako Yasaka et Suwako Moriya, mais en 2007 elles prirent la décision de « déménager » à Gensokyo à cause du scepticisme montant des""",
 
             "text_bottom_french": "humains envers la religion. Dans un premier temps les principaux visiteurs du sanctuaire furent les youkai de la montagne, de par la difficulté pour n'importe quel humain de l'atteindre. Mais durant le printemps de l'année 2017 un téléphérique fut construit et ouvert au publique, connectant alors directement le Village Humain au sanctuaire. Il est désormais très populaire.",
+
+            "text_top_spanish": """El Santuario Moriya es un santuario sintoísta que se encuentra en la cima de la Montaña Youkai.
+
+Durante mucho tiempo, existió en el Mundo Exterior bajo el dominio de Kanako Yasaka y Suwako Moriya, pero en 2007 tomaron la decisión de \"mudarse\" a Gensokyo debido al creciente escepticismo hacia la religión entre los humanos.""",
+
+            "text_bottom_spanish": "Al principio, los principales visitantes del santuario eran los youkai de la montaña, ya que era muy difícil llegar al lugar para cualquier humano. Sin embargo, en la primavera de 2017 se construyó y abrió al público una línea de teleférico que conecta directamente la Aldea Humana con el santuario. Actualmente es muy popular.",
 
             "text_top_portuguese": """O Santuário Moriya é um santuário xintoísta localizado no topo da Montanha Youkai. Por muito tempo, ele existiu no Mundo Exterior sob o domínio de Kanako Yasaka e Suwako Moriya.  Mas, em 2007, eles decidiram se \"mudar\" para Gensokyo por causa do crescente ceticismo em relação à religião entre os humanos.""",
 
@@ -1472,6 +1643,8 @@ Il a longtemps existé dans le Monde Extérieur sous la direction de Kanako Yasa
 
             "name_french": "Temple Myouren",
 
+            "name_spanish": "Templo Myouren",
+
             "name_portuguese": "Templo Myouren",
 
             "name_schinese": "命莲寺",
@@ -1493,6 +1666,12 @@ Originally the shrine was a flying Palanquin Ship, which youkai used to rescue B
 Originalement, le temple était un navire Palanquin volant que les youkai utilisèrent pour secourir Byakuren Hijiri de son emprisonnement. Mais après sa résurrection il fut posé à proximité du Village Humain puis démonté pour """,
 
             "text_bottom_french": "construire un temple. Depuis ce jour le temple accueille chaleureusement aussi bien les youkai que les humains, faisant la promotion de la paix et de la tolérance entre les deux espèces.",
+
+            "text_top_spanish": """El Templo Myouren es un templo budista no muy lejos de la Aldea Humana.
+
+Originalmente, el santuario era el Barco Palanquín volador que los youkai usaron para rescatar a Byakuren Hijiri de su prisión; pero después de su resurrección, fue aterrizado cerca de la Aldea Humana y reconstruido como un templo.""",
+
+            "text_bottom_spanish": "En la actualidad, el templo da la bienvenida tanto a youkai como a humanos, promoviendo la paz y la tolerancia entre las dos especies.",
 
             "text_top_portuguese": """O Templo Myouren é um templo budista não muito longe da Vila Humana. 
             
@@ -1520,6 +1699,8 @@ Originalmente, o templo era um navio Palanquim voador, que os youkai usaram para
 
             "name_french": "Muenzuka",
 
+            "name_spanish": "Muenzuka",
+
             "name_portuguese": "Muenzuka",
 
             "name_schinese": "无缘冢",
@@ -1539,6 +1720,12 @@ The Hakurei Barrier is relatively thin in this location, which is why more often
             "text_top_french": """Muenzuka est une zone forestière proche de la Forêt de la Magie. Ici sont enterrés les gens du Monde Extérieur s'étant retrouvés dans Gensokyo.
 
 La Barrière Hakurei est relativement fine à cet endroit, ce qui explique pourquoi il est bien souvent possible d'y trouver des objets venant du Monde""",
+
+            "text_top_spanish": """Muenzuka es un área boscosa cerca del Bosque de la Magia; aquí son enterradas las personas del Mundo Exterior que llegaron a Gensokyo.
+
+La Barrera Hakurei es relativamente delgada en este lugar, por eso es común encontrar objetos del Mundo Exterior que cayeron a través de ella. No se recomienda quedarse en""",
+
+            "text_bottom_spanish": "Muenzuka por mucho tiempo, ya que la Barrera delgada podría permitirte cruzarla y encontrarte en el Mundo Exterior o en el Inframundo.",
 
             "text_bottom_french": "Extérieur l'ayant traversée. Rester à Muenzuka pour une longue période n'est cependant pas recommandé, la fine Barrière pouvant permettre de la traverser et de se retrouver alors dans le Monde Extérieur ou le Monde des Morts.",
 
@@ -1568,6 +1755,8 @@ A Barreira de Hakurei é relativamente fina aqui, o que causa itens do Mundo Ext
 
             "name_french": "Kourindou",
 
+            "name_spanish": "Kourindou",
+
             "name_portuguese": "Kourindou",
 
             "name_schinese": "香霖堂",
@@ -1591,6 +1780,12 @@ Despite its unique offer of items, Kourindou is almost never busy with customers
 Malgé les objets uniques qu'il propose, Kourindou ne reçoit pratiquement jamais de clients : les villageois n'ont""",
 
             "text_bottom_french": "en général pas le besoin de ce qu'il s'y vend, et il n'y a que très peu de riches admirateurs de babioles du Monde Extérieur parmi les humains. Malgré tout, Rinnosuke gagne suffisamment pour vivre, et ne prévoit donc pas de fermer boutique de si tôt.",
+
+            "text_top_spanish": """Kourindou es una tienda de antigüedades situada entre la Aldea Humana y el Bosque de la Magia. Rinnosuke Morichika construyó este lugar cuando dejó su trabajo en el negocio del padre de Marisa Kirisame.
+
+A pesar de su oferta única de artículos, Kourindou casi nunca está ocupado con clientes: la mayoría de los aldeanos no necesitan las cosas que se venden allí, y hay muy pocos aficionados ricos a los chucherías del Mundo Exterior entre los humanos.""",
+
+            "text_bottom_spanish": "Aun así, Rinnosuke gana lo suficiente para mantenerse, así que no tiene planes de cerrar la tienda en un futuro cercano.",
 
             "text_top_portuguese": """Kourindou é uma loja de antiguidades situada entre a Vila Humana e a Floresta da Magia. Rinnosuke Morichika construiu este lugar quando ele deixou seu emprego no negócio do pai de Marisa Kirisame. Apesar de sua oferta única de itens, Kourindou quase nunca tem clientes: os aldeões, na maioria das vezes, não têm necessidade das coisas à""",
 
@@ -1621,6 +1816,8 @@ Malgé les objets uniques qu'il propose, Kourindou ne reçoit pratiquement jamai
 
             "name_french": "Village Humain",
 
+            "name_spanish": "Aldea Humana",
+
             "name_portuguese": "Vila Humana",
 
             "name_schinese": "人类村落",
@@ -1644,6 +1841,12 @@ Apparently, at least several hundred people live in the village: it is large eno
             "text_bottom_french": """n'ont pas de chef (cela ne bénéficie pas aux youkai), le village a alors tendance à être dirigé collectivement.
 
 Apparemment, au moins plusieurs centaines de personnes vivent dans le village : il est suffisamment grand pour accueillir une école fonctionnelle, plusieurs bars, ainsi que de nombreux magasins et autres boutiques. Plusieurs familles aristocratiques se démarquent également parmi la population du village.""",
+
+            "text_top_spanish": """La Aldea Humana es el único asentamiento humano grande en Gensokyo. A pesar del nombre, a menudo puedes encontrar youkai disfrazados de humanos allí. En la aldea, a los youkai no se les permite atacar a las personas ni causar problemas, pero una vez fuera de los límites del pueblo, tienen más libertad. Los humanos de Gensokyo no tienen un líder claro""",
+
+            "text_bottom_spanish": """(no beneficia a los youkai) y es más probable que el pueblo sea gobernado de forma colectiva.
+
+Aparentemente, al menos varias centenas de personas viven en la aldea: es lo suficientemente grande como para tener una escuela en funcionamiento, varios bares, muchas tiendas y tiendas. Además, varias familias aristocráticas destacan entre la población del pueblo.""",
 
             "text_top_portuguese": """A Vila Humana é o único grande aglomerado de humanos em Gensokyo. Apesar do nome, se pode encontrar muitos youkai disfarçados de humanos aqui. Na vila, os youkai não podem atacar as pessoas ou causar problemas para elas, mas uma vez fora dos limites da civilização, eles têm mais liberdade. Os humanos de Gensokyo não têm um líder""",
 
@@ -1672,6 +1875,8 @@ Aparentemente, pelo menos algumas centenas de pessoas vivem aqui: é grande o su
 
             "name_french": "Eientei",
 
+            "name_spanish": "Eientei",
+
             "name_portuguese": "Eientei",
 
             "name_schinese": "永远亭",
@@ -1691,6 +1896,10 @@ Aparentemente, pelo menos algumas centenas de pessoas vivem aqui: é grande o su
             "text_top_french": """Eientei est une large demeure située au coeur de la Forêt de Bambous, résidence de la princesse Lunarienne Kaguya Houraisan, ainsi que de Eirin Yagokoro et de nombre des lapins youkai de Gensokyo. L'intérieur de la demeure est constitué de couloirs infinis créés par le pouvoir de Kaguya. Et c'est grâce à ce même pouvoir que la demeure est restée debout depuis plusieurs centaines d'années, n'étant pas sujette au passage du temps.""",
 
             "text_bottom_french": "",
+
+            "text_top_spanish": """Eientei es una gran mansión japonesa ubicada en el corazón del Bosque de Bambú, hogar de la princesa lunariana Kaguya Houraisan, Eirin Yagokoro y muchos youkai conejo de Gensokyo. Dentro de la mansión, hay corredores interminables creados por el poder de Kaguya. La mansión ha estado en pie durante muchos cientos de años, gracias al poder de Kaguya, ya que no está sujeta al envejecimiento.""",
+
+            "text_bottom_spanish": "",
 
             "text_top_portuguese": """Eientei é uma grande mansão japonesa localizada no coração da Floresta de Bambu. Lar da princesa lunariana Kaguya Houraisan, Eirin Yagokoro e muitos youkai coelhos de Gensokyo.  A mansão está de pé por centenas de anos, pois não está sujeita ao envelhecimento. Dentro dela, existem corredores e labririntos infinitos criados pelo poder de Kaguya.""",
 
@@ -1722,6 +1931,8 @@ Aparentemente, pelo menos algumas centenas de pessoas vivem aqui: é grande o su
 
             "name_french": "Magiciens",
 
+            "name_spanish": "Magos",
+
             "name_portuguese": "Magos",
 
             "name_schinese": "魔法使",
@@ -1739,6 +1950,10 @@ One can be born a magician or become one by studying magic and overcoming physic
             "text_french": """Les magiciens, aussi parfois appelés sorcières, sont un type de youkai très proche des humains. Dans le langage commun ces noms peuvent également faire référence aux humains utilisant la magie.
 
 Il est possible d'être né magicien ou de le devenir en étudiant la magie et en surmontant ses propres faiblesses physiques grâce à elle. L'utilisation de la magie demande un entrainement particulier et d'énormes connaissances, causant la plupart des magiciens à passer leur vie penchés sur des livres. Due au style de vie sédentaire, les magiciens sont souvent encore plus faible que les humains ordinaires, bien qu'ils puissent compenser cela en augmentant magiquement leurs aptitudes physiques. C'est pourquoi toute personne voulant se débarrasser d'un magicien devrait choisir un moment où il est endormi, et définitivement pas sous l'effet d'un quelconque sort de renforcement.""",
+
+            "text_spanish": """Los magos, a veces también llamados brujos, son un tipo de youkai muy cercano a los humanos. En el habla cotidiana, estos nombres también pueden referirse a personas que usan magia.
+
+Uno puede nacer como mago o convertirse en uno estudiando magia y superando debilidades físicas con su ayuda. Usar magia requiere entrenamiento especial y un conocimiento enorme, por lo que la mayoría de los magos pasan sus años encorvados sobre libros. Debido al estilo de vida sedentario, los magos a menudo son incluso más débiles que los humanos comunes, aunque pueden compensarlo mágicamente mejorando sus habilidades físicas. Por eso, si alguien quiere deshacerse de un mago, deberían elegir un momento en el que dicho mago esté dormido o definitivamente no esté bajo ningún hechizo de mejora.""",
 
             "text_portuguese": """Magos, também chamados de bruxos, são um tipo de youkai muito próximos aos humanos. Na linguagem cotidiana, esses nomes também podem se referir a humanos que usam magia.
 
@@ -1766,6 +1981,8 @@ Por causa do estilo de vida sedentário, os magos muitas vezes são até mais fr
 
             "name_french": "Bakeneko",
 
+            "name_spanish": "Bakeneko",
+
             "name_portuguese": "Bakeneko",
 
             "name_schinese": "妖怪猫",
@@ -1790,6 +2007,11 @@ Le nekomata est un chat ayant vécu suffisamment longtemps pour développer des 
 
 Les kasha doivent être tenus à l'écart des personnes décédées, risquant dans le cas contraire de voler le cadavre, condamnant alors l'âme du défunt à une éternité en Enfer. Les nekomatas méprisent quant à eux les humains.""",
 
+                "text_spanish": """Bakeneko es un nombre común para todos los youkai de tipo gato. En Gensokyo se conocen dos tipos de bakeneko: kasha y nekomata. Ninguno de ellos puede ser confiado ni se espera que hagan el bien.
+
+Nekomata es un gato de larga vida que ha desarrollado habilidades mágicas, y los gatos que sobreviven a sus dueños se convierten en kashas.
+
+No se permite que los kashas se acerquen a los muertos, ya que podrían robar el cadáver, condenando el alma del difunto a una eternidad en el Infierno; y los nekomatas desprecian a los humanos.""",
 
             "text_portuguese": """Bakeneko é um nome comum para todos os youkai gatos. Dois tipos de bakeneko são conhecidos em Gensokyo: kasha e nekomata. Não se pode confiar em nenhum deles.
 
@@ -1821,6 +2043,8 @@ Kashas não devem ser permitidos perto de pessoas mortas, pois podem roubar o ca
 
             "name_french": "Oni",
 
+            "name_spanish": "Oni",
+
             "name_portuguese": "Oni",
 
             "name_schinese": "鬼",
@@ -1845,6 +2069,11 @@ Ils étaient il y a bien longtemps les plus dangereux ennemis des humains parmi 
 
 Il n'est de nos jours pratiquement plus possible d'en rencontrer, mais si vous êtes suffisamment malchanceux pour que cela arrive, votre meilleure option sera encore de rester courageux, honnête, et de dire ce que vous avez sur le coeur — alors seulement vous pourriez impressionner cet oni, et même en faire votre amis - et il n'y a pas de meilleur amis qu'un oni.""",
 
+            "text_spanish": """Los oni son legendarios youkai que ahora están casi extintos incluso en Gensokyo.
+
+Hace mucho tiempo, fueron el enemigo más peligroso de los humanos entre los youkai. Su pasatiempo diario era competir con los humanos en cualquier cosa imaginable y secuestrar a aquellos humanos en caso de que ganaran. Como los oni son extremadamente fuertes incluso en comparación con otros youkai, los humanos tenían que usar trucos sucios tras otro solo para sobrevivir. Los oni odian los trucos y las mentiras más que cualquier cosa, así que en algún momento se cansaron de todo y dejaron Gensokyo para ir a otros lugares.
+
+Casi no puedes encontrarlos hoy en día, pero si tienes la mala suerte de hacerlo, tu mejor opción sería mantener la valentía, ser honesto y expresar tus pensamientos, entonces hay una posibilidad de que puedas impresionar a los oni y convertirte en amigos; y no hay mejor amigo que un oni.""",
 
             "text_portuguese": """Oni são youkai lendários que estão quase extintos até mesmo em Gensokyo.
 
@@ -1876,6 +2105,8 @@ Hoje em dia, é quase impossível achá-los. Mas, se você se encontrar cara a c
 
             "name_french": "Fantômes et spectres",
 
+            "name_spanish": "Fantasmas y espíritus",
+
             "name_portuguese": "Fantasmas e espíritos",
 
             "name_schinese": "亡灵和幽灵",
@@ -1900,6 +2131,11 @@ Les fantômes et les spectres sont des entités différentes : les spectres peuv
 
 Il existe également un type particulier de fantôme nommé « esprit vengeur ». Ils sont chaud au touché et apparaissent quand un youkai vole le corps d'une personne récemment décédée avant que son âme ne soit transportée au Monde des Morts. Mus par la malice et la rancoeur de leur injuste sort, les esprits vengeurs ne souhaitent que persécuter les humains et les youkai, les rendant fous et leur jetant de terribles malédictions. Ils peuvent même souvent prendre complètement possession de leurs victimes, supprimant ainsi sa volonté et contrôlant son corps comme une poupée. Si l'esprit n'est pas rapidement extrait du corps qu'il a soumis puis exterminé, alors il y a une probabilité élevée qu'il en prenne irrémédiablement possession, effaçant alors la personnalité du propriétaire précédent. Pour cette raison, ces esprits sont craint aussi bien par les humains que les youkai, ce dernier étant les plus vulnérable à une telle influence spirituelle. """,
 
+            "text_spanish": """Los fantasmas son almas de humanos fallecidos que no pueden abandonar el mundo de los vivos debido a fuertes ataduras.
+
+Los fantasmas y los espectros son entidades diferentes: los espectros pueden ser vestigios de cualquier ser vivo que tenga \"ki\" (espíritu especial) en él, mientras que los fantasmas son todas las almas de humanos fallecidos. Los fantasmas se parecen a las personas, conservan su temperatura corporal y pueden tocar e interactuar con objetos, mientras que los espectros son formas blancas amorfas. Por lo general, los fantasmas no saben que han muerto y, si se les muestra su cuerpo sin vida, se convierten en espectros.
+
+También existe un tipo especial de fantasma llamado \"espíritus vengativos\". Estos están calientes al tacto y aparecen si los youkai roban el cuerpo de una persona fallecida recientemente antes de que su alma sea transportada al Inframundo. Impulsados por la malicia y el resentimiento por su destino injusto, los espíritus vengativos solo quieren perseguir a humanos y youkai, volviéndolos locos y enviando terribles maldiciones. A menudo, incluso pueden apoderarse por completo de su víctima, suprimiendo su voluntad y controlando su cuerpo como si fuera un títere. Si el espíritu no es eliminado rápidamente del cuerpo que ha subyugado, existe una alta probabilidad de que lo posea irrevocablemente, borrando la personalidad anterior del dueño. Por esta razón, estos espíritus son temidos tanto por humanos como por youkai, quienes son los más vulnerables a tales influencias espirituales.""",
 
             "text_portuguese": """Fantasmas são almas de humanos falecidos que não podem deixar o mundo dos vivos por causa de algum forte apego.
 
@@ -1931,6 +2167,8 @@ Impulsionados pela malícia e ressentimento por seu destino injusto, os espírit
 
             "name_french": "Dieux",
 
+            "name_spanish": "Dioses",
+
             "name_portuguese": "Deuses",
 
             "name_schinese": "神明",
@@ -1955,6 +2193,11 @@ Contrairement aux youkai, les dieux nécessitent de la foi, et non de la peur, p
 
 Seuls des dieux Shinto et Bouddhiste se trouvent à Gensokyo. Il existe les « Yaoyorozu no Kami », ou les dieux originaux du panthéon japonais, ainsi que tous les autres dieux pouvant apparaître à n'importe quel moment de la journée. Ces derniers peuvent changer l'aspect de leur foi et ainsi gagner la capacité de bénir les gens avec quelque chose de différent d'avant, tandis que pour les autres, l'aspect de leur foi est fixé à jamais.""",
 
+            "text_english": """Los dioses son criaturas sobrenaturales nacidas de la fe humana.
+
+A diferencia de los youkai, los dioses necesitan fe y no miedo para existir, por lo que su actitud hacia los humanos suele ser más amigable, aunque exigen reverencia. Los dioses convierten la fe que los adoradores les proporcionan en bendiciones y hacen realidad los deseos humanos.
+
+En Gensokyo, predominan los dioses del Sintoísmo y del Budismo. Están los \"Yaoyorozu no Kami\", u otros dioses originales del panteón japonés, y todos los demás dioses que pueden aparecer en cualquier momento del día. Estos últimos pueden cambiar el aspecto de su fe y adquirir la capacidad de bendecir a las personas con algo diferente a antes, mientras que el aspecto de fe de los primeros permanece fijo para siempre.""",
 
             "text_portuguese": """Deuses são criaturas sobrenaturais nascidas da fé humana.
 
@@ -1986,6 +2229,8 @@ Gensokyo é principalmente habitada por deuses xintoístas e budistas, junto com
 
             "name_french": "Tengu",
 
+            "name_spanish": "Tengu",
+
             "name_portuguese": "Tengu",
 
             "name_schinese": "天狗",
@@ -1997,6 +2242,8 @@ Gensokyo é principalmente habitada por deuses xintoístas e budistas, junto com
             "text_english": """Tengu are one the most famous and developed kinds of youkai. They are well-known thanks to yamabushi-tengu, who look like red-skinned people with enormously long noses. Besides them, there are many other types of tengu like hakkuro-tengu, karasu-tengu, and others. Tengu's society is built based on these types, which represent a special, complicated hierarchy.""",
 
             "text_french": """Les tengu sont l'un des types de youkai les plus connus et les plus développés. Ils sont réputés grâce aux yamabushi-tengu, qui ressemblent à des gens à la peau rouge avec un nez excessivement long. En dehors d'eux, il existe de nombreux autres types de tengu comme les hakkuro-tengu ou les karasu-tengu, pour n'en citer que quelques uns. La société des tengu est fondée sur ces différents types, qui représentent une hiérarchie complexe.""",
+
+            "text_spanish": """Los tengu son uno de los tipos de youkai más famosos y desarrollados. Son conocidos gracias a los yamabushi-tengu, que se parecen a personas de piel roja con narices enormemente largas. Además de ellos, existen muchos otros tipos de tengu como hakkuro-tengu, karasu-tengu y otros más. La sociedad tengu está construida en base a estos tipos, los cuales representan una jerarquía especial y complicada.""",
 
             "text_portuguese": """Tengu são um dos tipos de youkai mais famosos e desenvolvidos. Eles são bem conhecidos graças aos yamabushi-tengu, que se parecem com pessoas de pele vermelha com narizes enormemente longos. 
             
@@ -2018,6 +2265,8 @@ Além deles, existem muitos outros tipos de tengu, como hakkuro-tengu, karasu-te
 
             "name_french": "Immortels d'Hourai",
 
+            "name_spanish": "Inmortales de Hourai",
+
             "name_portuguese": "Imortais de Hourai",
 
             "name_schinese": "蓬莱人",
@@ -2036,6 +2285,9 @@ The union of Eirin's outstanding medical abilities and Kaguya's power of manipul
 
 Les remarquables capacités médicales de Eirin combinées au pouvoir de manipulation de l'éternité de Kaguya donnèrent cette substance capable d'enlever le concept même de la mort à toute personne la consommant. Les immortels d'Hourai ne vieillissent pas, ne tombent jamais malade, toute blessure se referme sans laisser de trace, et même la destruction complète du corps engendre sa restauration totale.""",
 
+            "text_spanish": """Los inmortales Hourai son seres que perdieron su conexión con la muerte después de consumir el Elixir Hourai. Solo unas pocas botellas diminutas del Elixir Hourai fueron producidas alguna vez, desarrolladas por Eirin Yagokoro por orden de Kaguya Houraisan.
+
+La unión de las excepcionales habilidades médicas de Eirin y el poder de manipulación de la eternidad de Kaguya dio lugar a esta sustancia que borrará la muerte como concepto para cualquiera que la consuma. Los inmortales Hourai no envejecen, nunca se enferman, cualquier herida en ellos se cura sin dejar rastro, e incluso la destrucción completa del cuerpo solo conducirá a una restauración completa.""",
 
             "text_portuguese": """Imortais de Hourai são seres que perderam a habilidade de morrer depois de consumir o Elixir de Hourai. Poucas garrafas do Elixir foram produzidas, desenvolvidas por Eirin Yagokoro às ordens de Kaguya Houraisan.
 
@@ -2062,6 +2314,8 @@ A união das habilidades médicas excepcionais de Eirin e o poder de manipulaç�
 
             "name_french": "Kappa",
 
+            "name_spanish": "Kappa",
+
             "name_portuguese": "Kappa",
 
             "name_schinese": "河童",
@@ -2086,6 +2340,11 @@ La plupart des kappa vivents près de la Montagne Youkai, principalement à prox
 
 Il existe un type de kappa nommé « yamawaro », vivant quant à eux loin de l'eau.""",
 
+            "text_spanish": """Kappa son una especie de youkai que viven en ríos. En Gensokyo, son conocidos por su actitud amigable hacia los humanos y su propensión para desarrollar tecnología.
+
+La mayoría de los kappa viven cerca de la Montaña Youkai, principalmente cerca del agua. De vez en cuando, organizan ferias donde venden sus inventos.
+
+Existe un tipo de kappa llamado \"yamawaro\", que vive lejos del agua.""",
 
             "text_portuguese": """Kappa são uma espécie de youkai que vivem em rios. Em Gensokyo, eles são conhecidos por serem amigáveis com os humanos e sua propensão para desenvolver tecnologia.
 
@@ -2117,6 +2376,8 @@ Existe um tipo de kappa chamado \"yamawaro\", que vive longe da água.""",
 
             "name_french": "Fées",
 
+            "name_spanish": "Hadas",
+
             "name_portuguese": "Fadas",
 
             "name_schinese": "妖精",
@@ -2141,6 +2402,11 @@ La plupart des fées ne sont pas particulièrement intelligentes et ressemblent 
 
 Une fée ne peut pas mourir tant que l'aspect de la nature dont elle est l'incarnation existe toujours. Et apparemment, elles ne vieillissent pas non plus.""",
 
+            "text_english": """Hadas son seres sobrenaturales que encarnan un aspecto de la naturaleza. Se pueden encontrar en cada rincón de Gensokyo.
+
+La mayoría de las hadas no son particularmente inteligentes y se parecen a niños humanos con una especie de alas en su espalda.
+
+Una hada no puede morir siempre y cuando exista el aspecto de la naturaleza del cual es una encarnación. Aparentemente, ni siquiera envejecen.""",
 
             "text_portuguese": """Fadas são seres sobrenaturais que personificam um aspecto da natureza. Elas podem ser encontradas por toda Gensokyo.
 
@@ -2172,6 +2438,8 @@ Uma fada não pode morrer enquanto o aspecto da natureza do qual ela é uma enca
             "name_english": "Tsukumogami",
 
             "name_french": "Tsukumogami",
+
+            "name_spanish": "Tsukumogami",
 
             "name_portuguese": "Tsukumogami",
 
@@ -2220,6 +2488,20 @@ Il existe de nombreux types de tsukumogami, comme par example :
 • Koto-furunushi — un youkai né d'un instrument de musique nommé « koto »;
 
 • Ungaikyo — un youkai né d'un miroir.""",
+
+            "text_english": """Tsukumogami es un tipo de youkai que es una especie de objeto que cobra vida. Por lo general, los objetos cobran vida después de que un dios del Shinto los ha poseído.
+
+Existen muchos tipos de tsukumogami; por ejemplo:
+
+• Menreiki: youkai que nacen de una gran cantidad de máscaras;
+
+• Karakasa-obake: youkai que nacen de un paraguas;
+
+• Biwa-bokuboku: youkai que nacen del instrumento musical \"biwa\";
+
+• Koto-furunushi: youkai que nacen del instrumento musical \"koto\";
+
+• Ungaikyo: youkai que nacen de un espejo.""",
 
             "text_portuguese": """Tsukumogami é um youkai que dá vida à algum tipo de objeto. Normalmente, os objetos ganham vida depois que um deus xintoísta os possui.
 
@@ -2276,6 +2558,8 @@ Existem muitos tipos de tsukumogami. Por exemplo:
 
             "name_french": "Bake-danuki",
 
+            "name_spanish": "Bake-danuki",
+
             "name_portuguese": "Bake-danuki",
 
             "name_schinese": "妖怪狸",
@@ -2300,6 +2584,11 @@ La principale capacité des bake-danuki est de déguiser les objets autours d'eu
 
 Les bake-danuki sont également très réputés pour leur amour du sake et leur attitude en général bienveillante envers les gens.""",
 
+            "text_spanish": """Bake-danuki son youkai nacidos de tanukis. En Gensokyo, tienen una de las poblaciones más grandes.
+
+La habilidad principal del Bake-danuki es disfrazarse a sí mismos y a los objetos cercanos. Les gusta engañar a la gente entregándoles hojas disfrazadas como billetes. Sin embargo, a pesar de esto, los tanukis a menudo están asociados con la buena suerte.
+
+Los Bake-danuki también son ampliamente conocidos por su amor por el sake y su actitud generalmente amistosa hacia las personas.""",
 
             "text_portuguese": """Bake-danuki são youkai nascidos de tanuki. Em Gensokyo, eles têm uma grande população.
 
@@ -2333,6 +2622,8 @@ O Bake-danuki também é amplamente conhecido por seu amor ao saquê e sua atitu
 
             "name_french": "Duel de danmaku",
 
+            "name_spanish": "Duelo danmaku",
+
             "name_portuguese": "Duelo de danmaku",
 
             "name_schinese": "弹幕",
@@ -2344,6 +2635,8 @@ O Bake-danuki também é amplamente conhecido por seu amor ao saquê e sua atitu
             "text_english": """Danmaku duel is a fight in which the opponents exchange shots or hits using special bullets called \"danmaku\". Anything can be a danmaku: knives, ofuda, magic, or even one's fists. Whoever gets hit first — loses.""",
 
             "text_french": """Un duel de danmaku est un combat où les opposants échangent des tirs ou des coups à l'aide de projectiles nommés « danmaku ». Tout peut servir de danmaku : des couteaux, des ofuda, de la magie, ou encore ses propres poings. Le premier à se faire toucher est alors déclaré perdant.""",
+
+            "text_spanish": """El duelo danmaku es una pelea en la que los oponentes intercambian disparos o golpes usando balas especiales llamadas \"danmaku\". Cualquier cosa puede ser un danmaku: cuchillos, ofuda, magia o incluso los propios puños. Quien sea golpeado primero, pierde.""",
 
             "text_portuguese": """Um duelo de danmaku é uma ocorrência na qual os participantes se enfrentam com projéteis e golpes especiais chamados \"danmaku\". Praticamente qualquer coisa pode ser um danmaku: facas, ofuda, magia ou até mesmo os próprios punhos. Quem for atingido primeiro, perde.""",
 
@@ -2363,6 +2656,8 @@ O Bake-danuki também é amplamente conhecido por seu amor ao saquê e sua atitu
 
             "name_french": "Règles de Gensokyo",
 
+            "name_spanish": "Reglas de Gensokyo",
+
             "name_portuguese": "Regras de Gensokyo",
 
             "name_schinese": "幻想乡的规则",
@@ -2374,6 +2669,8 @@ O Bake-danuki também é amplamente conhecido por seu amor ao saquê e sua atitu
             "text_english": """There are several rules in Gensokyo that everyone, youkai and human alike, is required to follow. First and foremost, youkai are forbidden to murder humans of Gensokyo, and humans are forbidden to turn into youkai. Second, but no less important — all the feuds are to be settled using danmaku duels. These rules are introduced to keep up the fragile balance between humans and youkai, because, after all, the latter cannot exist without the former's fear.""",
 
             "text_french": """Il existe plusieurs règles à Gensokyo que tout le monde, youkai comme humain, se doit de suivre. En premier lieu, les youkai ont l'interdiction d'assassiner les humains de Gensokyo, et les humains ont l'interdiction de devenir des youkai. La suivante, et non des moindres — tous les conflits doivent être résolus par des duels de danmaku. Ces règles furent introduites afin de maintenir le fragile équilibre entre les humains et les youkai car, après tout, les premier ne peuvent pas exister sans la peur des seconds.""",
+
+            "text_spanish": """Existen varias reglas en Gensokyo que todos, tanto youkai como humanos, están obligados a seguir. En primer lugar, a los youkai se les prohíbe matar a los humanos de Gensokyo, y a los humanos se les prohíbe convertirse en youkai. En segundo lugar, pero no menos importante, todas las disputas deben resolverse mediante duelos danmaku. Estas reglas se han establecido para mantener el frágil equilibrio entre humanos y youkai, ya que, después de todo, estos últimos no pueden existir sin el miedo de los primeros.""",
 
             "text_portuguese": """Em Gensokyo, existem regras que todos, sejam eles youkai ou humanos, devem seguir. Em primeiro lugar e acima de tudo, youkai são proibidos de matar humanos nascidos em Gensokyo, e humanos são proibidos de se tornar youkai. Em segundo lugar, mas não menos importante, todos as desavenças devem ser resolvidas com um duelo de danmaku. 
             
@@ -2395,6 +2692,8 @@ Essas regras foram introduzidas para manter o frágil equilíbrio entre os human
 
             "name_french": "Sages de Gensokyo",
 
+            "name_spanish": "Sabios de Gensokyo",
+
             "name_portuguese": "Sábias de Gensokyo",
 
             "name_schinese": "幻想乡的贤者",
@@ -2406,6 +2705,8 @@ Essas regras foram introduzidas para manter o frágil equilíbrio entre os human
             "text_english": """Gensokyo Sages are a group of particularly powerful youkai who are behind the foundation of the Great Hakurei Barrier and separation of Gensokyo from the Outside World. Currently only three members of the group are known to the public — Yukari Yakumo as a representative of youkai, Kasen Ibaraki as a representative of hermits, and Okina Matara as a representative of gods.""",
 
             "text_french": """Les Sages de Gensokyo forment un groupe de youkai particulièrement puissants qui est derrière la création de la Grande Barrière Hakurei et donc de la séparation entre Gensokyo et le monde extérieur. Actuellement, seuls trois membres du groupe sont connus publiquement — Yukari Yakumo en tant que représentante des youkai, Kasen Ibaraki en tant que représentante des ermites, et Okina Matara en tant que représentante des dieux.""",
+
+            "text_spanish": """Los Sabios de Gensokyo son un grupo de youkai particularmente poderosos que están detrás de la fundación de la Gran Barrera Hakurei y la separación de Gensokyo del Mundo Exterior. Actualmente, solo tres miembros del grupo son conocidos por el público: Yukari Yakumo como representante de los youkai, Kasen Ibaraki como representante de los ermitaños y Okina Matara como representante de los dioses.""",
 
             "text_portuguese": """As Sábias de Gensokyo são um grupo de youkai particularmente poderosas que estão por trás da fundação da Grande Barreira de Hakurei e da separação de Gensokyo com o Mundo Exterior. 
             

@@ -1,418 +1,418 @@
-﻿# TODO: Translation updated at 2023-05-08 19:41
+# TODO: Translation updated at 2023-05-08 19:41
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:80
-translate english destitute1_scene2_8_54a074c3:
+translate spanish destitute1_scene2_8_54a074c3:
 
     # "Снаружи Эйентей казался не таким уж и большим, но стоило кому-то зайти внутрь – он рисковал навсегда застрять в бесконечных коридорах поместья. Особенно если он приходил без приглашения и не знал хозяев."
-    "From the outside, Eientei didn't seem so big, but once someone stepped inside, they risked being stuck in the endless corridors of the mansion forever. Especially if they came uninvited and didn't know the owners."
+    "Desde fuera, Eientei no parecía tan grande, pero una vez que alguien entraba, corría el riesgo de quedarse atrapado en los interminables pasillos de la mansión para siempre. Especialmente si venían sin invitación y no conocían a los dueños."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:84
-translate english destitute1_scene2_8_8b1accfa:
+translate spanish destitute1_scene2_8_8b1accfa:
 
     # "К счастью на этот раз никто не собирался останавливать их. В коридоре они столкнулись с ещё одной крольчихой, Рейсен, шедшей им навстречу."
-    "Fortunately, this time, no one was going to stop them. In the hall, they encountered another rabbit, Reisen, walking towards them."
+    "Afortunadamente, esta vez nadie iba a detenerlos. En el pasillo, se encontraron con otra coneja, Reisen, que se acercaba a ellos."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:92
-translate english destitute1_scene2_8_cd8a18f8:
+translate spanish destitute1_scene2_8_cd8a18f8:
 
     # reisen "Рейму? Что там за шум на ул?.."
-    reisen "Reimu? What's that noise on the street?"
+    reisen "¿Reimu? ¿Qué es ese ruido en la calle?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:96
-translate english destitute1_scene2_8_37858219:
+translate spanish destitute1_scene2_8_37858219:
 
     # "Она запнулась, увидев два тела, которые тащили вслед за Рейму."
-    "She faltered when she saw the two bodies being carried after Reimu."
+    "Se detuvo al ver los dos cuerpos que eran llevados detrás de Reimu."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:104
-translate english destitute1_scene2_8_4d771c90:
+translate spanish destitute1_scene2_8_4d771c90:
 
     # reisen "Быстрее, сюда! Что с ними?"
-    reisen "Quick, over here! What happened to them?"
+    reisen "¡Rápido, por aquí! ¿Qué les pasó?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:113
-translate english destitute1_scene2_8_7044039e:
+translate spanish destitute1_scene2_8_7044039e:
 
     # rei "Мамидзо овладел мстительный дух, и она разорвала Сумиреко!"
-    rei "Mamizou was possessed by a vengeful spirit, and then she slashed Sumireko!"
+    rei "Mamizou fue poseída por un espíritu vengativo, ¡y luego hirió a Sumireko!"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:121
-translate english destitute1_scene2_8_853e69d9:
+translate spanish destitute1_scene2_8_853e69d9:
 
     # reisen "Дух ещё внутри?"
-    reisen "Is the spirit still inside?"
+    reisen "¿El espíritu todavía está dentro?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:130
-translate english destitute1_scene2_8_d6a898c0:
+translate spanish destitute1_scene2_8_d6a898c0:
 
     # rei "Да, она ещё в сознании, просто парализована!"
-    rei "Yes, she's still conscious, just paralyzed!"
+    rei "Sí, todavía está consciente, solo está paralizada."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:132
-translate english destitute1_scene2_8_913bffdd:
+translate spanish destitute1_scene2_8_913bffdd:
 
     # "Рейсен бросилась к одной из дверей."
-    "Reisen rushed to one of the doors."
+    "Reisen corrió hacia una de las puertas."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:140
-translate english destitute1_scene2_8_a28c7455:
+translate spanish destitute1_scene2_8_a28c7455:
 
     # reisen "Госпожа! Госпожа! У нас раненый человек и одержимый ёкай! Несите их сюда!"
-    reisen "Master! Master! We have a wounded human and a possessed youkai! Bring them here!"
+    reisen "¡Maestra! ¡Maestra! ¡Tenemos un humano herido y un youkai poseído! ¡Tráiganlos aquí!"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:148
-translate english destitute1_scene2_8_b78ca0e3:
+translate spanish destitute1_scene2_8_b78ca0e3:
 
     # "За дверью оказался медицинский кабинет. Его хозяйка, Эйрин Ягокоро, только что над чем-то работала, судя по застывшей над листом бумаги руке, но появление Рейму прервало её."
-    "Behind the door was the medical office. Its owner, Eirin Yagokoro, had just been working on something, judging by her hand frozen over a sheet of paper, but Reimu's appearance interrupted her."
+    "Detrás de la puerta estaba la consulta médica. Su dueña, Eirin Yagokoro, había estado trabajando en algo, a juzgar por su mano congelada sobre una hoja de papel, pero la aparición de Reimu la interrumpió."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:156
-translate english destitute1_scene2_8_87272f85:
+translate spanish destitute1_scene2_8_87272f85:
 
     # eirin "Рейму? Что произошло?"
-    eirin "Reimu? What happened?"
+    eirin "¿Reimu? ¿Qué pasó?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:158
-translate english destitute1_scene2_8_f253da3e:
+translate spanish destitute1_scene2_8_f253da3e:
 
     # "Взгляд Эйрин упал на два тела, которые внесли вслед за жрицей."
-    "Then Eirin's gaze fell upon the two bodies that had been brought in after the shrine maiden."
+    "Luego, la mirada de Eirin cayó sobre los dos cuerpos que habían sido llevados después de la sacerdotisa del santuario."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:166
-translate english destitute1_scene2_8_a0cd05d8:
+translate spanish destitute1_scene2_8_a0cd05d8:
 
     # eirin "Ох, боже, Усами-сан…"
-    eirin "Oh dear, Usami-san…"
+    eirin "Oh dios, Usami-san..."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:175
-translate english destitute1_scene2_8_d1cfb8de:
+translate spanish destitute1_scene2_8_d1cfb8de:
 
     # rei "В Мамидзо вселился какой-то дух, и она разорвала Сумиреко!"
-    rei "Mamizou was possessed by some kind of spirit, and she wounded Sumireko badly!"
+    rei "Mamizou fue poseída por algún tipo de espíritu, ¡y lastimó gravemente a Sumireko!"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:184
-translate english destitute1_scene2_8_982dd129:
+translate spanish destitute1_scene2_8_982dd129:
 
     # rei "Быстрее, проверь её! Я слышала, что мозг человека живёт ещё некоторое время даже после того, как сердце остановится."
-    rei "Quick, check her! I've heard that the human brain lives for some time even after the heart has stopped."
+    rei "¡Rápido, verifica su estado! He oído que el cerebro humano sigue vivo durante algún tiempo incluso después de que el corazón se detenga."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:192
-translate english destitute1_scene2_8_ba749d95:
+translate spanish destitute1_scene2_8_ba749d95:
 
     # eirin "Удонге, номер девять и двенадцать сюда, живо!"
-    eirin "Udonge, numbers nine and twelve over here now!"
+    eirin "Udonge, números nueve y doce aquí, ¡rápido!"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:200
-translate english destitute1_scene2_8_84626fbf:
+translate spanish destitute1_scene2_8_84626fbf:
 
     # reisen "Есть!"
-    reisen "Got it!"
+    reisen "¡Entendido!"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:205
-translate english destitute1_scene2_8_d016acc6:
+translate spanish destitute1_scene2_8_d016acc6:
 
     # "Эйрин осмотрела рану Сумиреко и прощупала пульс."
-    "Eirin examined Sumireko's wound and felt for a pulse."
+    "Eirin examinó la herida de Sumireko y sintió el pulso."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:213
-translate english destitute1_scene2_8_e602b5ab:
+translate spanish destitute1_scene2_8_e602b5ab:
 
     # eirin "Пять минут, Рейму. Человека можно вернуть к жизни всего пять минут после остановки сердца. Ты же летела сюда дольше, правда?"
-    eirin "Five minutes, Reimu. A person can be brought back to life only five minutes after a cardiac arrest. It took you longer to fly here, didn't it?"
+    eirin "Cinco minutos, Reimu. Una persona puede ser devuelta a la vida solo cinco minutos después de un paro cardíaco. Tú tardaste más en volar aquí, ¿verdad?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:215
-translate english destitute1_scene2_8_4b9308ae:
+translate spanish destitute1_scene2_8_4b9308ae:
 
     # "Эйрин направила на тело Сумиреко какое-то устройство и посмотрела на показатели на экране."
-    "Eirin pointed some kind of device at Sumireko's body and looked at the data on the screen."
+    "Eirin apuntó algún tipo de dispositivo al cuerpo de Sumireko y miró los datos en la pantalla."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:223
-translate english destitute1_scene2_8_b057e20a:
+translate spanish destitute1_scene2_8_b057e20a:
 
     # eirin "Мозговой активности нет… Мне жаль, её душа уже далеко."
-    eirin "No brain activity… I'm sorry, but her soul is already far away."
+    eirin "No hay actividad cerebral... Lo siento, pero su alma ya está lejos."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:225
-translate english destitute1_scene2_8_cb253a7e:
+translate spanish destitute1_scene2_8_cb253a7e:
 
     # "Рейму тяжело вздохнула. Получается, остался только самый ненадёжный вариант."
-    "Reimu sighed heavily. So that left only the most unreliable option."
+    "Reimu suspiró profundamente. Así que solo quedaba la opción más poco confiable."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:234
-translate english destitute1_scene2_8_64f23387:
+translate spanish destitute1_scene2_8_64f23387:
 
     # rei "Ты можешь как-то оживить её?"
-    rei "Is there any way you can bring her back to life?"
+    rei "¿Hay alguna manera de traerla de vuelta a la vida?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:242
-translate english destitute1_scene2_8_a08d0a86:
+translate spanish destitute1_scene2_8_a08d0a86:
 
     # eirin "Оживить?"
-    eirin "Bring her back?"
+    eirin "¿Traerla de vuelta?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:250
-translate english destitute1_scene2_8_d2ef501a:
+translate spanish destitute1_scene2_8_d2ef501a:
 
     # eirin "Я могу зашить рану и восстановить отмершие клетки мозга, но ты же понимаешь, что без души тело не сдвинется с места?"
-    eirin "I can stitch up the wound and repair the dead brain cells, but you understand that without a soul, her body won't move, right?"
+    eirin "Puedo coser la herida y reparar las células cerebrales muertas, pero ¿entiendes que sin alma, su cuerpo no se moverá, verdad?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:259
-translate english destitute1_scene2_8_a28c157f:
+translate spanish destitute1_scene2_8_a28c157f:
 
     # rei "Мариса уже скоро будет в Хигане. Она попробует убедить яму, что с душой Сумиреко вышла ошибка."
-    rei "Marisa will be in Higan soon enough. She will try to convince the yama that there was a mistake with Sumireko's soul."
+    rei "Marisa estará en Higan muy pronto. Intentará convencer a yama de que hubo un error con el alma de Sumireko."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:268
-translate english destitute1_scene2_8_c8f9898d:
+translate spanish destitute1_scene2_8_c8f9898d:
 
     # rei "У неё же есть ещё одно тело во Внешнем мире, и если оно целое, то технически Сумиреко скорее спит."
-    rei "She has another body in the Outside World, after all, and if it is intact, then technically, Sumireko is more likely asleep."
+    rei "Después de todo, ella tiene otro cuerpo en el Mundo Exterior, y si está intacto, técnicamente Sumireko está más bien dormida."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:276
-translate english destitute1_scene2_8_3713296b:
+translate spanish destitute1_scene2_8_3713296b:
 
     # eirin "По-моему, возвращать души против правил. Я бы не рассчитывала, что ямы будут вас слушать."
-    eirin "I think it's against the rules to bring souls back. I wouldn't rely on yama listening to you."
+    eirin "Creo que está en contra de las reglas traer de vuelta las almas. No confiaría en que yama te escuche."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:285
-translate english destitute1_scene2_8_c9eb2a67:
+translate spanish destitute1_scene2_8_c9eb2a67:
 
     # rei "Ещё как будут, у нас есть знакомые в Министерстве! Да и к тому же завтра начинается Обон – у них и так будет завал, в котором легко может потеряться отчётность за душу-другую. Главное, чтобы ей было куда возвращаться."
-    rei "Sure they will; we know people in the Ministry! And besides, Obon starts tomorrow - they'll be swamped enough as it is, and the reports of a soul or two could easily get lost in the process. It's most important to have a place for her to come back to."
+    rei "Claro que sí; conocemos gente en el Ministerio. Y además, el Obon comienza mañana; estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:293
-translate english destitute1_scene2_8_9f29c78d:
+translate spanish destitute1_scene2_8_9f29c78d:
 
     # eirin "Хм-м, ну раз так..."
-    eirin "Hmm, if that's the case..."
+    eirin "Hmm, si ese es el caso..."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:295
-translate english destitute1_scene2_8_154f650c:
+translate spanish destitute1_scene2_8_154f650c:
 
     # eirin "Я могу восстановить это тело, но процесс будет довольно трудоёмким и займёт несколько дней."
-    eirin "I can restore this body, but the process will be quite time-consuming and take several days."
+    eirin "Puedo restaurar este cuerpo, pero el proceso llevará bastante tiempo y tomará varios días."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:303
-translate english destitute1_scene2_8_b02d2561:
+translate spanish destitute1_scene2_8_b02d2561:
 
     # eirin "Даже если душу Усами-сан и удастся оградить от перерождения, нужно будет где-то держать её всё это время, не позволяя стать призраком."
-    eirin "Even if Usami-san's soul can be shielded from rebirth, it will have to be kept somewhere during this time, so that it doesn't become a ghost."
+    eirin "Incluso si el alma de Usami-san puede protegerse del renacimiento, deberá mantenerse en algún lugar durante este tiempo, para que no se convierta en un fantasma."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:312
-translate english destitute1_scene2_8_41e17423:
+translate spanish destitute1_scene2_8_41e17423:
 
     # rei "С этим мы разберёмся."
-    rei "We'll deal with that."
+    rei "Nos encargaremos de eso."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:320
-translate english destitute1_scene2_8_cedfdf5c:
+translate spanish destitute1_scene2_8_cedfdf5c:
 
     # eirin "Что ж, хорошо."
-    eirin "Well, fine then."
+    eirin "Bueno, está bien."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:333
-translate english destitute1_scene2_8_f8df533e:
+translate spanish destitute1_scene2_8_f8df533e:
 
     # eirin "Кстати, мои услуги денег стоят, ты помнишь об этом?"
-    eirin "By the way, my services cost money; do you remember that?"
+    eirin "Por cierto, mis servicios cuestan dinero; ¿recuerdas eso?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:342
-translate english destitute1_scene2_8_13222ca9:
+translate spanish destitute1_scene2_8_13222ca9:
 
     # rei "Да, я заплачу."
-    rei "Yes, I'll pay."
+    rei "Sí, pagaré."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:350
-translate english destitute1_scene2_8_1fa49eda:
+translate spanish destitute1_scene2_8_1fa49eda:
 
     # eirin "Хм? Заплачешь?"
-    eirin "Hmm? Are you going to pay?"
+    eirin "¿Hmm? ¿Vas a pagar?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:359
-translate english destitute1_scene2_8_8a2e4f80:
+translate spanish destitute1_scene2_8_8a2e4f80:
 
     # rei "Заплачу́."
-    rei "I'll pay you."
+    rei "Te pagaré."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:367
-translate english destitute1_scene2_8_2053f9e1:
+translate spanish destitute1_scene2_8_2053f9e1:
 
     # eirin "Ты уверена?"
-    eirin "Are you sure?"
+    eirin "¿Estás segura?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:376
-translate english destitute1_scene2_8_97bb464b:
+translate spanish destitute1_scene2_8_97bb464b:
 
     # rei "Заплачу́, сказала же! Чего не так-то?"
-    rei "I'll pay, I said! What's wrong with that?"
+    rei "¡Pagaré, lo dije! ¿Qué hay de malo en eso?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:384
-translate english destitute1_scene2_8_ac2cd4e5:
+translate spanish destitute1_scene2_8_ac2cd4e5:
 
     # eirin "Да просто я уже и не надеялась, что твой долг уменьшится ещё до конца твоей жизни."
-    eirin "It's just that I didn't expect your debt to decrease for the rest of your life."
+    eirin "Es que simplemente no esperaba que tu deuda disminuyera durante el resto de tu vida."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:389
-translate english destitute1_scene2_8_5a5ee728:
+translate spanish destitute1_scene2_8_5a5ee728:
 
     # "Рейму не понимала, как Эйрин может каламбурить в такой ситуации. Самой жрице сейчас было не до смеха."
-    "Reimu didn't understand how Eirin could joke in such a situation. It wasn't a laughing matter for the shrine maiden at all."
+    "Reimu no entendía cómo Eirin podía hacer chistes en una situación así. No era motivo de risa para la sacerdotisa en absoluto."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:391
-translate english destitute1_scene2_8_43c16634:
+translate spanish destitute1_scene2_8_43c16634:
 
     # "Вид бледного и спокойного лица Сумиреко напоминал ей, что это была её вина. Её от начала до конца."
-    "The sight of Sumireko's pale and calm face reminded her that it was her fault. Her fault from beginning to end."
+    "La vista del rostro pálido y tranquilo de Sumireko le recordaba que era su culpa. Su culpa desde el principio hasta el final."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:393
-translate english destitute1_scene2_8_f7a96e8d:
+translate spanish destitute1_scene2_8_f7a96e8d:
 
     # "Если бы она была чуть более настойчива, если бы не ходила вокруг да около, если бы не думала, что Сумиреко сама всё должна понять, то ничего бы не случилось."
-    "If she had been a little more assertive, if she hadn't beat around the bush, if she hadn't thought that Sumireko herself should understand everything, nothing would have happened."
+    "Si hubiera sido un poco más decidida, si no hubiera andado con rodeos, si no hubiera pensado que Sumireko misma debería entenderlo todo, nada hubiera sucedido."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:395
-translate english destitute1_scene2_8_746fc953:
+translate spanish destitute1_scene2_8_746fc953:
 
     # "Глядя на окровавленный труп, Рейму внезапно что-то вспомнила. Что-то давнее, тёплое и очень детское…"
-    "Looking at the bloody corpse, Reimu suddenly remembered something. Something from long ago, something warm and very childish…"
+    "Mirando el cadáver ensangrentado, Reimu recordó repentinamente algo. Algo de hace mucho tiempo, algo cálido y muy infantil…"
 
 # TODO: Translation updated at 2023-06-21 15:58
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:258
-translate english destitute1_scene2_8_e835e9b2:
+translate spanish destitute1_scene2_8_e835e9b2:
 
     # eirin "Мозговой активности нет…"
-    eirin "No brain activity…"
+    eirin "No hay actividad cerebral…"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:265
-translate english destitute1_scene2_8_b1b3a5dc:
+translate spanish destitute1_scene2_8_b1b3a5dc:
 
     # eirin "Мне жаль, её душа уже далеко."
-    eirin "I'm sorry, but her soul is already far away."
+    eirin "Lo siento, pero su alma ya está lejos."
 
 # TODO: Translation updated at 2023-07-05 16:56
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:110
-translate english destitute1_scene2_8_0ce2734f:
+translate spanish destitute1_scene2_8_0ce2734f:
 
     # "К счастью на этот раз никто не собирался останавливать их. В коридоре они столкнулись с ещё одной крольчихой, {a=showmenu:dictionary}{color=#df1818}Рейсен{/color}{/a}, шедшей им навстречу."
-    "Fortunately, this time, no one was going to stop them. In the hall, they encountered another rabbit, {a=showmenu:dictionary}{color=#df1818}Reisen{/color}{/a}, walking towards them."
+    "Afortunadamente, esta vez nadie iba a detenerlos. En el pasillo, se encontraron con otro conejo, {a=showmenu:dictionary}{color=#df1818}Reisen{/color}{/a}, que caminaba hacia ellos."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:226
-translate english destitute1_scene2_8_338b97e4:
+translate spanish destitute1_scene2_8_338b97e4:
 
     # "За дверью оказался медицинский кабинет. Его хозяйка, {a=showmenu:dictionary}{color=#df1818}Эйрин Ягокоро{/color}{/a}, только что над чем-то работала, судя по застывшей над листом бумаги руке, но появление Рейму прервало её."
-    "Behind the door was the medical office. Its owner, {a=showmenu:dictionary}{color=#df1818}Eirin Yagokoro{/color}{/a}, had just been working on something, judging by her hand frozen over a sheet of paper, but Reimu's appearance interrupted her."
+    "Detrás de la puerta estaba la oficina médica. Su dueña, {a=showmenu:dictionary}{color=#df1818}Eirin Yagokoro{/color}{/a}, acababa de estar trabajando en algo, juzgando por su mano congelada sobre una hoja de papel, pero la aparición de Reimu la interrumpió."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:400
-translate english destitute1_scene2_8_8158d100:
+translate spanish destitute1_scene2_8_8158d100:
 
     # rei "Ещё как будут, у нас есть знакомые в {a=show:prompt}{color=#d9f136}Министерстве{/color}{/a}! Да и к тому же завтра начинается Обон – у них и так будет завал, в котором легко может потеряться отчётность за душу-другую. Главное, чтобы ей было куда возвращаться."
-    rei "Sure they will; we know people in the {a=show:prompt}{color=#d9f136}Ministry{/color}{/a}! And besides, Obon starts tomorrow - they'll be swamped enough as it is, and the reports for a soul or two could easily get lost in the process. It's most important to have a place for her to come back to."
+    rei "Claro que lo estarán; conocemos gente en el {a=show:prompt}{color=#d9f136}Ministerio{/color}{/a}. Y además, Obon comienza mañana: estarán bastante ocupados, y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:449
-translate english destitute1_scene2_8_34c8e8dc:
+translate spanish destitute1_scene2_8_34c8e8dc:
 
     # eirin "Для начала мне потребуется как можно больше биоматериала Усами-сан. Подойди-ка."
-    eirin "First, I'll need as much of Usami-san's biomaterial as possible. Come here."
+    eirin "Primero, necesitaré la mayor cantidad posible del biomaterial de Usami-san. Acércate aquí."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:458
-translate english destitute1_scene2_8_7599c440:
+translate spanish destitute1_scene2_8_7599c440:
 
     # "Рейму запоздало обратила внимание на толстую корку из засохшей крови Сумиреко, покрывающую правую половину её платья."
-    "Reimu belatedly noticed the thick crust of Sumireko's dried blood covering the right side of her dress."
+    "Reimu notó tardíamente la gruesa costra de sangre seca de Sumireko que cubría el lado derecho de su vestido."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:463
-translate english destitute1_scene2_8_414f4876:
+translate spanish destitute1_scene2_8_414f4876:
 
     # "В нос мгновенно ударил запах пота с металлическим привкусом. И как она раньше не замечала, что от неё так несёт?"
-    "The smell of sweat with a metallic taste hit her nose instantly. And how did she not notice before that she smelled so much?"
+    "El olor a sudor con un sabor metálico le golpeó la nariz al instante. ¿Y cómo no se dio cuenta antes de que olía tanto?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:470
-translate english destitute1_scene2_8_446647d2:
+translate spanish destitute1_scene2_8_446647d2:
 
     # "С этим смрадом на жрицу будто заново обрушились все события: плачущие от страха дети, дикое выражение лица Мамидзо, внутренности..."
-    "With this stench, all the events seemed to fall anew on her: children crying with fear, the wild expression on Mamizo's face, the insides..."
+    "Con este hedor, todos los eventos parecían caer de nuevo sobre ella: niños llorando de miedo, la expresión salvaje en el rostro de Mamizo, las entrañas..."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:476
-translate english destitute1_scene2_8_f0b8cc60:
+translate spanish destitute1_scene2_8_f0b8cc60:
 
     # "С этим смрадом на жрицу будто заново обрушились все события: плачущие от страха дети, дикое выражение лица Мамидзо, внутренности...{fast} Рейму почувствовала, что её сейчас вырвет."
-    "With this stench, all the events seemed to fall anew on her: children crying with fear, the wild expression on Mamizo's face, the insides...{fast} Reimu felt like she was about to vomit."
+    "Con este hedor, todos los eventos parecían caer de nuevo sobre ella: niños llorando de miedo, la expresión salvaje en el rostro de Mamizo, las entrañas...{rápido} Reimu sintió que iba a vomitar."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:483
-translate english destitute1_scene2_8_d959ac07:
+translate spanish destitute1_scene2_8_d959ac07:
 
     # "К счастью, Эйрин достала устройство, напоминающее прозрачный бак с ручкой, и принялась водить им по одежде Рейму, счищая кровавые следы."
-    "Luckily, Eirin took out a device that looked like a transparent tank with a handle and ran it over Reimu's clothes, cleaning up the bloody marks."
+    "Por suerte, Eirin sacó un dispositivo que parecía un tanque transparente con un asa y lo pasó por la ropa de Reimu, limpiando las marcas de sangre."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:491
-translate english destitute1_scene2_8_82e4c635:
+translate spanish destitute1_scene2_8_82e4c635:
 
     # eirin "Повезло тебе, что не придётся отстирывать всё это."
-    eirin "You're lucky you don't have to wash it all."
+    eirin "Tienes suerte de no tener que lavarlo todo."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:508
-translate english destitute1_scene2_8_993a245b:
+translate spanish destitute1_scene2_8_993a245b:
 
     # rei "Да, я заплачу..."
-    rei "Yeah, I'll pay..."
+    rei "Sí, pagaré..."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:528
-translate english destitute1_scene2_8_eb52285e:
+translate spanish destitute1_scene2_8_eb52285e:
 
     # rei "А?"
-    rei "Huh?"
+    rei "¿Eh?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:575
-translate english destitute1_scene2_8_c19c26a2:
+translate spanish destitute1_scene2_8_c19c26a2:
 
     # "В голове Рейму промелькнула мысль о том, насколько нелепо звучит их разговор. Будто бы всё происходило в каком-то бредовом сне."
-    "A thought flashed through Reimu's head about how ridiculous their conversation sounded. It was like everything was happening in some crazy dream."
+    "Un pensamiento cruzó por la cabeza de Reimu sobre lo ridícula que sonaba su conversación. Era como si todo estuviera sucediendo en un sueño loco."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:577
-translate english destitute1_scene2_8_44a4a55d:
+translate spanish destitute1_scene2_8_44a4a55d:
 
     # "Как у Эйрин вообще язык повернулся каламбурить в такой ситуации? Как сама Рейму могла раздражаться от этих каламбуров?"
-    "How could Eirin even care about payments in such a situation? How could Reimu herself get annoyed by those care?"
+    "¿Cómo pudo a Eirin siquiera importarle los pagos en una situación así? ¿Cómo pudo Reimu molestarse por eso?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:582
-translate english destitute1_scene2_8_07b66475:
+translate spanish destitute1_scene2_8_07b66475:
 
     # "Сумиреко же...{w} мертва...{w} лежит хладным трупом в метре от неё..."
-    "Sumireko...{w} is dead...{w} a cold corpse lies a meter away from her..."
+    "Sumireko...{w} está muerta...{w} un cadáver frío yace a un metro de distancia de ella..."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:584
-translate english destitute1_scene2_8_fe3307e5:
+translate spanish destitute1_scene2_8_fe3307e5:
 
     # "Почему?..{w} Как?..{w} Как она вообще?.."
-    "Why?..{w} How?..{w} How is she?.."
+    "¿Por qué?..{w} ¿Cómo?..{w} ¿Cómo está ella?.."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:586
-translate english destitute1_scene2_8_6fd3c123:
+translate spanish destitute1_scene2_8_6fd3c123:
 
     # "Оглядываясь назад на свои действия, Рейму не могла поверить, что с такой холодной расчётливостью составила в голове список действий, раздавала указания, планировала наперёд, но при этом почему-то ни разу не задумалась о том, насколько ужасно всё произошедшее."
-    "Looking back at her actions, Reimu couldn't believe that she had made a list of actions in her head with such cold prudence, gave instructions, planned ahead, but for some reason, she never thought about how terrible was everything that had happened."
+    "Mirando hacia atrás en sus acciones, Reimu no podía creer que hubiera hecho una lista de acciones en su cabeza con tanta prudencia fría, dio instrucciones, planeó con anticipación, pero por alguna razón, nunca pensó en cuán terrible fue todo lo que había sucedido."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:588
-translate english destitute1_scene2_8_66799bfa:
+translate spanish destitute1_scene2_8_66799bfa:
 
     # "Это же была её вина.{w} Её от начала до конца."
-    "It was her fault.{w} Her fault from beginning to end."
+    "Fue su culpa.{w} Su culpa desde el principio hasta el final."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:590
-translate english destitute1_scene2_8_43caa2c6:
+translate spanish destitute1_scene2_8_43caa2c6:
 
     # "Если бы она была чуть более настойчива, если бы не ходила вокруг да около, если бы не думала, что Сумиреко сама должна всё понять, то ничего бы не случилось."
-    "If she had been a little more assertive, if she hadn't beat around the bush, if she hadn't thought that Sumireko herself should understand everything, nothing would have happened."
+    "Si hubiera sido un poco más asertiva, si no hubiera andado con rodeos, si no hubiera pensado que Sumireko misma debería entender todo, no hubiera pasado nada."
 
-translate english strings:
+translate spanish strings:
 
     # game/script/destitute_chapter/day1/scene2_8.rpy:12
     old "Ночь, через пару минут"
-    new "Night, a couple of minutes later"
+    new "Noche, un par de minutos después"
 
     # game/script/destitute_chapter/day1/scene2_8.rpy:398
     old "Министерство правильного и неправильного — организация, занимающаяся дальнейшей судьбой душ живых существ после смерти."
-    new "The Ministry of Right and Wrong is an organization dealing with the further fate of the souls of living beings after death."
+    new "El Ministerio del Bien y el Mal es una organización que se ocupa del destino posterior de las almas de los seres vivos después de la muerte."
 
