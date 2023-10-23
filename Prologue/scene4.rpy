@@ -22,7 +22,7 @@ translate spanish prologue_scene_4_74986e6b:
 translate spanish prologue_scene_4_825bfb06:
 
     # "Но Рейму знала своенравность Юкари и решила подождать ещё немного, усевшись на заднем дворике с чашкой чая и парой порций {a=show:prompt}{color=#d9f136}данго{/color}{/a}."
-    "Pero Reimu conocía la obstinación de Yukari y decidió esperar un poco más, sentándose en el patio trasero con una taza de té y un par de {a=show:prompt}{color=#d9f136}dangos{/color}{/a}."
+    "Pero Reimu conocía cuán obstinada podía ser Yukari y decidió esperar un poco más, sentándose en el patio trasero con una taza de té y un par de {a=show:prompt}{color=#d9f136}dangos{/color}{/a}."
 
 # game/script/prologue/scene4.rpy:92
 translate spanish prologue_scene_4_58bc3dff:
@@ -34,7 +34,7 @@ translate spanish prologue_scene_4_58bc3dff:
 translate spanish prologue_scene_4_1709e4f4:
 
     # "К счастью, эти размышления о прервала рука, что тянулась к данго из знакомого разрыва в пространстве."
-    "Afortunadamente, estas reflexiones fueron interrumpidas por una mano que se extendió hacia los dango desde una familiar grieta en el espacio."
+    "Afortunadamente, estas reflexiones fueron interrumpidas por una mano que se extendió hacia los dangos desde una familiar grieta en el espacio."
 
 # game/script/prologue/scene4.rpy:110
 translate spanish prologue_scene_4_f4ecdab5:

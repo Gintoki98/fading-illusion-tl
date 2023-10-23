@@ -178,7 +178,7 @@ translate spanish destitute1_scene2_8_3713296b:
 translate spanish destitute1_scene2_8_c9eb2a67:
 
     # rei "Ещё как будут, у нас есть знакомые в Министерстве! Да и к тому же завтра начинается Обон – у них и так будет завал, в котором легко может потеряться отчётность за душу-другую. Главное, чтобы ей было куда возвращаться."
-    rei "Claro que sí; conocemos gente en el Ministerio. Y además, el Obon comienza mañana; estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
+    rei "Claro que sí, conocemos gente en el Ministerio. Y además, el Obon comienza mañana, estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:293
 translate spanish destitute1_scene2_8_9f29c78d:
@@ -214,7 +214,7 @@ translate spanish destitute1_scene2_8_cedfdf5c:
 translate spanish destitute1_scene2_8_f8df533e:
 
     # eirin "Кстати, мои услуги денег стоят, ты помнишь об этом?"
-    eirin "Por cierto, mis servicios cuestan dinero; ¿recuerdas eso?"
+    eirin "Por cierto, mis servicios cuestan dinero, ¿recuerdas eso?"
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:342
 translate spanish destitute1_scene2_8_13222ca9:
@@ -308,7 +308,7 @@ translate spanish destitute1_scene2_8_338b97e4:
 translate spanish destitute1_scene2_8_8158d100:
 
     # rei "Ещё как будут, у нас есть знакомые в {a=show:prompt}{color=#d9f136}Министерстве{/color}{/a}! Да и к тому же завтра начинается Обон – у них и так будет завал, в котором легко может потеряться отчётность за душу-другую. Главное, чтобы ей было куда возвращаться."
-    rei "Claro que lo estarán; conocemos gente en el {a=show:prompt}{color=#d9f136}Ministerio{/color}{/a}. Y además, Obon comienza mañana: estarán bastante ocupados, y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
+    rei "Claro que lo estarán, conocemos gente en el {a=show:prompt}{color=#d9f136}Ministerio{/color}{/a}. Y además, Obon comienza mañana: estarán bastante ocupados, y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:449
 translate spanish destitute1_scene2_8_34c8e8dc:
@@ -338,7 +338,7 @@ translate spanish destitute1_scene2_8_446647d2:
 translate spanish destitute1_scene2_8_f0b8cc60:
 
     # "С этим смрадом на жрицу будто заново обрушились все события: плачущие от страха дети, дикое выражение лица Мамидзо, внутренности...{fast} Рейму почувствовала, что её сейчас вырвет."
-    "Con este hedor, todos los eventos parecían caer de nuevo sobre ella: niños llorando de miedo, la expresión salvaje en el rostro de Mamizo, las entrañas...{rápido} Reimu sintió que iba a vomitar."
+    "Con este hedor, todos los eventos parecían caer de nuevo sobre ella: niños llorando de miedo, la expresión salvaje en el rostro de Mamizo, las entrañas...{fast} Reimu sintió que iba a vomitar."
 
 # game/script/destitute_chapter/day1/scene2_8.rpy:483
 translate spanish destitute1_scene2_8_d959ac07:

@@ -28,7 +28,7 @@ translate spanish destitute1_scene2_5_a76e311c:
 translate spanish destitute1_scene2_5_20417f6c:
 
     # kokoro "Всё, Рейму-сан, хватит с меня на сегодня."
-    kokoro "Esto es todo, Reimu-san; ya terminé por hoy."
+    kokoro "Esto es todo, Reimu-san, ya terminé por hoy."
 
 # game/script/destitute_chapter/day1/scene2_5.rpy:109
 translate spanish destitute1_scene2_5_d2d259ab:
@@ -52,7 +52,7 @@ translate spanish destitute1_scene2_5_5c60cb10:
 translate spanish destitute1_scene2_5_4da4a499:
 
     # kokoro "Нет, простите, у меня завтра тренировка утром, так что лучше я буду в здравом уме."
-    kokoro "No, lo siento; tengo entrenamiento mañana por la mañana, así que preferiría estar sobria."
+    kokoro "No, lo siento, tengo entrenamiento mañana por la mañana, así que preferiría estar sobria."
 
 # game/script/destitute_chapter/day1/scene2_5.rpy:148
 translate spanish destitute1_scene2_5_734222b2:
@@ -99,7 +99,7 @@ translate spanish destitute1_scene2_5_740a12b6:
 translate spanish destitute1_scene2_5_be57a82f:
 
     # rei "Да нет…"
-    rei "Por unos minutos…"
+    rei "Por unos minutos..."
 
 # game/script/destitute_chapter/day1/scene2_5.rpy:184
 translate spanish destitute1_scene2_5_f3991fda:
@@ -165,7 +165,7 @@ translate spanish destitute1_scene2_5_eb506f62:
 translate spanish destitute1_scene2_5_06c2dd30:
 
     # rei "Да сегодня заглянула в Кориндо, а он…{w} Ну…{w} В запой он ушёл, короче."
-    rei "Hoy pasé por Kourindou, y él... Bueno... se embriagó."
+    rei "Hoy pasé por Kourindou, y él... Bueno... estaba embriagado."
 
 # game/script/destitute_chapter/day1/scene2_5.rpy:279
 translate spanish destitute1_scene2_5_dc9b6ceb:
@@ -467,7 +467,7 @@ translate spanish destitute1_scene2_5_83470315:
 translate spanish destitute1_scene2_5_d43749cf:
 
     # rei "Да сегодня заглянула в Кориндо, а он… Ну…{fast} В запой он ушёл, короче."
-    rei "Hoy fui a Kourindou, y él… Bueno… {fast} se embriagó."
+    rei "Hoy fui a Kourindou, y él… Bueno… {fast} estaba embriagado."
 
 # game/script/destitute_chapter/day1/scene2_5.rpy:341
 translate spanish destitute1_scene2_5_b6d58420:
@@ -521,7 +521,7 @@ translate spanish destitute1_scene2_5_9b460b32:
 translate spanish destitute1_scene2_5_5f947853:
 
     # mar "Ну да, но всё же странно, что…{w} А, так сегодня же полная Луна! Я всё время про это забываю!"
-    mar "Bueno, sí, pero aún así es extraño que... {w} ¡Oh, es la luna llena esta noche! Siempre olvido eso!"
+    mar "Bueno, sí, pero aún así es extraño que... {w} ¡Oh, es la luna llena esta noche! ¡Siempre olvido eso!"
 
 translate spanish strings:
 

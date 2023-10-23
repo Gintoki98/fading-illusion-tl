@@ -322,7 +322,7 @@ translate spanish destitute1_scene1_4_9a1d5efb:
 translate spanish destitute1_scene1_4_e74d4c23:
 
     # rei "Так, дай-ка сюда!"
-    rei "Bueno, ¡dámelo!"
+    rei "Bueno, ¡dámela!"
 
 # game/script/destitute_chapter/day1/scene1_4.rpy:555
 translate spanish destitute1_scene1_4_2db8ab44:
@@ -538,7 +538,7 @@ translate spanish destitute1_scene1_4_ae271881:
 translate spanish destitute1_scene1_4_cff961bb:
 
     # mami "Не беспокойся, всякое случается!"
-    mami "No te preocupes; estas cosas suceden."
+    mami "No te preocupes, estas cosas suceden."
 
 # game/script/destitute_chapter/day1/scene1_4.rpy:865
 translate spanish destitute1_scene1_4_9813fb74:
@@ -574,7 +574,7 @@ translate spanish destitute1_scene1_4_3adce11b_1:
 translate spanish destitute1_scene1_4_9c0d1518:
 
     # kokoro "Я всё поняла, буду усерднее учиться контролировать свои эмоции."
-    kokoro "Entiendo; voy a entrenar más duro para controlar mis emociones."
+    kokoro "Entiendo, voy a entrenar más duro para controlar mis emociones."
 
 # game/script/destitute_chapter/day1/scene1_4.rpy:908
 translate spanish destitute1_scene1_4_4d812c65:
@@ -664,7 +664,7 @@ translate spanish destitute1_scene1_4_1e546f04:
 translate spanish destitute1_scene1_4_96954eda:
 
     # rei "Если вдруг нападёт кто, то просто их кинь в него, даже сильных это должно обездвижить на некоторое время."
-    rei "Si alguien intenta atacarte, solo arroja estos a ellos; inmovilizarán incluso a enemigos poderosos durante un tiempo."
+    rei "Si alguien intenta atacarte, solo arroja estos a ellos, inmovilizarán incluso a enemigos poderosos durante un tiempo."
 
 # game/script/destitute_chapter/day1/scene1_4.rpy:1036
 translate spanish destitute1_scene1_4_f112a897:

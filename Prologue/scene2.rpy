@@ -268,7 +268,7 @@ translate spanish prologue_scene_20_5cff6838:
 translate spanish prologue_scene_20_d4b5bb95:
 
     # byak "Компаку-сан, вы слишком остро на всё реагируете. Она же просто случайно столкнулась со мной."
-    byak "Youmu, estás reaccionando demasiado agudamente. Ella simplemente se tropezó conmigo por casualidad."
+    byak "Youmu, estas siendo demasiado hostil. Ella simplemente se tropezó conmigo por casualidad."
 
 # game/script/prologue/scene2.rpy:557
 translate spanish prologue_scene_20_7a7dbd66:
@@ -358,7 +358,7 @@ translate spanish prologue_scene_20_cdf90f4c:
 translate spanish prologue_scene_20_39dbb9f1:
 
     # "Впрочем, мечница быстро взяла себя в руки."
-    "Sin embargo, la maga rápidamente se recompuso."
+    "Sin embargo, la espadachina rápidamente se recompuso."
 
 # game/script/prologue/scene2.rpy:705
 translate spanish prologue_scene_20_5204b348:
@@ -400,7 +400,7 @@ translate spanish prologue_scene_20_98e07a56:
 translate spanish prologue_scene_20_93a97e5a:
 
     # you "Ох, вы правы, я замешкалась! Приятно было увидеться."
-    you "Oh, tienes razón, me distraje. Ha sido un placer verte."
+    you "Oh, tienes razón, me distraje. Ha sido un placer verlas."
 
 # game/script/prologue/scene2.rpy:766
 translate spanish prologue_scene_20_23b1586a:
@@ -418,7 +418,7 @@ translate spanish prologue_scene_20_84d676a7:
 translate spanish prologue_scene_20_8ae62fdf:
 
     # byak "Ты правда такого мнения о Компаку-сан?"
-    byak "¿Realmente tienes esa opinión sobre Kompaku-san?"
+    byak "¿Realmente tienes esa opinión sobre Konpaku-san?"
 
 # game/script/prologue/scene2.rpy:796
 translate spanish prologue_scene_20_31a68d89:
@@ -490,7 +490,7 @@ translate spanish prologue_scene_20_519e2176:
 translate spanish prologue_scene_20_7d4b7123:
 
     # mar "Так это же Корин!" (multiple=2)
-    mar "¡Es Kourin!" (multiple=2)
+    mar "¡Es korin!" (multiple=2)
 
 # game/script/prologue/scene2.rpy:908
 translate spanish prologue_scene_20_dbc039c4:
@@ -508,7 +508,7 @@ translate spanish prologue_scene_20_a386664c:
 translate spanish prologue_scene_20_bcfbda58:
 
     # mar "Хозяин Кориндо, Ринноске Моричика."
-    mar "El dueño de Kourindou, Rinnosuke Morichika."
+    mar "El dueño de korindou, Rinnosuke Morichika."
 
 # game/script/prologue/scene2.rpy:934
 translate spanish prologue_scene_20_a1c037ec:
@@ -526,7 +526,7 @@ translate spanish prologue_scene_20_72a2967a:
 translate spanish prologue_scene_20_93d4923d:
 
     # byak "Я много слышала про сам Кориндо, но никогда не видела его владельца."
-    byak "He oído mucho sobre Kourindou en sí, pero nunca he conocido al dueño."
+    byak "He oído mucho sobre korindou en sí, pero nunca he conocido al dueño."
 
 # game/script/prologue/scene2.rpy:966
 translate spanish prologue_scene_20_e897e5ea:
@@ -544,7 +544,7 @@ translate spanish prologue_scene_20_ad026400:
 translate spanish prologue_scene_20_4df1921c:
 
     # "В выражении лица Бякурен появилось непреодолимое желание как можно скорее познакомиться с этим таинственным «владельцем Кориндо»."
-    "En la expresión de Byakuren surgió un deseo irresistible de conocer lo antes posible a ese misterioso 'dueño de Kourindou'."
+    "En la expresión de Byakuren surgió un deseo irresistible de conocer lo antes posible a ese misterioso 'dueño de korindou'."
 
 # game/script/prologue/scene2.rpy:988
 translate spanish prologue_scene_20_b90ec31d:
@@ -790,7 +790,7 @@ translate spanish prologue_scene_20_20af7264:
 translate spanish prologue_scene_20_c9112963:
 
     # byak "Воровать трупы?! Вот ты и попалась!"
-    byak "¿Robar cadáveres?! ¡Te atraparon!"
+    byak "¿Robar cadáveres?! ¡Te atrapé!"
 
 # game/script/prologue/scene2.rpy:1316
 translate spanish prologue_scene_20_27213633:
@@ -802,7 +802,7 @@ translate spanish prologue_scene_20_27213633:
 translate spanish prologue_scene_20_49856a43:
 
     # orin "Ничего личного, я же кася! Каси воруют трупы! Это всё моя природа, я не виновата!"
-    orin "¡No es nada personal, soy un Kasha! ¡Los Kasha roban cadáveres! ¡Es parte de mi naturaleza, no soy culpable!"
+    orin "¡No es nada personal, soy una Kasha! ¡Los Kasha roban cadáveres! ¡Es parte de mi naturaleza, no soy culpable!"
 
 # game/script/prologue/scene2.rpy:1326
 translate spanish prologue_scene_20_74487a7b:
@@ -922,7 +922,7 @@ translate spanish prologue_scene_20_56193734:
 translate spanish prologue_scene_20_a155fe86:
 
     # "Она бросила накидку в тележку и аккуратно толкнула её к ногам Бякурен, а затем низко поклонилась и поспешила убраться подальше, пока настоятельница не передумала."
-    "Arrojó su capa en el carrito y la empujó cuidadosamente hacia los pies de Byakuren, luego hizo una reverencia y se apresuró a alejarse antes de que la sacerdotisa cambiara de opinión."
+    "Arrojó su capa en la carreta y la empujó cuidadosamente hacia los pies de Byakuren, luego hizo una reverencia y se apresuró a alejarse antes de que la sacerdotisa cambiara de opinión."
 
 # game/script/prologue/scene2.rpy:1479
 translate spanish prologue_scene_20_dc521295:
@@ -934,7 +934,7 @@ translate spanish prologue_scene_20_dc521295:
 translate spanish prologue_scene_20_aac3eb17:
 
     # byak "Не думаю, что у неё получится украсть труп незаметно без своей тачки."
-    byak "No creo que pueda robar un cadáver discretamente sin su coche."
+    byak "No creo que pueda robar un cadáver discretamente sin su carreta."
 
 # game/script/prologue/scene2.rpy:1493
 translate spanish prologue_scene_20_f3207ec5:
@@ -970,7 +970,7 @@ translate spanish prologue_scene_20_ec7bef1c:
 translate spanish prologue_scene_20_a0073437:
 
     # mar "Видимо, не особо-то ей и нужно это ваше «просветление»."
-    mar "Parece que no le interesa mucho su 'iluminación'."
+    mar "Parece que no le interesa mucho tu 'iluminación'."
 
 # game/script/prologue/scene2.rpy:1541
 translate spanish prologue_scene_20_9256785b:
@@ -1036,7 +1036,7 @@ translate spanish prologue_scene_20_1032d550:
 translate spanish prologue_scene_20_f391daf2:
 
     # "Монахиня взяла тачку и поспешила ко входу в храм."
-    "La sacerdotisa tomó la carretilla y se apresuró hacia la entrada del templo."
+    "La sacerdotisa tomó la carreta y se apresuró hacia la entrada del templo."
 
 # game/script/prologue/scene2.rpy:1622
 translate spanish prologue_scene_20_9eaabb6e:
@@ -1108,7 +1108,7 @@ translate spanish prologue_scene_20_25e9e4c9:
 translate spanish prologue_scene_20_5a9d2256:
 
     # "В руках у каждого послушника было по большому свёртку с едой, а сама Бякурен несла перед собой несколько огромных столов, поставленных стопкой один на другой."
-    "Cada seguidor llevaba un gran paquete de comida en las manos, y Byakuren llevaba varios mesas enormes apiladas unas sobre otras delante de ella."
+    "Cada seguidor llevaba un gran paquete de comida en las manos, y Byakuren llevaba varias mesas enormes apiladas unas sobre otras delante de ella."
 
 # game/script/prologue/scene2.rpy:1711
 translate spanish prologue_scene_20_558b12bc:
@@ -1167,8 +1167,8 @@ translate spanish prologue_scene_20_d40d816f:
 # game/script/prologue/scene2.rpy:1784
 translate spanish prologue_scene_20_67af3743:
 
-    # Kourin "Добрый день. Я думал, ты не хотела идти."
-    Kourin "Buenos días. Pensé que no querías venir."
+    # korin "Добрый день. Я думал, ты не хотела идти."
+    korin "Buenos días. Pensé que no querías venir."
 
 # game/script/prologue/scene2.rpy:1792
 translate spanish prologue_scene_20_41b88d72:
@@ -1179,8 +1179,8 @@ translate spanish prologue_scene_20_41b88d72:
 # game/script/prologue/scene2.rpy:1801
 translate spanish prologue_scene_20_9f2d4718:
 
-    # Kourin "А, так ты из-за неё..."
-    Kourin "Ah, así que es por ella..."
+    # korin "А, так ты из-за неё..."
+    korin "Ah, así que es por ella..."
 
 # game/script/prologue/scene2.rpy:1813
 translate spanish prologue_scene_20_dfcdc9d2:
@@ -1221,8 +1221,8 @@ translate spanish prologue_scene_20_80b42c81:
 # game/script/prologue/scene2.rpy:1883
 translate spanish prologue_scene_20_d154ce49:
 
-    # Kourin "Я же предупреждал тебя, что не умею драться."
-    Kourin "Te advertí que no sé pelear."
+    # korin "Я же предупреждал тебя, что не умею драться."
+    korin "Te advertí que no sé pelear."
 
 # game/script/prologue/scene2.rpy:1897
 translate spanish prologue_scene_20_76c1bc45:
@@ -1233,8 +1233,8 @@ translate spanish prologue_scene_20_76c1bc45:
 # game/script/prologue/scene2.rpy:1907
 translate spanish prologue_scene_20_2538ed80:
 
-    # Kourin "Зря ты так думаешь, я..."
-    Kourin "No deberías pensar así, yo..."
+    # korin "Зря ты так думаешь, я..."
+    korin "No deberías pensar así, yo..."
 
 # game/script/prologue/scene2.rpy:1923
 translate spanish prologue_scene_20_9ae77ba3:

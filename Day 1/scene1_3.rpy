@@ -232,7 +232,7 @@ translate spanish destitute1_scene1_3_b4394387:
 translate spanish destitute1_scene1_3_e648ae6d:
 
     # mar "Ништяк! Тогда позови Сумиреко тоже, пусть повеселится с нами!"
-    mar "¡Genial! Entonces, también llama a Sumireko; que se divierta con nosotros."
+    mar "¡Genial! Entonces, también llama a Sumireko, que se divierta con nosotros."
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:464
 translate spanish destitute1_scene1_3_e6f6b3c4:
@@ -256,7 +256,7 @@ translate spanish destitute1_scene1_3_39312493:
 translate spanish destitute1_scene1_3_587b1469:
 
     # mar "Отлично! Ты, кстати, тоже приходи. И Сумиреко захвати — нужно же будет объясниться и извиниться, если она обидится."
-    mar "¡Perfecto! Por cierto, deberías venir también. Y lleva a Sumireko contigo; tendremos que explicarnos y disculparnos si se ofende."
+    mar "¡Perfecto! Por cierto, deberías venir también. Y lleva a Sumireko contigo, tendremos que explicarnos y disculparnos si se ofende."
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:513
 translate spanish destitute1_scene1_3_8d68ff5e:
@@ -280,13 +280,13 @@ translate spanish destitute1_scene1_3_7c5ebc59:
 translate spanish destitute1_scene1_3_92c1ffd3:
 
     # mami "Так я не одна буду, со мной мои ребятки пойдут."
-    mami "No estaré sola; mis compañeros me acompañarán."
+    mami "No estaré sola, mis compañeritos me acompañarán."
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:554
 translate spanish destitute1_scene1_3_e9ed9af8:
 
     # rei "Какие ребятки?"
-    rei "¿Compañeros?"
+    rei "¿Qué compañeritos?"
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:563
 translate spanish destitute1_scene1_3_87bf6c6d:
@@ -328,7 +328,7 @@ translate spanish destitute1_scene1_3_793d9486:
 translate spanish destitute1_scene1_3_2e29ca96:
 
     # mami "Маскировка всё ещё никуда не годится. Можете не притворяться: все уже поняли, что вы не люди."
-    mami "El disfraz todavía no es suficientemente bueno. Pueden dejar de fingir; todos ya saben que no son humanos."
+    mami "El disfraz todavía no es suficientemente bueno. Pueden dejar de fingir, todos ya saben que no son humanos."
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:591
 translate spanish destitute1_scene1_3_8cd71c55:
@@ -358,7 +358,7 @@ translate spanish destitute1_scene1_3_472b7360:
 translate spanish destitute1_scene1_3_f8eecee4:
 
     # mar "И поразилась бы успехам!"
-    mar "...¡Y se sorprendería por el resultado!"
+    mar "...¡Y te sorprendería el resultado!"
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:625
 translate spanish destitute1_scene1_3_217b3ab1:
@@ -526,7 +526,7 @@ translate spanish destitute1_scene1_3_fad38500:
 translate spanish destitute1_scene1_3_7c679eb6:
 
     # mami "Успеем, не переживай. Как только увидишь меня и Сумиреко в толпе – смело подходи."
-    mami "Lo haremos; no te preocupes. Tan pronto como nos veas a mí y a Sumireko en la multitud, acércate."
+    mami "Lo haremos, no te preocupes. Tan pronto como nos veas a mí y a Sumireko en la multitud, acércate."
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:746
 translate spanish destitute1_scene1_3_19caa4c4:
@@ -544,7 +544,7 @@ translate spanish destitute1_scene1_3_f717dd10:
 translate spanish destitute1_scene1_3_bfeaa119:
 
     # "К её удивлению, каппы уже закончили все работы и мирно раскладывали свои приспособления на прилавке одной из возведённых лавочек. Видимо, все эти споры и ругань были из-за пяти минут работы."
-    "Para su sorpresa, las kappas ya habían terminado todo su trabajo y ahora estaban colocando pacíficamente sus herramientas en uno de los mostradores que habían construido. Aparentemente, todas esas discusiones y juramentos eran por cinco minutos de trabajo."
+    "Para su sorpresa, las kappas ya habían terminado todo su trabajo y ahora estaban colocando pacíficamente sus herramientas en uno de los mostradores que habían construido. Aparentemente, todas esas discusiones y maldiciones eran por cinco minutos de trabajo."
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:766
 translate spanish destitute1_scene1_3_e218b309:
@@ -573,7 +573,7 @@ translate spanish strings:
 translate spanish destitute1_scene1_3_d5afe069:
 
     # rei "Какие ещё ребятки?"
-    rei "¿Compañeros?"
+    rei "¿Qué compañeritos?"
 
 # game/script/destitute_chapter/day1/scene1_3.rpy:746
 translate spanish destitute1_scene1_3_28e9aa14:

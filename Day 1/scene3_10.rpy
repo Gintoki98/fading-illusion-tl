@@ -46,19 +46,19 @@ translate spanish destitute1_scene3_10_ccf9ad9a:
 translate spanish destitute1_scene3_10_ac879307:
 
     # mar "Хе-ей! А вот и я!"
-    mar "¡Holaaa! ¡Aquí estoy!"
+    mar "¡Holaaa! ¡Ya llegué!"
 
 # game/script/destitute_chapter/day1/scene3_10.rpy:153
 translate spanish destitute1_scene3_10_daa49ec3:
 
     # reisen "Простите, госпожа, она говорит, что у неё важные сведения!"
-    reisen "Perdón, Maestra; ¡dice que tiene información importante!"
+    reisen "Perdón, Maestra, ¡dice que tiene información importante!"
 
 # game/script/destitute_chapter/day1/scene3_10.rpy:155
 translate spanish destitute1_scene3_10_26622075:
 
     # mar "Сумиреко не переправляли через реку, её вообще там не заметили!"
-    mar "A Sumireko no la cruzaron por el río; su alma no fue vista allí en absoluto."
+    mar "A Sumireko no la cruzaron por el río, su alma no fue vista allí en absoluto."
 
 # game/script/destitute_chapter/day1/scene3_10.rpy:157
 translate spanish destitute1_scene3_10_9f442252:
@@ -178,7 +178,7 @@ translate spanish destitute1_scene3_10_1136e2f6:
 translate spanish destitute1_scene3_10_8b618ee0:
 
     # mar "Чего?! Мамидзо?!"
-    mar "¿¡Qué?! ¿Mamizou?!"
+    mar "¿¡Qué?! ¡¿Mamizou?!"
 
 # game/script/destitute_chapter/day1/scene3_10.rpy:279
 translate spanish destitute1_scene3_10_be839f98:
@@ -262,7 +262,7 @@ translate spanish destitute1_scene3_10_04ab3565:
 translate spanish destitute1_scene3_10_df0a93f2:
 
     # rei "Не сомневайся, разберёмся. Надо только найти Мамидзо."
-    rei "No hay duda al respecto; lo resolveremos. Solo tenemos que encontrar a Mamizou."
+    rei "No hay duda al respecto, lo resolveremos. Solo tenemos que encontrar a Mamizou."
 
 # game/script/destitute_chapter/day1/scene3_10.rpy:360
 translate spanish destitute1_scene3_10_8922d66b:
@@ -287,7 +287,7 @@ translate spanish destitute1_scene3_10_39eeeb09:
 translate spanish destitute1_scene3_10_f539eb20:
 
     # mar "Всё путём! Сумиреко не переправляли через реку, её вообще там не заметили!"
-    mar "¡Buenas noticias! ¡A Sumireko no la llevaron al otro lado del río; su alma no se vio allí en absoluto!"
+    mar "¡Buenas noticias! ¡A Sumireko no la llevaron al otro lado del río, su alma no se vio allí en absoluto!"
 
 # game/script/destitute_chapter/day1/scene3_10.rpy:107
 translate spanish destitute1_scene3_10_3ff2fa41:

@@ -34,7 +34,7 @@ translate spanish destitute1_scene3_11_793b10cc:
 translate spanish destitute1_scene3_11_98fb172b:
 
     # mar "Ещё как хочу! Надо найти и наказать тех мразей, которые это устроили!"
-    mar "¡Sí, lo quiero! ¡Tenemos que encontrar y castigar a los miserables que hicieron esto!"
+    mar "¡Claro que si! ¡Tenemos que encontrar y castigar a los miserables que hicieron esto!"
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:101
 translate spanish destitute1_scene3_11_96d750fe:
@@ -82,7 +82,7 @@ translate spanish destitute1_scene3_11_eae41fa0:
 translate spanish destitute1_scene3_11_dadf05f7:
 
     # rei "К северу от моего храма поляна с большим булыжником в центре, на булыжнике вмятина от удара, — начинай поиски оттуда!"
-    rei "Al norte de mi santuario hay un claro con una gran roca en el centro; la roca tiene una muesca del golpe — puedes comenzar tu búsqueda desde allí."
+    rei "Al norte de mi santuario hay un claro con una gran roca en el centro, la roca tiene una muesca del golpe — puedes comenzar tu búsqueda desde allí."
 
 # game/script/destitute_chapter/day1/scene3_11.rpy:169
 translate spanish destitute1_scene3_11_5229a150:

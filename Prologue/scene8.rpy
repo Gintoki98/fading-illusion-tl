@@ -16,7 +16,7 @@ translate spanish prologue_scene_8_ef1df2c0:
 translate spanish prologue_scene_8_b5af50b0:
 
     # "Впрочем, деревенские жители так не думали, с опаской поглядывая на парящую возле кабинки охрану в виде нескольких тэнгу."
-    "Sin embargo, los habitantes del pueblo no pensaban lo mismo, mirando con recelo a la guardia de varios Tengu que patrullaba cerca de la cabina."
+    "Sin embargo, los habitantes del pueblo no pensaban lo mismo, mirando con recelo a la guardia de varios Tengu que patrullaban cerca de la cabina."
 
 # game/script/prologue/scene8.rpy:116
 translate spanish prologue_scene_8_38a3bbff:
@@ -94,7 +94,7 @@ translate spanish prologue_scene_8_6780a418:
 translate spanish prologue_scene_8_f00b02c2:
 
     # san "Что привело вас к нам сегодня?"
-    san "¿Qué les trae hoy a nuestro templo?"
+    san "¿Qué la trae hoy a nuestro templo?"
 
 # game/script/prologue/scene8.rpy:210
 translate spanish prologue_scene_8_cbc5f2b8:
@@ -310,7 +310,7 @@ translate spanish prologue_scene_8_bc1e8413:
 translate spanish prologue_scene_8_8a7919ee:
 
     # sum "З-здарствуйте!.. Д-да, это я!.."
-    sum "H-hola!... S-sí, soy yo!.."
+    sum "¡H-hola!... ¡S-sí, soy yo!.."
 
 # game/script/prologue/scene8.rpy:502
 translate spanish prologue_scene_8_c6a40640:
@@ -406,7 +406,7 @@ translate spanish prologue_scene_8_5fe4ca8a:
 translate spanish prologue_scene_8_0ae4b0bf:
 
     # moko "И чего ты так испугалась? Проклятия тучи над головой?"
-    moko "¿Y por qué te asustaste tanto? ¿Maldiciones en las nubes sobre tu cabeza?"
+    moko "¿Y por qué te asustaste tanto? ¿Temes que aparezca una nube maldita sobre tu cabeza?"
 
 # game/script/prologue/scene8.rpy:641
 translate spanish prologue_scene_8_c41ec4fc:
@@ -622,7 +622,7 @@ translate spanish prologue_scene_8_9e0d3bd9:
 translate spanish prologue_scene_8_8ccb1c6f:
 
     # sum "Я пообещала Рейму-ччи встретиться тут на закате."
-    sum "Le prometí a Reimu-chan que nos encontraríamos aquí al atardecer."
+    sum "Le prometí a Reimucchi que nos encontraríamos aquí al atardecer."
 
 # game/script/prologue/scene8.rpy:961
 translate spanish prologue_scene_8_6803ad43:
@@ -682,7 +682,7 @@ translate spanish prologue_scene_8_26447bee:
 translate spanish prologue_scene_8_cddfeb30:
 
     # moko "В общем, я предпочитаю компаниям личные встречи."
-    moko "En resumen, prefiero encuentros más personales en compañía."
+    moko "En resumen, prefiero encuentros más personales que con varias personas."
 
 # game/script/prologue/scene8.rpy:1034
 translate spanish prologue_scene_8_55321682:
@@ -706,7 +706,7 @@ translate spanish prologue_scene_8_4c121326:
 translate spanish prologue_scene_8_92f2ff23:
 
     # rei "Наконец-то я тут..."
-    rei "Finalmente, estoy aquí..."
+    rei "Al fin, estoy aquí..."
 
 # game/script/prologue/scene8.rpy:1060
 translate spanish prologue_scene_8_13b88e79:
@@ -718,7 +718,7 @@ translate spanish prologue_scene_8_13b88e79:
 translate spanish prologue_scene_8_d819c050:
 
     # sum "Привет! Да уж, могла бы и поторопиться!"
-    sum "¡Hola! Bueno, podrías haber llegado un poco más rápido."
+    sum "¡Hola! Podrías haber llegado un poco más rápido."
 
 # game/script/prologue/scene8.rpy:1069
 translate spanish prologue_scene_8_93431acb:
@@ -916,7 +916,7 @@ translate spanish prologue_scene_8_87c5a4f9:
 translate spanish prologue_scene_8_05a87721:
 
     # "Сумиреко не могла сказать, Рейму это или нет. По росту он казался гораздо ниже, но наряд был похож, да и этот бант на голове..."
-    "Sumireko no podía decir si era Reimu o no. Por su altura, parecía mucho más bajo, pero el atuendo era similar, y también tenía el lazo en la cabeza..."
+    "Sumireko no podía decir si era Reimu o no. Por su altura, parecía mucho más baja, pero el atuendo era similar, y también tenía un lazo en la cabeza..."
 
 # game/script/prologue/scene8.rpy:1291
 translate spanish prologue_scene_8_96ce60ad:

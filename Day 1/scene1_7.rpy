@@ -10,7 +10,7 @@ translate spanish destitute1_scene1_7_51c52fce:
 translate spanish destitute1_scene1_7_b8fbf293:
 
     # rei "Всё в порядке! Просто пара глупых баке-дануки подралась из-за бутыли сакэ! Я их приструнила, можете возвращаться!"
-    rei "¡Todo está bien! ¡Un par de baké-danuki estúpidos se pelearon por una botella de sake! Los tengo controlados; pueden regresar a casa tranquilos."
+    rei "¡Todo está bien! ¡Un par de bake-danuki estúpidos se pelearon por una botella de sake! Los tengo controlados, pueden regresar a casa tranquilos."
 
 # game/script/destitute_chapter/day1/scene1_7.rpy:103
 translate spanish destitute1_scene1_7_3f9e637d:
@@ -202,7 +202,7 @@ translate spanish destitute1_scene1_7_f050117d:
 translate spanish destitute1_scene1_7_0f298dcc:
 
     # rei "А вот и конкуренты пожаловали!"
-    rei "¡Aquí vienen los competidores!"
+    rei "¡Aquí vienen los concursantes!"
 
 # game/script/destitute_chapter/day1/scene1_7.rpy:323
 translate spanish destitute1_scene1_7_ffc25a05:
@@ -256,7 +256,7 @@ translate spanish destitute1_scene1_7_3585073f:
 translate spanish destitute1_scene1_7_ca5a0daa:
 
     # kan "Всё ещё не хочешь провести электричество и к себе? Поторопись, у тебя есть всего пара дней."
-    kan "Pero aún así, ¿no quieres llevar la electricidad a tu lugar? Si es así, más te vale darte prisa; solo te quedan un par de días."
+    kan "Pero aún así, ¿no quieres llevar la electricidad a tu lugar? Si es así, más te vale darte prisa, solo te quedan un par de días."
 
 # game/script/destitute_chapter/day1/scene1_7.rpy:399
 translate spanish destitute1_scene1_7_c344306a:
@@ -280,7 +280,7 @@ translate spanish destitute1_scene1_7_ff007573:
 translate spanish destitute1_scene1_7_fec610bf:
 
     # rei "Вы сакэ-то принесли по старой дружбе?"
-    rei "¿Trajeron saké por los viejos tiempos?"
+    rei "¿Trajeron sake por los viejos tiempos?"
 
 # game/script/destitute_chapter/day1/scene1_7.rpy:425
 translate spanish destitute1_scene1_7_e54c37e4:
@@ -322,7 +322,7 @@ translate spanish destitute1_scene1_7_dc4aa571:
 translate spanish destitute1_scene1_7_c9460f2c:
 
     # "Рейму поманила гостей за собой и прошла внутрь храма. Там, на одной из полок, хранились её запасы качественного сакэ для особых случаев."
-    "Reimu hizo señas a sus invitados para que la siguieran y entró en el santuario. Allí, en una de las repisas, estaba su suministro de saké de calidad para ocasiones especiales."
+    "Reimu hizo señas a sus invitados para que la siguieran y entró en el santuario. Allí, en una de las repisas, estaba su suministro de sake de calidad para ocasiones especiales."
 
 # game/script/destitute_chapter/day1/scene1_7.rpy:446
 translate spanish destitute1_scene1_7_4b35a671:

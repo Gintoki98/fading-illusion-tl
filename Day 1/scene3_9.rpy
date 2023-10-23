@@ -136,7 +136,7 @@ translate spanish destitute1_scene3_9_1ce214b0:
 translate spanish destitute1_scene3_9_dfcdeb1a:
 
     # rei "Скрылась, её уже ищут."
-    rei "Se escondió; ya la están buscando."
+    rei "Se escondió, ya la están buscando."
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:239
 translate spanish destitute1_scene3_9_a1ca3bac:
@@ -202,7 +202,7 @@ translate spanish destitute1_scene3_9_2ea15f12:
 translate spanish destitute1_scene3_9_d06dc334:
 
     # eirin "Я не специалист в духах, лучше обратись с этим вопросом к настоятельнице храма Мёрена."
-    eirin "No soy una experta en espíritus; sería mejor que consultaras con la sacerdotisa principal del Templo Myouren."
+    eirin "No soy una experta en espíritus, sería mejor que consultaras con la sacerdotisa principal del Templo Myouren."
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:334
 translate spanish destitute1_scene3_9_be2e54ff:
@@ -244,7 +244,7 @@ translate spanish destitute1_scene3_9_3713296b:
 translate spanish destitute1_scene3_9_e03a143d:
 
     # rei "Ещё как будут, у нас есть знакомые в Министерстве! Да и к тому же завтра начинается Обон – у них и так будет завал, в котором легко может потеряться отчётность за душу-другую." ПОВТОР ПЕРЕВОДА ИЗ 2_8
-    rei "Claro que lo harán; conocemos gente en el Ministerio. Y además, mañana comienza el Obon. Estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
+    rei "Claro que lo harán, conocemos gente en el Ministerio. Y además, mañana comienza el Obon. Estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:393
 translate spanish destitute1_scene3_9_9f29c78d:
@@ -280,7 +280,7 @@ translate spanish destitute1_scene3_9_cedfdf5c:
 translate spanish destitute1_scene3_9_f8df533e:
 
     # eirin "Кстати, мои услуги денег стоят, ты помнишь об этом?" ПОВТОР ПЕРЕВОДА ИЗ 2_8
-    eirin "Por cierto, mis servicios cuestan dinero; ¿recuerdas eso?"
+    eirin "Por cierto, mis servicios cuestan dinero, ¿recuerdas eso?"
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:442
 translate spanish destitute1_scene3_9_13222ca9:
@@ -422,7 +422,7 @@ translate spanish destitute1_scene3_9_bf95ea23:
 translate spanish destitute1_scene3_9_b66ad932:
 
     # rei "Ещё как будут, у нас есть знакомые в {a=show:prompt}{color=#d9f136}Министерстве{/color}{/a}! Да и к тому же завтра начинается Обон – у них и так будет завал, в котором легко может потеряться отчётность за душу-другую."
-    rei "Seguro que lo harán; conocemos gente en el {a=show:prompt}{color=#d9f136}Ministerio{/color}{/a}. Y además, Obon comienza mañana; estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
+    rei "Seguro que lo harán, conocemos gente en el {a=show:prompt}{color=#d9f136}Ministerio{/color}{/a}. Y además, Obon comienza mañana, estarán bastante ocupados y los informes de una o dos almas podrían perderse fácilmente en el proceso. Lo más importante es tener un lugar al que pueda regresar."
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:562
 translate spanish destitute1_scene3_9_34c8e8dc:

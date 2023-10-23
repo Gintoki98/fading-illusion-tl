@@ -22,7 +22,7 @@ translate spanish prologue_scene_5_c2b5f087:
 translate spanish prologue_scene_5_a7ea000f:
 
     # "Из-за отсутствия клиентов он не слишком заботился о таких пустяках, как уборка помещения или ротация товаров. Что на улице, что внутри – всё было заставлено разного рода ящиками, коробками и полками, на которых покоилась коллекция диковинок из Внешнего мира."
-    "Debido a la falta de clientes, a Rinnosuke no le importaba mucho cosas como limpiar su tienda o cambiar su inventario. Tanto dentro como fuera, estaba lleno de cajas y estanterías que albergaban una colección de rarezas del Mundo Exterior."
+    "Debido a la falta de clientes, a Rinnosuke no le importaba mucho cosas como limpiar su tienda o renovar su inventario. Tanto dentro como fuera, estaba lleno de cajas y estanterías que albergaban una colección de rarezas del Mundo Exterior."
 
 # game/script/prologue/scene5.rpy:111
 translate spanish prologue_scene_5_c0e346a8:
@@ -166,7 +166,7 @@ translate spanish prologue_scene_5_673fd7d0:
 translate spanish prologue_scene_5_431c5cd6:
 
     # "Юкари не шевелилась, не моргала и даже будто бы не дышала, напоминая скорее статую самой себя."
-    "Yukari no se movía, no parpadeaba e incluso parecía que no estaba respirando, más parecía una estatua de sí misma."
+    "Yukari no se movía, no parpadeaba e incluso parecía que no estaba respirando, mas parecía una estatua de sí misma."
 
 # game/script/prologue/scene5.rpy:264
 translate spanish prologue_scene_5_3b9a4f7f:
@@ -502,7 +502,7 @@ translate spanish prologue_scene_5_a57e3909:
 translate spanish prologue_scene_5_ebf8c899:
 
     # "На этот раз у него осталось ровно столько самообладания, сколько требовалось для пары слов."
-    "Esta vez, le quedaba exactamente la cantidad justa de autocontrol necesaria para decir unas palabras."
+    "Esta vez, le quedaba exactamente la cantidad justa de autocontrol necesario para decir unas palabras."
 
 # game/script/prologue/scene5.rpy:734
 translate spanish prologue_scene_5_859112a2:

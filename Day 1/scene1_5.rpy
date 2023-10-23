@@ -4,7 +4,7 @@
 translate spanish destitute1_scene1_5_d9bf9f5b:
 
     # rei "Спасибо за пожертвование, удачного вечера!"
-    rei "¡Gracias por la donación; tenga una buena noche!"
+    rei "¡Gracias por la donación, tenga una buena noche!"
 
 # game/script/destitute_chapter/day1/scene1_5.rpy:81
 translate spanish destitute1_scene1_5_74dd764c:
@@ -136,7 +136,7 @@ translate spanish destitute1_scene1_5_8a433c21:
 translate spanish destitute1_scene1_5_889fe794:
 
     # rei "Тогда никуда не уходи, а я пойду скажу каппам сворачиваться."
-    rei "Entonces no te vayas a ningún lado; iré a decirles a los kappas que terminen."
+    rei "Entonces no te vayas a ningún lado, iré a decirles a los kappas que terminen."
 
 # game/script/destitute_chapter/day1/scene1_5.rpy:237
 translate spanish destitute1_scene1_5_71bc18d7:
@@ -178,7 +178,7 @@ translate spanish destitute1_scene1_5_9f1fe607:
 translate spanish destitute1_scene1_5_5769be83:
 
     # rei "Оставайтесь около храма, сила божества Хакурей не подпустит ёкаев близко!"
-    rei "Manténganse cerca del santuario; el poder del dios Hakurei mantendrá alejados a los youkai."
+    rei "Manténganse cerca del santuario, el poder del dios Hakurei mantendrá alejados a los youkai."
 
 # game/script/destitute_chapter/day1/scene1_5.rpy:272
 translate spanish destitute1_scene1_5_40917c6a:

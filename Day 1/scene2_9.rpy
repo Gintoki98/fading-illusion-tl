@@ -82,7 +82,7 @@ translate spanish destitute1_scene2_9_02933276:
 translate spanish destitute1_scene2_9_9badbb83:
 
     # rei "А можно… Можно я? Я придумала!"
-    rei "¿Puedo... Puedo? Creo que lo tengo!"
+    rei "¿Puedo... Puedo? ¡Creo que lo tengo!"
 
 # game/script/destitute_chapter/day1/scene2_9.rpy:37
 translate spanish destitute1_scene2_9_6e2cc8af:
@@ -130,7 +130,7 @@ translate spanish destitute1_scene2_9_a7830092:
 translate spanish destitute1_scene2_9_b70d5b51:
 
     # "Спор сразу же затих. Никто не смел игнорировать слова легендарной ёкая границ."
-    "La discusión se silenció de inmediato. Nadie se atrevía a ignorar las palabras del legendario youkai de las fronteras."
+    "La discusión se silenció de inmediato. Nadie se atrevía a ignorar las palabras del legendario youkai de las brechas."
 
 # game/script/destitute_chapter/day1/scene2_9.rpy:56
 translate spanish destitute1_scene2_9_9070c878:
@@ -148,7 +148,7 @@ translate spanish destitute1_scene2_9_38749448:
 translate spanish destitute1_scene2_9_15711930:
 
     # yuk "Не бойся, Рейму, сейчас твой шанс показать себя как жрицу. Давай, как я тебя учила."
-    yuk "No tengas miedo, Reimu; ahora es tu oportunidad de demostrar que eres una sacerdotisa del santuario. Vamos, como te enseñé."
+    yuk "No tengas miedo, Reimu, ahora es tu oportunidad de demostrar que eres una sacerdotisa del santuario. Vamos, como te enseñé."
 
 # game/script/destitute_chapter/day1/scene2_9.rpy:62
 translate spanish destitute1_scene2_9_9f725038:
@@ -190,7 +190,7 @@ translate spanish destitute1_scene2_9_180183af:
 translate spanish destitute1_scene2_9_df6496d3:
 
     # tengu "Юная жрица, сядьте, пожалуйста. У нас серьёзный спор, нам не до ваших игр."
-    tengu "Joven sacerdotisa, por favor siéntese. Este es un conflicto serio; no tenemos tiempo para sus juegos."
+    tengu "Joven sacerdotisa, por favor siéntese. Este es un conflicto serio, no tenemos tiempo para sus juegos."
 
 # game/script/destitute_chapter/day1/scene2_9.rpy:79
 translate spanish destitute1_scene2_9_5a0c167c:
@@ -304,7 +304,7 @@ translate spanish destitute1_scene2_9_da4ef65b:
 translate spanish destitute1_scene2_9_b0c31a4f:
 
     # yuk "Всё гениальное просто в своей сути, не забывайте об этом!"
-    yuk "Las grandes ideas siempre son simples en su esencia; ¡no lo olviden!"
+    yuk "Las grandes ideas siempre son simples en su esencia, ¡no lo olviden!"
 
 # game/script/destitute_chapter/day1/scene2_9.rpy:120
 translate spanish destitute1_scene2_9_750ed70b:
@@ -358,7 +358,7 @@ translate spanish destitute1_scene2_9_a386ba7d:
 translate spanish destitute1_scene2_9_3ff4ff77:
 
     # "???" "Рейму, ты большая молодец! Благодаря тебе, теперь все будут играть, как друзья!"
-    "???" "¡Reimu, hiciste un gran trabajo! Gracias a ti, ahora todos jugarán como amigos."
+    "???" "¡Reimu, hiciste un gran trabajo! ¡Gracias a ti, ahora todos jugarán como amigos."
 
 # game/script/destitute_chapter/day1/scene2_9.rpy:138
 translate spanish destitute1_scene2_9_c93aeb73:

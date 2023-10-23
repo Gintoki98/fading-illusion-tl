@@ -196,7 +196,7 @@ translate spanish prologue_scene_7_e760fcdf:
 translate spanish prologue_scene_7_7803baf1:
 
     # sum "И почему ты так решила?"
-    sum "¿Y por qué decidiste eso?"
+    sum "¿Y por qué pensaste eso?"
 
 # game/script/prologue/scene7.rpy:352
 translate spanish prologue_scene_7_0423b1ec:
@@ -256,7 +256,7 @@ translate spanish prologue_scene_7_66dcf9b6:
 translate spanish prologue_scene_7_81191a21:
 
     # moko "Хотя не понимаю, чего ты так туда хочешь — храм как храм."
-    moko "Aunque no entiendo por qué quieres ir allí, un templo es un templo."
+    moko "Aunque no entiendo por qué quieres ir allí, un santuario es un santuario."
 
 # game/script/prologue/scene7.rpy:433
 translate spanish prologue_scene_7_b4507b38:

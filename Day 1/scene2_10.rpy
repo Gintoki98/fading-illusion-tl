@@ -88,25 +88,25 @@ translate spanish destitute1_scene2_10_ccf9ad9a:
 translate spanish destitute1_scene2_10_ac879307:
 
     # mar "Хе-ей! А вот и я!"
-    mar "¡Hey! ¡Y aquí estoy!"
+    mar "¡Hey! ¡Ya llegué!"
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:202
 translate spanish destitute1_scene2_10_daa49ec3:
 
     # reisen "Простите, госпожа, она говорит, что у неё важные сведения!"
-    reisen "Perdón, señora; ¡dice que tiene información importante!"
+    reisen "Perdón, señora, ¡dice que tiene información importante!"
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:204
 translate spanish destitute1_scene2_10_2126b2aa:
 
     # mar "Всё путём! Сумиреко не переправляли через реку, её душу вообще там не замечали!"
-    mar "¡Todo está bien! ¡No llevaron a Sumireko al otro lado del río; su alma no fue vista allí en absoluto!"
+    mar "¡Todo está bien! ¡No llevaron a Sumireko al otro lado del río, su alma no fue vista allí en absoluto!"
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:213
 translate spanish destitute1_scene2_10_e2a1dbb9:
 
     # rei "Хвала богам! Тогда, наверно, она вернулась в своё настоящее тело!"
-    rei "¡Alaben a los dioses! Entonces su alma debe haber regresado a su cuerpo real."
+    rei "¡Alabados sean los dioses! Entonces su alma debe haber regresado a su cuerpo real."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:215
 translate spanish destitute1_scene2_10_08c0e5f6:
@@ -232,7 +232,7 @@ translate spanish destitute1_scene2_10_f570dad3:
 translate spanish destitute1_scene2_10_a9bddc91:
 
     # "Господи...{w} Господи...{w} Господи...{w} С чем же они столкнулись?.."
-    "Señor...{w} Señor...{w} Señor...{w} ¿Con qué se están enfrentando?.."
+    "Dios...{w} Dios...{w} Dios...{w} ¿Con qué se están enfrentando?.."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:340
 translate spanish destitute1_scene2_10_11d843bb:
@@ -286,7 +286,7 @@ translate spanish destitute1_scene2_10_b603e242:
 translate spanish destitute1_scene2_10_acfe2018:
 
     # eirin "Возможно, Футацуиве-сан не посчастливилось встретить один из подобных случаев."
-    eirin "Quizás, la señorita Futatsuiwa tuvo la mala suerte de encontrarse con uno de estos pecadores."
+    eirin "Quizás, Futatsuiwa-san tuvo la mala suerte de encontrarse con uno de estos pecadores."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:402
 translate spanish destitute1_scene2_10_1c8bec6c:
@@ -322,7 +322,7 @@ translate spanish destitute1_scene2_10_2b489509:
 translate spanish destitute1_scene2_10_eecd165f:
 
     # rei "Клаунпис? Да ну, не!"
-    rei "¡Clownpiece? ¡De ninguna manera!"
+    rei "¿Clownpiece? ¡De ninguna manera!"
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:448
 translate spanish destitute1_scene2_10_61ff804c:
@@ -346,7 +346,7 @@ translate spanish destitute1_scene2_10_d446436e:
 translate spanish destitute1_scene2_10_4f6cc80b:
 
     # mar "Да, но мало ли! Надо её допросить хотя бы, она же может что-то знать."
-    mar "Sí, ¡pero no importa! Deberíamos, al menos, interrogarla; podría saber algo."
+    mar "Sí, ¡pero no importa! Deberíamos, al menos, interrogarla, podría saber algo."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:476
 translate spanish destitute1_scene2_10_b8db652a:
@@ -382,7 +382,7 @@ translate spanish destitute1_scene2_10_812a1bdf:
 translate spanish destitute1_scene2_10_7562cc35:
 
     # eirin "Безопаснее всего будет просто погрузить её в сон, иначе рискуем повредить мозг. Удонге, понизь её мозговую активность так, чтобы она уснула до утра."
-    eirin "Lo más seguro sería simplemente ponerla a dormir; de lo contrario, corremos el riesgo de dañar su cerebro. Udonge, reduce su actividad cerebral para que se duerma antes de la mañana."
+    eirin "Lo más seguro sería simplemente ponerla a dormir, de lo contrario, corremos el riesgo de dañar su cerebro. Udonge, reduce su actividad cerebral para que se duerma antes de la mañana."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:521
 translate spanish destitute1_scene2_10_5043331f:
@@ -424,7 +424,7 @@ translate spanish destitute1_scene2_10_ce985e6a:
 translate spanish destitute1_scene2_10_fc151b09:
 
     # reisen "Но она должна быть в порядке, я сделала всё осторожно."
-    reisen "Pero debería estar bien; hice todo con cuidado."
+    reisen "Pero debería estar bien, hice todo con cuidado."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:553
 translate spanish destitute1_scene2_10_d2710279:
@@ -768,7 +768,7 @@ translate spanish destitute1_scene2_10_79c1ccae:
 translate spanish destitute1_scene2_10_502e73fd:
 
     # eirin "Безопаснее всего будет просто погрузить её в сон, иначе рискуем повредить мозг."
-    eirin "Lo más seguro sería simplemente ponerla a dormir; de lo contrario, corremos el riesgo de dañar su cerebro."
+    eirin "Lo más seguro sería simplemente ponerla a dormir, de lo contrario, corremos el riesgo de dañar su cerebro."
 
 # game/script/destitute_chapter/day1/scene2_10.rpy:612
 translate spanish destitute1_scene2_10_164fa315:

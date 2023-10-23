@@ -214,7 +214,7 @@ translate spanish destitute1_scene3_6_56a2ed2b:
 translate spanish destitute1_scene3_6_e77a6b48:
 
     # bake "Что?.. Я н-не знаю! Н-наверно..." ПОВТОР ПЕРЕВОДА ИЗ 2_6
-    bake "¿Q-qué?.. Y-yo no sé! S-supongo..."
+    bake "¿Q-qué?.. ¡Y-yo no sé! S-supongo..."
 
 # game/script/destitute_chapter/day1/scene3_6.rpy:291
 translate spanish destitute1_scene3_6_f8987704:
@@ -292,7 +292,7 @@ translate spanish destitute1_scene3_6_e33002f6:
 translate spanish destitute1_scene3_6_bebfbd5b:
 
     # rei "Подошли к Мамидзо!"
-    rei "¡Vayan a Mamizou!"
+    rei "¡Acérquense a Mamizou!"
 
 # game/script/destitute_chapter/day1/scene3_6.rpy:345
 translate spanish destitute1_scene3_6_925e2217:

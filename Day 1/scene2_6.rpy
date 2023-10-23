@@ -94,7 +94,7 @@ translate spanish destitute1_scene2_6_fb08bafe:
 translate spanish destitute1_scene2_6_ac72a63e:
 
     # rei "К-как?! СУМИРЕКО!!!"
-    rei "¡¿C-cómo?! ¡SUMIREKO!!!"
+    rei "¡¿C-cómo?! ¡¡¡SUMIREKO!!!"
 
 # game/script/destitute_chapter/day1/scene2_6.rpy:184
 translate spanish destitute1_scene2_6_8c6000c9:
@@ -220,7 +220,7 @@ translate spanish destitute1_scene2_6_56a2ed2b:
 translate spanish destitute1_scene2_6_e77a6b48:
 
     # bake "Что?.. Я н-не знаю! Н-наверно..."
-    bake "¿Q-qué?.. Y-yo no sé! S-supongo..."
+    bake "¿Q-qué?.. ¡Y-yo no sé! S-supongo..."
 
 # game/script/destitute_chapter/day1/scene2_6.rpy:292
 translate spanish destitute1_scene2_6_f8987704:
@@ -268,7 +268,7 @@ translate spanish destitute1_scene2_6_5ecfb96f:
 translate spanish destitute1_scene2_6_445caf4e:
 
     # "Действительно, мстительный дух вполне мог овладеть слабым ёкаем и использовать его как оружие для мести, но Рейму с трудом представляла, сколько духов потребовалось бы для ёкая уровня Мамидзо."
-    "En efecto, un espíritu vengativo podría bien poseer a un youkai débil y usarlo como arma para vengarse, pero Reimu tenía dificultades para imaginar cuántos espíritus se necesitarían para someter a un youkai de nivel Mamizou."
+    "En efecto, un espíritu vengativo podría bien poseer a un youkai débil y usarlo como arma para vengarse, pero Reimu tenía dificultades para imaginar cuántos espíritus se necesitarían para someter a un youkai del nivel de Mamizou."
 
 # game/script/destitute_chapter/day1/scene2_6.rpy:335
 translate spanish destitute1_scene2_6_28616794:
@@ -406,7 +406,7 @@ translate spanish destitute1_scene2_6_50b4c9ca:
 translate spanish destitute1_scene2_6_6ec13c84:
 
     # rei "Хватай её и летим в Эйентей, объясню всё по дороге!"
-    rei "¡Agárrala y volamos a Eientei; te explicaré en el camino!"
+    rei "¡Agárrala y volamos a Eientei, te explicaré en el camino!"
 
 # game/script/destitute_chapter/day1/scene2_6.rpy:478
 translate spanish destitute1_scene2_6_e357e92b:
@@ -466,7 +466,7 @@ translate spanish destitute1_scene2_6_55c97dd5:
 translate spanish destitute1_scene2_6_a7e6ec6f:
 
     # "Рейму присела на корточки и перекинула её через плечо, подхватив за ноги. Как ни странно, Сумиреко оказалась совсем лёгкой, наверное, и сорока килограммов не будет. Рейму тряхнула труп так, чтобы он не соскользнул с плеча во время полёта."
-    "Reimu se agachó y la arrojó sobre su hombro, levantándola por los pies. Extrañamente, Sumireko era bastante ligera, probablemente ni siquiera llegaba a noventa libras. Reimu sacudió el cadáver para que no se deslizara de su hombro mientras volaba."
+    "Reimu se agachó y la arrojó sobre su hombro, agarrándola por los pies. Extrañamente, Sumireko era bastante ligera, probablemente ni siquiera llegaba a noventa libras. Reimu sacudió el cadáver para que no se deslizara de su hombro mientras volaba."
 
 translate spanish strings:
 

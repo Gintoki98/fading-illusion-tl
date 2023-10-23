@@ -629,7 +629,7 @@ Désormais, Mokou aide les villageois à trouver leur chemin au travers de la Fo
 
             "text_spanish": """Fujiwara no Mokou es una inmortal Hourai, que anteriormente fue humana.
 
-Mokou nació alrededor del año 700 EC en una de las nobles familias de Japón, los Fujiwara. Tiene una larga enemistad con Kaguya Houraisan, otra inmortal Hourai. A una temprana edad, Mokou robó y bebió el Elixir Hourai para vengarse de Kaguya por la vergüenza que infligió al clan Fujiwara. Después de volverse inmortal, Mokou vagó sola por el mundo durante mucho tiempo hasta que entró por error en Gensokyo y se encontró nuevamente con Kaguya. Durante varios cientos de años, se han matado casi a diario en luchas mortales, pero no tanto por la enemistad duradera como por el deseo de dar emoción a sus vidas interminables con al menos una muerte momentánea.
+Mokou nació alrededor del año 700 DC en una de las nobles familias de Japón, los Fujiwara. Tiene una larga enemistad con Kaguya Houraisan, otra inmortal Hourai. A una temprana edad, Mokou robó y bebió el Elixir Hourai para vengarse de Kaguya por la vergüenza que infligió al clan Fujiwara. Después de volverse inmortal, Mokou vagó sola por el mundo durante mucho tiempo hasta que entró por error en Gensokyo y se encontró nuevamente con Kaguya. Durante varios cientos de años, se han matado casi a diario en luchas mortales, pero no tanto por la enemistad duradera como por el deseo de dar emoción a sus vidas interminables con al menos una muerte momentánea.
 
 Hoy en día, Mokou ayuda a los aldeanos a abrirse camino a través del Bosque de Bambú, que ha explorado de arriba a abajo durante cientos de años; ocasionalmente también se dedica al comercio de pollo frito. Su estilo de vida es extremadamente ascético, ya que de todos modos no podrá morir por completo. A veces llega al extremo de ser demasiado perezosa para encender la estufa en invierno y se congela hasta morir, solo para resucitar algún tiempo después. Esto es algo extraño, considerando que es una maestra de la magia del fuego y puede quemar todo un bosque con sus habilidades.""",
 
@@ -1025,7 +1025,7 @@ Elle vivait à l'origine dans le Monde Extérieur avec Kanako Yasaka et Suwako M
 
 Son travail est similaire à celui de Reimu : Sanae maintient le sanctuaire, vend des amulettes, et prend même part à la résolution d'incidents. Il lui arrive cependant de parfois trop compter sur les pouvoirs de Kanako et Suwako, n'ayant pas de grands pouvoirs par elle-même. Sanae est une lointaine descendante de Suwako Moriya, et à ce titre a hérité de certaines capacités. Lorsqu'elle dispose de suffisamment de foi et de volonté elle est alors capable de causer des miracles, ce qui lui demande cependant beaucoup de temps et d'énergie.""",
 
-            "text_spanish": """Sanae Kochiya es una sacerdotisa en el Templo Moriya.
+            "text_spanish": """Sanae Kochiya es una sacerdotisa en el Santuario Moriya.
 
 Originalmente vivía en el Mundo Exterior junto con Kanako Yasaka y Suwako Moriya, pero ella \"se trasladó\" a Gensokyo cuando lo hicieron. Ella considera todo lo que sucede en Gensokyo como una especie de juego y se adaptó muy rápidamente al nuevo y extraño entorno, lo cual es muy raro para los humanos del Mundo Exterior.
 
@@ -1783,7 +1783,7 @@ Malgé les objets uniques qu'il propose, Kourindou ne reçoit pratiquement jamai
 
             "text_top_spanish": """Kourindou es una tienda de antigüedades situada entre la Aldea Humana y el Bosque de la Magia. Rinnosuke Morichika construyó este lugar cuando dejó su trabajo en el negocio del padre de Marisa Kirisame.
 
-A pesar de su oferta única de artículos, Kourindou casi nunca está ocupado con clientes: la mayoría de los aldeanos no necesitan las cosas que se venden allí, y hay muy pocos aficionados ricos a los chucherías del Mundo Exterior entre los humanos.""",
+A pesar de su oferta única de artículos, Kourindou casi nunca está ocupado con clientes: la mayoría de los aldeanos no necesitan las cosas que se venden allí, y hay muy pocos aficionados ricos a las chucherías del Mundo Exterior entre los humanos.""",
 
             "text_bottom_spanish": "Aun así, Rinnosuke gana lo suficiente para mantenerse, así que no tiene planes de cerrar la tienda en un futuro cercano.",
 
@@ -1846,7 +1846,7 @@ Apparemment, au moins plusieurs centaines de personnes vivent dans le village : 
 
             "text_bottom_spanish": """(no beneficia a los youkai) y es más probable que el pueblo sea gobernado de forma colectiva.
 
-Aparentemente, al menos varias centenas de personas viven en la aldea: es lo suficientemente grande como para tener una escuela en funcionamiento, varios bares, muchas tiendas y tiendas. Además, varias familias aristocráticas destacan entre la población del pueblo.""",
+Aparentemente, al menos varias centenas de personas viven en la aldea: es lo suficientemente grande como para tener una escuela en funcionamiento, varios bares, muchas bodegas y tiendas. Además, varias familias aristocráticas destacan entre la población del pueblo.""",
 
             "text_top_portuguese": """A Vila Humana é o único grande aglomerado de humanos em Gensokyo. Apesar do nome, se pode encontrar muitos youkai disfarçados de humanos aqui. Na vila, os youkai não podem atacar as pessoas ou causar problemas para elas, mas uma vez fora dos limites da civilização, eles têm mais liberdade. Os humanos de Gensokyo não têm um líder""",
 

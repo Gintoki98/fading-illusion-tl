@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2022-08-27 18:12
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:12
     old "Рейму"
@@ -51,14 +51,14 @@ translate english strings:
     new "Sanae"
 # TODO: Translation updated at 2022-10-31 16:42
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:43
     old "{size=50}Это фанатская игра по вселенной Touhou Project.\nВсе права принадлежат Team Shanghai Alice.{/size}"
-    new "{size=50}This is a fan game based on the Touhou Project.\nAll rights reserved by Team Shanghai Alice.{/size}"
+    new "{size=50}Este es un juego hecho por fans basado en el Proyecto Touhou. \nTodos los derechos reservados por Team Shanghai Alice.{/size}"
 # TODO: Translation updated at 2023-04-14 21:01
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:24
     old "Кокоро"
@@ -94,7 +94,7 @@ translate english strings:
 
     # game/script.rpy:34
     old "Кролик"
-    new "Rabbit"
+    new "Coneja"
 
     # game/script.rpy:35
     old "Тэнгу"
@@ -110,7 +110,7 @@ translate english strings:
 
 # TODO: Translation updated at 2023-07-05 04:57
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:57
     old "Я хочу играть на Русском"
@@ -120,19 +120,22 @@ translate english strings:
     old "I want to play in English"
     new "I want to play in English"
 
+    # game/script.rpy:57
+    old "Quiero jugar en Español"
+    new "Quiero jugar en Español"
 
 
 # TODO: Translation updated at 2023-07-07 12:58
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:82
     old "{size=50}Внимание! Игра содержит сцены насилия и смерти и не рекомендуется лицам младше 16 лет!{/size}"
-    new "{size=50}Warning! The game contains scenes of violence and death and is not recommended for persons under 16 years old!{/size}"
+    new "{size=50}¡Atención! ¡El juego contiene escenas deviolencia y muerte por lo que no es recomendado para personas menores de 16 años!{/size}"
 
 # TODO: Translation updated at 2023-07-26 18:13
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:57
     old "Eu quero jogar em Português"
@@ -140,7 +143,7 @@ translate english strings:
 
 # TODO: Translation updated at 2023-08-31 11:34
 
-translate english strings:
+translate spanish strings:
 
     # game/script.rpy:54
     old "{font=fonts/SourceHanSansCN-Regular.otf}以简体中文开始{/font}"

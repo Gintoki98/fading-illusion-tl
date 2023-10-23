@@ -28,7 +28,7 @@ translate spanish prologue_scene_1_bbedca99:
 translate spanish prologue_scene_1_4748f2d8:
 
     # "Вот и сегодня она прохлаждалась около храмовых {a=show:prompt}{color=#d9f136}тории{/color}{/a}, подставив лицо тем редким потокам ветра, что долетали до неё."
-    "Hoy, como de costumbre, se relajaba cerca de las {a=show:prompt}{color=#d9f136}torii{/color}{/a} del santuario, dejando que los raros soplos de viento le acariciaran el rostro."
+    "Hoy, como de costumbre, se relajaba cerca de las {a=show:prompt}{color=#d9f136}torii{/color}{/a} del santuario, dejando que la escasa brisa del viento acariciara su rostro."
 
 # game/script/prologue/scene1.rpy:99
 translate spanish prologue_scene_1_d4ee6c28:
@@ -58,7 +58,7 @@ translate spanish prologue_scene_1_931f1272:
 translate spanish prologue_scene_1_92fdd004:
 
     # "Рейму, впрочем, не подскочила от испуга, как следовало бы сделать, а лишь развела руками."
-    "Sin embargo, Reimu no dio un respingo de miedo, como se podría esperar, simplemente extendió las manos."
+    "Sin embargo, Reimu no se asustó, como se podría esperar, simplemente extendió las manos."
 
 # game/script/prologue/scene1.rpy:120
 translate spanish prologue_scene_1_6a36d5af:

@@ -184,7 +184,7 @@ translate spanish prologue_scene_3_547995d1:
 translate spanish prologue_scene_3_36fd3b70:
 
     # sum "Помню, как-то видела один фильм ужасов, в котором маньяк убивал людей внутри снов, но они умирали на самом деле."
-    sum "Recuerdo haber visto una película de terror una vez en la que un maníaco mataba a la gente en sus sueños, pero realmente morían."
+    sum "Recuerdo haber visto una película de terror una vez en la que un maníaco mataba a la gente en sus sueños, pero morían en la realidad."
 
 # game/script/prologue/scene3.rpy:340
 translate spanish prologue_scene_3_135b6960:
@@ -196,7 +196,7 @@ translate spanish prologue_scene_3_135b6960:
 translate spanish prologue_scene_3_ec930f1a:
 
     # sum "Что вижу?"
-    sum "¿Qué veo?"
+    sum "¿Ver qué?"
 
 # game/script/prologue/scene3.rpy:366
 translate spanish prologue_scene_3_50331078:
@@ -250,7 +250,7 @@ translate spanish prologue_scene_3_4fb2ed52:
 translate spanish prologue_scene_3_dd4ebb2a:
 
     # korin "А можешь тогда и мне один захватить, если не нужен?"
-    korin "¿Puedes traerme uno también, si no los necesitas?"
+    korin "¿Puedes traerme uno también, si no lo necesitas?"
 
 # game/script/prologue/scene3.rpy:441
 translate spanish prologue_scene_3_3542239e:
@@ -262,7 +262,7 @@ translate spanish prologue_scene_3_3542239e:
 translate spanish prologue_scene_3_708c14f2:
 
     # "Несколько лет назад, когда Ринноске познакомился с Сумиреко и узнал про её способности, то он попробовал извлечь из них прибыль и начал продавать в Кориндо смартфоны, планшеты и прочие прелести XXI века."
-    "Hace unos años, cuando Rinnosuke conoció a Sumireko y descubrió sus habilidades, intentó obtener beneficios de ellas y comenzó a vender en Kourindou smartphones, tablets y otras maravillas del siglo XXI."
+    "Hace unos años, cuando Rinnosuke conoció a Sumireko y descubrió sus habilidades, intentó obtener beneficios de ella y comenzó a vender en Kourindou celulares inteligentes, tabletas y otras maravillas del siglo XXI."
 
 # game/script/prologue/scene3.rpy:445
 translate spanish prologue_scene_3_953f61dd:
@@ -274,7 +274,7 @@ translate spanish prologue_scene_3_953f61dd:
 translate spanish prologue_scene_3_a71a5c6a:
 
     # "Но после того случая Рейму строго-настрого запретила Ринноске пытаться делать деньги подобным образом."
-    "Pero después de ese incidente, Reimu prohibió enfáticamente a Rinnosuke intentar hacer dinero de esa manera."
+    "Pero después de ese incidente, Reimu prohibió terminantemente a Rinnosuke intentar hacer dinero de esa manera."
 
 # game/script/prologue/scene3.rpy:454
 translate spanish prologue_scene_3_390b8232:
@@ -286,7 +286,7 @@ translate spanish prologue_scene_3_390b8232:
 translate spanish prologue_scene_3_16d63f90:
 
     # rei "Не вздумай опять продавать технику из Внешнего мира, в Генсокё она не нужна."
-    rei "No te atrevas a vender nuevamente tecnología del Mundo Exterior, no la necesitamos en Gensokyo."
+    rei "No te atrevas a vender de nuevo tecnología del Mundo Exterior, no la necesitamos en Gensokyo."
 
 # game/script/prologue/scene3.rpy:467
 translate spanish prologue_scene_3_37947622:
@@ -328,7 +328,7 @@ translate spanish prologue_scene_3_b9580803:
 translate spanish prologue_scene_3_f78f0e3b:
 
     # "Процесс поедания данго прервала Мариса, которая показалась из-за угла."
-    "El proceso de comer dango fue interrumpido por Marisa, quien apareció desde detrás de la esquina."
+    "El proceso de comer dangos fue interrumpido por Marisa, quien apareció desde detrás de la esquina."
 
 # game/script/prologue/scene3.rpy:532
 translate spanish prologue_scene_3_882b6054:
@@ -340,7 +340,7 @@ translate spanish prologue_scene_3_882b6054:
 translate spanish prologue_scene_3_5e36222e:
 
     # sum "Какие сёстры?"
-    sum "¿Qué hermanas?"
+    sum "¿Cuáles hermanas?"
 
 # game/script/prologue/scene3.rpy:547
 translate spanish prologue_scene_3_bba00dbc:
@@ -364,13 +364,13 @@ translate spanish prologue_scene_3_e208ee28:
 translate spanish prologue_scene_3_e215d26a:
 
     # sum "Ты же не против?"
-    sum "¿No te molesta, verdad?"
+    sum "¿No estas en contra, verdad?"
 
 # game/script/prologue/scene3.rpy:597
 translate spanish prologue_scene_3_4f72a78d:
 
     # "Рейму опустошила очередную чашку и убрала бутылку обратно за пазуху. Поскольку с завтрашней встречей всё решили, оставалось только проследить за Сумиреко до конца дня."
-    "Reimu vació otra copa y guardó la botella de nuevo en su bolsillo. Dado que ya habían acordado todo para la reunión del día siguiente, solo les quedaba seguir a Sumireko hasta el final del día."
+    "Reimu bebió otra copa y guardó la botella de nuevo en su bolsillo. Dado que ya habían acordado todo para la reunión del día siguiente, solo le quedaba seguir a Sumireko hasta el final del día."
 
 # game/script/prologue/scene3.rpy:603
 translate spanish prologue_scene_3_ae7d8136:
@@ -382,7 +382,7 @@ translate spanish prologue_scene_3_ae7d8136:
 translate spanish prologue_scene_3_bc2c5e1c:
 
     # "Действительно, почему бы и нет? Праздник всё-таки."
-    "¿De hecho, porqué no? Después de todo, es un festival."
+    "¿De hecho, porqué no? Después de todo, es un día festivo."
 
 translate spanish strings:
 
@@ -392,7 +392,7 @@ translate spanish strings:
 
     # game/script/prologue/scene3.rpy:71
     old "День, через несколько минут"
-    new "Día, unos minutos desoués"
+    new "Día, unos minutos después"
 
     # game/script/prologue/scene3.rpy:530
     old "Ансамбль Хоризмривер — музыкальный квартет, образовавшийся из трио сестёр Призмривер и Райко Хорикавы."

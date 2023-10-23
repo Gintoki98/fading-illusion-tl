@@ -160,7 +160,7 @@ translate spanish destitute1_scene1_1_ed5a79be:
 translate spanish destitute1_scene1_1_dfccd85c:
 
     # rei "Привет."
-    rei "Hola"
+    rei "Hola."
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:240
 translate spanish destitute1_scene1_1_87c10be2:
@@ -184,7 +184,7 @@ translate spanish destitute1_scene1_1_592a7f8b:
 translate spanish destitute1_scene1_1_2dbc4e00:
 
     # naz "Сахар ещё не принадлежит ей, она даже не расплатилась! Это нарушение прав потребителя!"
-    naz "¡El azúcar no le pertenece todavía; ni siquiera ha pagado por ello! ¡Esto es una violación de los derechos del invitado!"
+    naz "¡El azúcar no le pertenece todavía, ni siquiera ha pagado por ello! ¡Esto es una violación de los derechos del invitado!"
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:257
 translate spanish destitute1_scene1_1_27c31676:
@@ -250,7 +250,7 @@ translate spanish destitute1_scene1_1_247eeedf:
 translate spanish destitute1_scene1_1_d3fddbea:
 
     # rei "А то...{fast} что если ещё хоть раз попробуешь угрожать кому-то в этой деревне — будешь искать арахис на помойках, понятно?!"
-    rei "De lo contrario... {fast} si vuelves a intentar amenazar a alguien en este pueblo, estarás buscando maní en los botes de basura, ¿entendido?!"
+    rei "De lo contrario... {fast} si vuelves a intentar amenazar a alguien en este pueblo, estarás buscando maní en los botes de basura, ¡¿entendido?!"
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:358
 translate spanish destitute1_scene1_1_039bce76:
@@ -274,13 +274,13 @@ translate spanish destitute1_scene1_1_db5d5300:
 translate spanish destitute1_scene1_1_d53c9aea:
 
     # _("Пекарь") "Ой-ой..."
-    ("Panadero") "Oh-oh..."
+    ("Panadero") "O-oye..."
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:385
 translate spanish destitute1_scene1_1_e9b2a2b7:
 
     # _("Пекарь") "Надеюсь, у меня теперь не будет проблем, Хакурей-сан?"
-    ("Panadero") "Espero ya no tener más problemas, Hakurei-san."
+    ("Panadero") "¿Esto no me traerá más problemas, Hakurei-san?"
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:393
 translate spanish destitute1_scene1_1_6f5ce06b:
@@ -292,7 +292,7 @@ translate spanish destitute1_scene1_1_6f5ce06b:
 translate spanish destitute1_scene1_1_546e97e1:
 
     # _("Пекарь") "Уф-ф... Спасибо вам огромное."
-    ("Panadero") "Ah... Tienes mi gratitud"
+    ("Panadero") "Ufff... Tienes mi gratitud."
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:409
 translate spanish destitute1_scene1_1_7aa396a0:

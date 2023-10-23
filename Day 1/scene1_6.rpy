@@ -232,7 +232,7 @@ translate spanish destitute1_scene1_6_1d4b15fd:
 translate spanish destitute1_scene1_6_47504cdf:
 
     # rei "Только не мешайте им, это очень важно, хорошо?"
-    rei "Simplemente no te interpongas en su camino; es muy importante, ¿vale?"
+    rei "Simplemente no te interpongas en su camino, es muy importante, ¿vale?"
 
 # game/script/destitute_chapter/day1/scene1_6.rpy:237
 translate spanish destitute1_scene1_6_83f9b484:

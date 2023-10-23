@@ -10,7 +10,7 @@ translate spanish destitute1_scene3_7_51c52fce:
 translate spanish destitute1_scene3_7_0661e5f9:
 
     # rei "Всё в порядке! Просто пара глупых баке-дануки подрались из-за бутыли сакэ! Я их приструнила, никакой опасности нет!"
-    rei "¡Todo está bien! ¡Son solo un par de tontas bake-danuki peleando por una botella de sake! Me encargué de ellas; no hay peligro."
+    rei "¡Todo está bien! ¡Son solo un par de tontas bake-danuki peleando por una botella de sake! Me encargué de ellas, no hay peligro."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:26
 translate spanish destitute1_scene3_7_85cd40c5:
@@ -70,7 +70,7 @@ translate spanish destitute1_scene3_7_03ee319f:
 translate spanish destitute1_scene3_7_391d42e2:
 
     # rei "Никому не говори, не нужно пугать людей. Сейчас важнее всего благополучно отправить их по домам."
-    rei "No le digas a nadie; no queremos asustar a la gente. Lo más importante ahora es enviarlos a sus casas de manera segura."
+    rei "No le digas a nadie, no queremos asustar a la gente. Lo más importante ahora es enviarlos a sus casas de manera segura."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:100
 translate spanish destitute1_scene3_7_73ecaa8c:
@@ -82,7 +82,7 @@ translate spanish destitute1_scene3_7_73ecaa8c:
 translate spanish destitute1_scene3_7_b2f89f7c:
 
     # rei "Если до этого прилетит Мариса, то скажи ей, чтобы срочно оповестила яму в Хигане, что душа Сумиреко не подлежит перерождению, а потом летела в Эйентей, я буду ждать там."
-    rei "Si Marisa llega antes de eso, dile que informe urgentemente a la yama en Higan que el alma de Sumireko no está sujeta a la reencarnación, y luego vuela a Eientei; estaré esperando allí."
+    rei "Si Marisa llega antes de eso, dile que informe urgentemente a la yama en Higan que el alma de Sumireko no está sujeta a la reencarnación, y que luego vuele a Eientei, la estaré esperando allí."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:118
 translate spanish destitute1_scene3_7_871510ec:
@@ -100,7 +100,7 @@ translate spanish destitute1_scene3_7_d0e2b2db:
 translate spanish destitute1_scene3_7_8ac55f89:
 
     # rei "Спасибо, что помогаешь. И извини, что не вышло с пьянкой, повеселимся как-нибудь в другой раз."
-    rei "Gracias por ayudar. Y lamento que no haya funcionado la fiesta de bebida; nos divertiremos en otra ocasión."
+    rei "Gracias por ayudar. Y lamento que no haya funcionado la fiesta de bebida, nos divertiremos en otra ocasión."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:137
 translate spanish destitute1_scene3_7_847473b3:
@@ -112,7 +112,7 @@ translate spanish destitute1_scene3_7_847473b3:
 translate spanish destitute1_scene3_7_821f9e02:
 
     # "Впрочем, по прибытии её ждала удручающая картина: баке-дануки стояли всё там же, но Мамидзо среди них не было, а в барьере зияла огромная дыра."
-    "Sin embargo, al llegar, le esperaba una escena desalentadora: las bake-danuki seguían paradas allí, pero Mamizou no estaba entre ellas, y había un agujero enorme en la barrera."
+    "Sin embargo, al llegar, le esperaba una escena desalentadora: los bake-danuki seguían parados allí, pero Mamizou no estaba entre ellos, y había un agujero enorme en la barrera."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:141
 translate spanish destitute1_scene3_7_66885693:
@@ -208,7 +208,7 @@ translate spanish destitute1_scene3_7_4f4356b6:
 translate spanish destitute1_scene3_7_a15fa16a:
 
     # "Главное, что люди были под защитой, а всё остальное ждало. Оставалось только разобраться с баке-дануки."
-    "Lo más importante es que las personas estaban protegidas, y todo lo demás podía esperar. Lo único que quedaba era lidiar con las bake-danuki."
+    "Lo más importante es que las personas estaban protegidas, y todo lo demás podía esperar. Lo único que quedaba era lidiar con los bake-danuki."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:201
 translate spanish destitute1_scene3_7_08343e82:
@@ -287,7 +287,7 @@ translate spanish destitute1_scene3_7_55c97dd5:
 translate spanish destitute1_scene3_7_0237addf:
 
     # "Рейму присела на корточки и перекинула её через плечо, подхватив за ноги. Как ни странно, Сумиреко оказалась совсем лёгкой, наверное, и сорока килограмм не будет. Рейму тряхнула труп так, чтобы он не соскользнул с плеча во время полёта." ПОВТОР ПЕРЕВОДА ИЗ 2_6
-    "Reimu se agachó y la arrojó sobre su hombro, levantándola por los pies. Extrañamente, Sumireko era bastante ligera, probablemente ni siquiera llegaba a noventa libras. Reimu sacudió el cadáver para que no se deslizara de su hombro mientras volaba."
+    "Reimu se agachó y la arrojó sobre su hombro, agarrándola por los pies. Extrañamente, Sumireko era bastante ligera, probablemente ni siquiera llegaba a noventa libras. Reimu sacudió el cadáver para que no se deslizara de su hombro mientras volaba."
 # TODO: Translation updated at 2023-06-21 15:58
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:126
@@ -300,7 +300,7 @@ translate spanish destitute1_scene3_7_fb535b25:
 translate spanish destitute1_scene3_7_b1a22ae0:
 
     # rei "И извини, что не вышло с пьянкой, повеселимся как-нибудь в другой раз."
-    rei "Y lamento que no haya funcionado lo de beber; nos divertiremos en otro momento."
+    rei "Y lamento que no haya funcionado lo de beber, nos divertiremos en otro momento."
 
 # game/script/destitute_chapter/day1/scene3_7.rpy:166
 translate spanish destitute1_scene3_7_fdd3de4a:
@@ -350,5 +350,5 @@ translate spanish destitute1_scene3_7_6e0bced4:
 translate spanish destitute1_scene3_7_458f1427:
 
     # rei "Если до этого прилетит Мариса, то скажи ей, чтобы срочно оповестила {a=show:prompt}{color=#d9f136}яму{/color}{/a} в Хигане, что душа Сумиреко не подлежит перерождению, а потом летела в Эйентей, я буду ждать там."
-    rei "Si Marisa llega antes de eso, dile que notifique urgentemente a la {a=show:prompt}{color=#d9f136}yama{/color}{/a} en Higan que el alma de Sumireko no puede renacer, y luego vuela a Eientei; estaré esperando allí."
+    rei "Si Marisa llega antes de eso, dile que notifique urgentemente a la {a=show:prompt}{color=#d9f136}yama{/color}{/a} en Higan que el alma de Sumireko no puede renacer, y luego vuela a Eientei, estaré esperando allí."
 

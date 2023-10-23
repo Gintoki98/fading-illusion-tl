@@ -406,13 +406,13 @@ translate spanish prologue_scene_6_6c16228f:
 translate spanish prologue_scene_6_487ad782:
 
     # sum "Конечно! Рейму-ччи рассказала мне и о вашей силе!"
-    sum "¡Por supuesto! Reimu-chi me ha hablado de tu poder."
+    sum "¡Por supuesto! Reimucchi me ha hablado de tu poder."
 
 # game/script/prologue/scene6.rpy:764
 translate spanish prologue_scene_6_c3745202:
 
     # sak "Ну что ж, вы всё видели сами."
-    sak "Bueno, lo has visto todo tú misma."
+    sak "Bueno, ya lo has visto con tus propios ojos."
 
 # game/script/prologue/scene6.rpy:772
 translate spanish prologue_scene_6_f2a4df20:
@@ -424,7 +424,7 @@ translate spanish prologue_scene_6_f2a4df20:
 translate spanish prologue_scene_6_b9358efd:
 
     # korin "А как вам Бепис? Не хотите взять немного?"
-    korin "¿Y qué hay de Bepis? ¿Quieres tomar un poco?"
+    korin "¿Y qué hay de Bepis? ¿Quieres llevarte un poco?"
 
 # game/script/prologue/scene6.rpy:791
 translate spanish prologue_scene_6_6f384070:
@@ -568,7 +568,7 @@ translate spanish prologue_scene_6_5b62c6c8:
 translate spanish prologue_scene_6_3492167f:
 
     # sum "Рейму-ччи, наконец-то! Чего ты так долго?"
-    sum "¡Reimu-chi, finalmente! ¿Por qué te has tardado tanto?"
+    sum "¡Reimucchi, al fin! ¿Por qué te has tardado tanto?"
 
 # game/script/prologue/scene6.rpy:1024
 translate spanish prologue_scene_6_e7c860da:
@@ -610,7 +610,7 @@ translate spanish prologue_scene_6_1360cff1:
 translate spanish prologue_scene_6_2dda3666:
 
     # rei "Ей можно доверять, всё в порядке."
-    rei "Puedes confiar en ella, todo estará bien."
+    rei "Ella es confiable, todo estará bien."
 
 # game/script/prologue/scene6.rpy:1084
 translate spanish prologue_scene_6_1bf2775e:
@@ -712,7 +712,7 @@ translate spanish prologue_scene_6_ba82118e:
 translate spanish prologue_scene_6_40ae163e:
 
     # rei "Что это у тебя там за бурда стоит?"
-    rei "¿Qué tienes ahí guardado en tu bolsa?"
+    rei "¿Qué es eso que tienes que cuesta tanto?"
 
 # game/script/prologue/scene6.rpy:1220
 translate spanish prologue_scene_6_e48b5e16:
@@ -892,7 +892,7 @@ translate spanish prologue_scene_6_tell_true_e49ac46e:
 translate spanish prologue_scene_6_tell_true_deae0240:
 
     # "???" "Вы действительно хотите поговорить об этом?"
-    "???" "¿Realmente quieres hablar de esto?"
+    "???" "¿Realmente quieres hablar de aquello?"
 
 # game/script/prologue/scene6.rpy:1501
 translate spanish prologue_scene_6_tell_true_3ba32149:
@@ -934,7 +934,7 @@ translate spanish prologue_scene_6_tell_true_2001e050:
 translate spanish prologue_scene_6_tell_true_819bda2d:
 
     # "{i}Что-то{/i} внутри него тянулось, и тянулось, и тянулось..."
-    "{i}Algo{/i} dentro de él se estiraba y estiraba..."
+    "{i}Algo{/i} dentro de él se extendía y extendía..."
 
 # game/script/prologue/scene6.rpy:1615
 translate spanish prologue_scene_6_tell_true_37f0dc7d:
@@ -1072,7 +1072,7 @@ translate spanish prologue_scene_6_tell_true_e32d2f48:
 translate spanish prologue_scene_6_tell_true_cd38a669:
 
     # "Как только Рейму захлопнула за собой дверь, Ринноске с шумом выдохнул и упал на колени."
-    "Tan pronto como Reimu cerró la puerta tras de sí, Rinnosuke exhaló ruidosamente y se arrodilló."
+    "Tan pronto como Reimu cerró la puerta tras de sí, Rinnosuke exhaló ruidosamente y cayó de rodillas."
 
 # game/script/prologue/scene6.rpy:1797
 translate spanish prologue_scene_6_tell_true_db4a555f:
