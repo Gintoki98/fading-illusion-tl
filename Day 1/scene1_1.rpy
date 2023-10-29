@@ -412,7 +412,7 @@ translate spanish destitute1_scene1_1_01e8e5b2:
 translate spanish destitute1_scene1_1_595b717e:
 
     # "Оно и неудивительно – кому в здравом уме захочется менять великолепный вид, открывающийся с Горы ёкаев, на сомнительного вида клоунаду, которую тогда развела Рейму? Тем более в Новый год, который, как известно, как встретишь – так и проведёшь."
-    "No es sorprendente, ¿quién en su sano juicio querría cambiar la magnífica vista desde la Montaña Youkai por la dudosa bufonada que hizo Reimu en aquel entonces? Especialmente en Año Nuevo, que, como todos saben, es como se inicia el año."
+    "No es sorprendente, ¿quién en su sano juicio querría cambiar la magnífica vista desde la Montaña Youkai por la dudosa bufonada que hizo Reimu en aquel entonces? Especialmente que dependencia de como uno despide el año, se recibe el siguiente."
 
 # game/script/destitute_chapter/day1/scene1_1.rpy:550
 translate spanish destitute1_scene1_1_6d09a19b:
