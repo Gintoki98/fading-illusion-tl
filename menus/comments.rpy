@@ -18,7 +18,7 @@ translate spanish strings:
 
     # game/comments.rpy:7
     old "Нищая глава"
-    new "Capítulo indigente"
+    new "Capítulo desamparado"
 
 # TODO: Translation updated at 2023-07-05 04:57
 

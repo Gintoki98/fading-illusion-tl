@@ -52,7 +52,7 @@ translate spanish destitute1_scene2_7_8a4af9eb:
 translate spanish destitute1_scene2_7_26d978df:
 
     # rei "Тогда не знаю! Надо будет попросить Эйрин зашить это! В худшем случае попробуем уговорить ям оставить её с нами как призрака! Не так уж плохо, как могло бы быть!"
-    rei "¡No lo sé! Tendremos que pedirle a Eirin que lo resuelva. En el peor de los casos, intentaremos convencer a yama para que la mantengan con nosotros como un fantasma. No es tan malo como podría ser."
+    rei "¡No lo sé! Tendremos que pedirle a Eirin que lo resuelva. En el peor de los casos, intentaremos convencer a la yama para que la mantengan con nosotros como un fantasma. No es tan malo como podría ser."
 
 # game/script/destitute_chapter/day1/scene2_7.rpy:59
 translate spanish destitute1_scene2_7_daf325f1:
@@ -212,7 +212,7 @@ translate spanish destitute1_scene2_7_bc24fa2e:
 translate spanish destitute1_scene2_7_01b6689e:
 
     # rei "Тогда не знаю! Надо будет попросить Эйрин зашить это! В худшем случае попробуем уговорить {a=show:prompt}{color=#d9f136}ям{/color}{/a} оставить её с нами как призрака! Не так уж плохо, как могло бы быть!"
-    rei "¡No lo sé! Tendremos que pedirle a Eirin que arregle este. En el peor de los casos, intentaremos persuadir a {a=show:prompt}{color=#d9f136}yama{/color}{/a} para que la mantenga con nosotros como un fantasma. No es tan malo como podría ser."
+    rei "¡No lo sé! Tendremos que pedirle a Eirin que arregle este. En el peor de los casos, intentaremos persuadir a la{a=show:prompt}{color=#d9f136}yama{/color}{/a} para que la mantenga con nosotros como un fantasma. No es tan malo como podría ser."
 
 # game/script/destitute_chapter/day1/scene2_7.rpy:71
 translate spanish destitute1_scene2_7_41d5a186:
@@ -224,7 +224,7 @@ translate spanish strings:
 
     # game/script/destitute_chapter/day1/scene2_7.rpy:33
     old "Хиган — загробный мир, где души ожидают суда и приговора ямы."
-    new "Higan es el más allá donde las almas esperan el juicio y el veredicto de yama."
+    new "Higan es el más allá donde las almas esperan el juicio y el veredicto de la yama."
 
     # game/script/destitute_chapter/day1/scene2_7.rpy:43
     old "Ямы — судьи умерших, которые решают, куда отправится душа после смерти."

@@ -2,7 +2,7 @@
 
 translate spanish destitute1_scene1_13_c703777b:
     # "Наверное, имело смысл сперва слетать на Гору ёкаев: вход в Мир мёртвых был не так уж недалеко от дома Суйки на Небесах, а если они не помогут – всегда можно обратиться к Касэн, додзё которой стояло на одном из горных склонов."
-    "Probablemente tenía sentido ir primero a la Montaña Youkai: la entrada al Inframundo no estaba demasiado lejos del hogar de Suika en el Cielo, y si no podían ayudar, siempre podían recurrir a Kasen, cuyo dojo se encontraba en una de las laderas de la montaña."
+    "Probablemente tenía sentido ir primero a la Montaña Youkai: la entrada al Mundo de los Muertos no estaba demasiado lejos del hogar de Suika en el Cielo, y si no podían ayudar, siempre podían recurrir a Kasen, cuyo dojo se encontraba en una de las laderas de la montaña."
 
 translate spanish destitute1_scene1_13_6904b675:
     # "Путь до вершины оказался тяжелее, чем она предполагала. С тяжёлой отдышкой Рейму преодолела последнюю ступеньку лестницы к двум горным пикам, символизирующим «вход» на Небеса."

@@ -232,13 +232,13 @@ translate spanish destitute1_scene3_9_0c932df4:
 translate spanish destitute1_scene3_9_6076f5aa:
 
     # rei "Яму в Хигане должны были предупредить, что нельзя судить душу Сумиреко. У неё же есть ещё одно тело во Внешнем мире, и если оно целое, то технически она скорее спит."
-    rei "Las yamas en Higan ya deberían haber sido advertidas de no juzgar el alma de Sumireko. Ella tiene otro cuerpo en el Mundo Exterior, después de todo, y si está intacto, técnicamente, es más probable que Sumireko esté dormida."
+    rei "Los Yama en Higan ya deberían haber sido advertidas de no juzgar el alma de Sumireko. Ella tiene otro cuerpo en el Mundo Exterior, después de todo, y si está intacto, técnicamente, es más probable que Sumireko esté dormida."
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:376
 translate spanish destitute1_scene3_9_3713296b:
 
     # eirin "По-моему, возвращать души против правил. Я бы не рассчитывала, что ямы будут вас слушать." ПОВТОР ПЕРЕВОДА ИЗ 2_8
-    eirin "Creo que es contrario a las reglas traer almas de vuelta. No contaría con que Yama te escuche."
+    eirin "Creo que es contrario a las reglas traer almas de vuelta. No contaría con que la Yama te escuche."
 
 # game/script/destitute_chapter/day1/scene3_9.rpy:385
 translate spanish destitute1_scene3_9_e03a143d:

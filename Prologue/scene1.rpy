@@ -100,7 +100,7 @@ translate spanish prologue_scene_1_a8f03029:
 translate spanish prologue_scene_1_c272fcbe:
 
     # "Сейчас эта аура едва ли не щипала глаза, ведь перед Рейму сидел знаменитый ёкай границ — {a=showmenu:dictionary}{color=#df1818}Юкари Якумо{/color}{/a}, одна из Генсокийских мудрецов."
-    "En este momento, esta aura prácticamente pellizcaba los ojos, ya que frente a Reimu se encontraba el famoso Youkai de las Brechas, {a=showmenu:dictionary}{color=#df1818}Yukari Yakumo{/color}{/a}, una de las sabias de Gensokyo."
+    "En este momento, esta aura casi picaba los ojos, ya que frente a Reimu se encontraba el famoso Youkai de las Brechas, {a=showmenu:dictionary}{color=#df1818}Yukari Yakumo{/color}{/a}, una de las sabias de Gensokyo."
 
 # game/script/prologue/scene1.rpy:163
 translate spanish prologue_scene_1_a91e3803:
